@@ -1,5 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://blog.aihub2022.top'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '博客 | AI Hub 2022'
 
-theme = 'hugo-theme-learn'
+theme = 'hugo-theme-stack'
