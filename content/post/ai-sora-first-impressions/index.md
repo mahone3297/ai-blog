@@ -1,7 +1,10 @@
 +++
-title = 'Ai Sora First Impressions'
+title = '【AI Sora】初次印象，艺术家使用Sora创作的一些示例 | aihub2022.top'
+draft = false
 description = ''
 keywords = []
+description = 'Sora一经推出便引爆了网络。今天，我们向您展示了一些艺术家使用Sora创作的精彩示例，包括令人印象深刻的气球人短片。了解Sora如何与创意人士合作，将想法转化为现实，以及他们对这一过程的初步想法。'
+keywords = ["Sora", "AI", "艺术家", "创作", "示例", "气球人", "电影制作", "视觉艺术家", "设计师", "创意总监", "多媒体制作", "多领域艺术家"]
 +++
 
 上个月Sora一出来，就惊爆全网。
