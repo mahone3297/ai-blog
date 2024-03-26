@@ -5,6 +5,13 @@ title: '博客 | aihub2022.top'
 theme: 'hugo-theme-stack'
 
 params:
+  sidebar:
+      # emoji: 🍥
+      # subtitle: blog.aihub2022.top.
+      avatar:
+          enabled: true
+          local: true
+          src: img/ai.png
   article:
     math: false
     toc: true
