@@ -1,0 +1,43 @@
+baseURL: 'https://blog.aihub2022.top'
+languageCode: 'en-us'
+title: '博客 | aihub2022.top'
+
+theme: 'hugo-theme-stack'
+
+params:
+  article:
+    math: false
+    toc: true
+    readingTime: true
+  widgets:
+    homepage:
+      # - type: search
+      # - type: archives
+      #   params:
+      #     limit: 5
+      - type: categories
+        params:
+          limit: 10
+      - type: tag-cloud
+        params:
+          limit: 10
+    page:
+      - type: toc
+
+markup:
+    goldmark:
+        renderer:
+            ## Set to true if you have HTML content inside Markdown
+            unsafe: false
+    tableOfContents:
+        endLevel: 4
+        ordered: true
+        startLevel: 2
+    highlight:
+        noClasses: false
+        codeFences: true
+        guessSyntax: true
+        lineNoStart: 1
+        lineNos: true
+        lineNumbersInTable: true
+        tabWidth: 4

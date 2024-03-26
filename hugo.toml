@@ -1,8 +1,0 @@
-baseURL = 'https://blog.aihub2022.top'
-languageCode = 'en-us'
-title = '博客 | aihub2022.top'
-
-theme = 'hugo-theme-stack'
-
-# [markup.goldmark.renderer]
-# unsafe = true
