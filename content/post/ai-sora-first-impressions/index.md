@@ -64,5 +64,5 @@ Native Foreign是一家来自加利福尼亚州洛杉矶的艾美奖提名创意
 - [官网](https://openai.com/blog/sora-first-impressions)
 - 本文
     - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-sora-first-impressions/)
-    - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976689&idx=1&sn=52c16def1e1c077fb3772d91d018af37&chksm=86c7d5b4b1b05ca23caa12e046a7c30403324957e1088ddcd82b626d5803a4bce728c2af3b21#rd)
+    - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976689&idx=1&sn=52c16def1e1c077fb3772d91d018af37&chksm=86c7d5b4b1b05ca23caa12e046a7c30403324957e1088ddcd82b626d5803a4bce728c2af3b21#rd)
     - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137085537)
