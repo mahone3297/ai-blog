@@ -8,7 +8,9 @@ description = "MuseV是基于视觉条件并行去噪的无限长度和高保真
 keywords = ["MuseV", "虚拟人视频生成", "并行去噪", "扩散模型", "T2I", "IPAdapter", "文本到视频", "视频到视频", "图像处理"]
 +++
 
-。。。
+近日，腾讯推出了无限长度和高保真虚拟人视频生成框架 MuseV。
+
+官网链接在文末，文档已翻译成中文，大家可以自己搭建环境试下。
 
 ---
 
@@ -277,3 +279,8 @@ python app.py
 ---
 
 - [github](https://github.com/TMElyralab/MuseV)
+- [huggingface](https://huggingface.co/TMElyralab/MuseV)
+- 本文
+    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/musev-diffusion-based-virtual-human-video-generation-framework/)
+    - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976722&idx=1&sn=82100b88eaf4a134e9d4ab1198ea5f01&chksm=86c7d557b1b05c41a59b862e59888df2607faf735e64a037e72239ba555ae4c93d338766e98e&token=449037386&lang=zh_CN#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137186672)
