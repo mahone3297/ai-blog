@@ -1,5 +1,5 @@
 +++
-title = 'Announcing Grok 1.5 | aihub2022.top'
+title = 'Announcing Grok 1.5 | blog.aihub2022.top'
 date = 2024-03-30T23:52:03+08:00
 draft = false
 categories = ['AI', 'Grok']

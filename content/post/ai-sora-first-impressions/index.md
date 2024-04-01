@@ -1,5 +1,5 @@
 +++
-title = '【AI Sora】初次印象，艺术家使用Sora创作的一些示例 | aihub2022.top'
+title = '【AI Sora】初次印象，艺术家使用Sora创作的一些示例 | blog.aihub2022.top'
 draft = false
 categories = ['AI', 'Sora']
 tags = ['AI', 'OpenAI', 'Sora']
