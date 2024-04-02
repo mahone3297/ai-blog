@@ -47,10 +47,14 @@ keywords = ['AniPortrait', '腾讯', '动画合成', '音频驱动', '肖像动�
 {{< video src="https://github.com/Zejun-Yang/AniPortrait/assets/21038147/82c0f0b0-9c7c-4aad-bf0e-27e6098ffbe1" >}}
 {{< video src="https://github.com/Zejun-Yang/AniPortrait/assets/21038147/51a502d9-1ce2-48d2-afbe-767a0b9b9166" >}}
 
+[链接点这里](https://github.com/Zejun-Yang/AniPortrait?tab=readme-ov-file#self-driven)
+
 ### 面部重现
 
 {{< video src="https://github.com/Zejun-Yang/AniPortrait/assets/21038147/d4e0add6-20a2-4f4b-808c-530a6f4d3331" >}}
 {{< video src="https://github.com/Zejun-Yang/AniPortrait/assets/21038147/849fce22-0db1-4257-a75f-a5dc655e6b9e" >}}
+
+[链接点这里](https://github.com/Zejun-Yang/AniPortrait?tab=readme-ov-file#face-reenacment)
 
 视频来源：[鹿火CAVY来自bilibili](https://www.bilibili.com/video/BV1H4421F7dE/?spm_id_from=333.337.search-card.all.click)
 
@@ -61,6 +65,8 @@ keywords = ['AniPortrait', '腾讯', '动画合成', '音频驱动', '肖像动�
 {{< video src="https://github.com/Zejun-Yang/AniPortrait/assets/21038147/6fd74024-ba19-4f6b-b37a-10df5cf2c934" >}}
 {{< video src="https://github.com/Zejun-Yang/AniPortrait/assets/21038147/9e516cc5-bf09-4d45-b5e3-820030764982" >}}
 {{< video src="https://github.com/Zejun-Yang/AniPortrait/assets/21038147/7c68148b-8022-453f-be9a-c69590038197" >}}
+
+[链接点这里](https://github.com/Zejun-Yang/AniPortrait?tab=readme-ov-file#audio-driven)
 
 ## 安装
 
