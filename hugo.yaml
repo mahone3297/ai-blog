@@ -1,13 +1,31 @@
 baseURL: 'https://blog.aihub2022.top'
 languageCode: 'en-us'
-title: '博客 | aihub2022.top'
+title: '博客 | blog.aihub2022.top'
 
 theme: 'hugo-theme-stack'
 
+menus:
+  main:
+    - name: AI合集
+      url: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA3MDIyNTgzNA==&action=getalbum&album_id=3280266823330201601#wechat_redirect
+    - name: OpenAI 中文文档
+      url: https://openai-doc.aihub2022.top/
+  social:
+    # - name: twitter
+    #   url: https://twitter.com/mahone3297/
+    #   params:
+    #       icon: brand-twitter
+    - name: github
+      url: https://github.com/mahone3297/
+      params:
+          icon: brand-github
+
 params:
+  newTab: true
   sidebar:
+      compact: false
       # emoji: 🍥
-      # subtitle: blog.aihub2022.top.
+      subtitle: 关注我，带你一起AI
       avatar:
           enabled: true
           local: true
