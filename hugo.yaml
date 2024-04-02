@@ -5,11 +5,6 @@ title: '博客 | blog.aihub2022.top'
 theme: 'hugo-theme-stack'
 
 menus:
-  main:
-    - name: AI合集
-      url: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA3MDIyNTgzNA==&action=getalbum&album_id=3280266823330201601#wechat_redirect
-    - name: OpenAI 中文文档
-      url: https://openai-doc.aihub2022.top/
   social:
     # - name: twitter
     #   url: https://twitter.com/mahone3297/
@@ -19,6 +14,13 @@ menus:
       url: https://github.com/mahone3297/
       params:
           icon: brand-github
+  main:
+    - name: AI 合集
+      url: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA3MDIyNTgzNA==&action=getalbum&album_id=3280266823330201601#wechat_redirect
+    - name: coze 合集
+      url: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA3MDIyNTgzNA==&action=getalbum&album_id=3296371887652241411#wechat_redirect
+    - name: OpenAI 中文文档
+      url: https://openai-doc.aihub2022.top/
 
 params:
   newTab: true
