@@ -37,4 +37,4 @@ ChatGPT大幅降低使用门槛！不用注册什么账号，马上用！
     - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/openai-start-using-chatgpt-instantly/)
     - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976747&idx=1&sn=44021b5058a5a8138f5fa7cf8c3bbab0&chksm=86c7d56eb1b05c78f49366017e7fcb596f26f3f3b8232c53196d90d3da65a1c46cffba6ae6d8#rd)
     <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/690347376)
