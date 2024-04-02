@@ -1,5 +1,5 @@
 +++
-title = '{{ replace .File.ContentBaseName "-" " " | title }} | aihub2022.top'
+title = '{{ replace .File.ContentBaseName "-" " " | title }} | blog.aihub2022.top'
 date = {{ .Date }}
 draft = true
 categories = []
