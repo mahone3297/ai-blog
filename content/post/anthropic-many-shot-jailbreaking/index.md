@@ -1,5 +1,5 @@
 +++
-title = 'Anthropic 发表 Many Shot Jailbreaking 研究报告 | blog.aihub2022.top'
+title = '【AI Many-Shot-Jailbreaking】上下文窗口越大越危险 | blog.aihub2022.top'
 date = 2024-04-03T10:43:07+08:00
 draft = false
 categories = ['AI', 'Anthropic']
@@ -8,7 +8,7 @@ description = "Anthropic调查了一种名为“许多次破解监狱”的技�
 keywords = ["Anthropic", "多次破解监狱", "语言模型", "安全漏洞", "人工智能"]
 +++
 
-在人工智能的发展过程中，安全性问题逐渐引起了人们的关注。本文将介绍Anthropic公司对一种名为“许多次破解监狱”的技术的研究。这种技术可以用来规避大型语言模型（LLM）开发者设定的安全防护措施。我们将深入探讨这种技术的工作原理、可能产生的影响，以及如何采取有效的缓解措施。希望通过本文，能够帮助读者更好地理解人工智能安全性的重要性，以及如何防止潜在的安全风险。
+在人工智能的发展过程中，安全性问题逐渐引起了人们的关注。Anthropic公司发了一篇关于“许多次破解监狱”的技术研究。这种技术可以用来规避大型语言模型（LLM）开发者设定的安全防护措施。我们将深入探讨这种技术的工作原理、可能产生的影响，以及如何采取有效的缓解措施。希望通过本文，能够帮助读者更好地理解人工智能安全性的重要性，以及如何防止潜在的安全风险。
 
 ---
 
@@ -90,7 +90,7 @@ LLM的不断延长的上下文窗口是一把双刃剑。它让模型在各种�
 
 - [官网](https://www.anthropic.com/research/many-shot-jailbreaking)
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
-    <!-- - [微信 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/anthropic-many-shot-jailbreaking/)
+    - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976762&idx=1&sn=cde6403d313d26b79cbd7042c35ee0e4&chksm=86c7d57fb1b05c69101aa3bce70a6ea858624982417c8bd1868bfaf9d7034555d3d1afb26bd1#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137340597)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/690544426)
