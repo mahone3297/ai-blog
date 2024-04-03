@@ -1,5 +1,5 @@
 +++
-title = 'Aniportrait 介绍 | blog.aihub2022.top'
+title = 'AniPortrait 介绍 | blog.aihub2022.top'
 date = 2024-04-01T17:43:11+08:00
 draft = false
 categories = ['AI', 'AniPortrait']
@@ -10,7 +10,7 @@ keywords = ['AniPortrait', '腾讯', '动画合成', '音频驱动', '肖像动�
 
 之前阿里推出了EMO，效果很棒，但是并未给出源码。
 
-今天，腾讯放出了类似产品 AniPortrait，并开源。我们一起来看下
+最近，腾讯游戏知几团队放出了类似产品 AniPortrait，并开源。我们一起来看下。
 
 ---
 
@@ -26,7 +26,7 @@ keywords = ['AniPortrait', '腾讯', '动画合成', '音频驱动', '肖像动�
 
 在这里，我们提出了AniPortrait，一个新颖的框架，用于生成由音频和参考肖像图像驱动的高质量动画。您还可以提供视频来实现面部重现。
 
-<a href='https://arxiv.org/abs/2403.17694'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+[![Paper](https://img.shields.io/badge/Paper-Arxiv-red)](https://arxiv.org/abs/2403.17694)
 
 ## 流程
 
@@ -35,9 +35,7 @@ keywords = ['AniPortrait', '腾讯', '动画合成', '音频驱动', '肖像动�
 ## 待办事项
 
 - [x] 现在我们的论文已经在arXiv上发布了。
-
 - [x] 更新代码以生成pose_temp.npy，用于头部姿态控制。
-
 - [ ] 我们将在进一步优化后发布audio2pose预训练权重，用于音频到视频的转换。您可以在 `./configs/inference/head_pose_temp` 中选择头部姿态模板进行替换。
 
 ## 各种生成的视频
