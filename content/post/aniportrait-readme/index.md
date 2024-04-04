@@ -230,6 +230,6 @@ accelerate launch train_stage_2.py --config ./configs/train/stage2.yaml
 - [官网](https://github.com/Zejun-Yang/AniPortrait)
 - 本文
     - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/aniportrait-readme/)
-    <!-- - [微信 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
+    - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976763&idx=1&sn=e7b9ee2c8bdc90cf73725d03df6a5581&chksm=86c7d57eb1b05c68f3bebb63418b79d374220def4e7ff69072dcdcb35b62514f7773f61a7705#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137366473)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/690687456)
