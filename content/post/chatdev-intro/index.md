@@ -278,7 +278,7 @@ CPO把用户手册都写了。。。
 
 - [官网](https://github.com/OpenBMB/ChatDev)
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
-    <!-- - [微信 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/chatdev-intro/)
+    - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976783&idx=1&sn=9dfcac76ae2c0f7396f9e1e1b7efd5d4&chksm=86c7d50ab1b05c1c3364b27c364b04f2f1d3cd4992f1757c0d04f3a7aa566b2b317c274af342#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137424700)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/690921503)
