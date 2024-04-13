@@ -14,7 +14,7 @@ keywords = ["OpenDevin", "Devin", "AI程序员", "自主AI", "软件工程", "�
 
 今天，我们直接来看开源版本的 OpenDevin。
 
-{{< video src="https://github.com/OpenDevin/OpenDevin/assets/38853559/71a472cc-df34-430c-8b1d-4d7286c807c9" >}}
+[官方视频在这里](https://github.com/OpenDevin/OpenDevin/assets/38853559/71a472cc-df34-430c-8b1d-4d7286c807c9)
 
 这么好，界面跟Devin也长的很像，我们来试下。
 
@@ -155,7 +155,14 @@ OpenDevin 是一个社区驱动的项目，我们欢迎所有人的贡献。无�
 
 OpenDevin 使用了一系列强大的框架和库的组合，为其开发提供了坚实的基础。以下是项目中使用的关键技术：
 
-![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge) ![uvicorn](https://img.shields.io/badge/uvicorn-black?style=for-the-badge) ![LiteLLM](https://img.shields.io/badge/LiteLLM-black?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge) ![Ruff](https://img.shields.io/badge/Ruff-black?style=for-the-badge) ![MyPy](https://img.shields.io/badge/MyPy-black?style=for-the-badge) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-black?style=for-the-badge) ![React](https://img.shields.io/badge/React-black?style=for-the-badge)
+- FastAPI
+- uvicorn
+- LiteLLM
+- Docker
+- Ruff
+- MyPy
+- LlamaIndex
+- React
 
 请注意，这些技术的选择正在进行中，随着项目的发展，可能会添加其他技术或移除现有技术。我们致力于采用最合适和最有效的工具，以增强 OpenDevin 的功能。
 
@@ -163,7 +170,7 @@ OpenDevin 使用了一系列强大的框架和库的组合，为其开发提供�
 
 - [官网](https://github.com/OpenDevin/OpenDevin)
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
-    <!-- - [微信 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/opendevin-intro/)
+    - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976812&idx=1&sn=d0a139130753fc4c1e1b749e62a6b35c&chksm=86c7d529b1b05c3f11ab4ee807867e3674ce42788ba1d49f2a5f4ba6b113e55d95839650eef7#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137714109)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/692280610)
