@@ -1,11 +1,11 @@
 +++
-title = 'Opendevin Intro | blog.aihub2022.top'
+title = '【AI OpenDevin】开源AI程序员，帮您写代码，开发程序 | blog.aihub2022.top'
 date = 2024-04-12T17:13:37+08:00
-draft = true
-categories = []
-tags = []
-description = ''
-keywords = []
+draft = false
+categories = ['AI', 'AI程序员']
+tags = ['AI', 'AI程序员', 'OpenDevin']
+description = "OpenDevin 是一个开源项目，旨在复制 Devin，一款自主的 AI 软件工程师，能够执行复杂的工程任务，并与用户积极合作，共同进行软件开发项目。该项目立志通过开源社区的力量复制、增强和创新 Devin。"
+keywords = ["OpenDevin", "Devin", "AI程序员", "自主AI", "软件工程", "开源项目", "人工智能"]
 +++
 
 之前写了文章，介绍了Devin，第一个AI程序员。放出来的视频，看起来很不错，效率很高。但是要使用的话，需要加入waiting list排队，也不知道什么时候能轮到。
