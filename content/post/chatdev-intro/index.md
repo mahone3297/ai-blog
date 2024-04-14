@@ -1,5 +1,5 @@
 +++
-title = '【AI ChatDev】你当投资人，让AI帮你在几分钟内完成程序开发 | blog.aihub2022.top'
+title = '【AI ChatDev】你当投资人，让AI帮你在几分钟内完成程序开发 | 从零开始学AI learn AI from Scratch'
 date = 2024-04-04T13:11:21+08:00
 draft = false
 categories = ['AI', 'ChatDev']

@@ -1,5 +1,5 @@
 +++
-title = 'Suno v3正式上线，AI音乐已来！ | blog.aihub2022.top'
+title = 'Suno v3正式上线，AI音乐已来！ | 从零开始学AI learn AI from Scratch'
 date = 2024-04-02T10:46:37+08:00
 draft = false
 categories = ['AI', 'Suno']

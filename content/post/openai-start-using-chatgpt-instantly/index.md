@@ -1,5 +1,5 @@
 +++
-title = 'OpenAI ChatGPT 无需注册，立即使用 | blog.aihub2022.top'
+title = 'OpenAI ChatGPT 无需注册，立即使用 | 从零开始学AI learn AI from Scratch'
 date = 2024-04-02T09:22:29+08:00
 draft = false
 categories = ['AI', 'OpenAI', 'ChatGPT']

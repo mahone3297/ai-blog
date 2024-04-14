@@ -1,5 +1,5 @@
 +++
-title = 'MuseV是基于扩散的虚拟人视频生成框架 | blog.aihub2022.top'
+title = 'MuseV是基于扩散的虚拟人视频生成框架 | 从零开始学AI learn AI from Scratch'
 date = 2024-03-28T12:52:04+08:00
 draft = false
 categories = ['AI', 'MuseV']
