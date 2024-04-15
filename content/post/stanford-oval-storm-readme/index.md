@@ -1,11 +1,11 @@
 +++
-title = 'Stanford Oval Storm Readme | 从零开始学AI learn AI from Scratch'
+title = '【AI 斯坦福 STORM】基于互联网搜索，帮你从零开始撰写文章 | 从零开始学AI learn AI from Scratch'
 date = 2024-04-14T20:16:46+08:00
 draft = false
-categories = []
-tags = []
-description = ''
-keywords = []
+categories = ['AI']
+tags = ['AI', 'Stanford', 'Oval', 'Storm', 'Readme']
+description = "STORM是一个基于互联网搜索的LLM系统，可以从零开始撰写类似维基百科的文章。"
+keywords = ["Stanford", "Oval", "Storm", "Readme", "AI", "维基百科", "大纲", "文章", "自动化", "研究", "评估", "优化", "算法", "实时网络数据", "You.com搜索API"]
 +++
 
 今天介绍斯坦福出品的系统，STORM。
@@ -48,7 +48,7 @@ STORM是一个基于互联网搜索的LLM系统，可以从零开始撰写类似
 - Planning
 - Multi-agent collaboration
 
-如有兴趣，可以继续往下看官方readme
+如有兴趣，请继续往下看官方readme
 
 ---
 
@@ -144,7 +144,7 @@ python -m scripts.run_writing --input-source file --input-path ../FreshWiki/topi
 要在单个主题上运行实验：
 ```shell
 python -m scripts.run_writing --input-source console --engine gpt-4 --do-polish-article --remove-duplicate
-````
+```
 - 该脚本会要求您输入`Topic`。请输入与写作前阶段使用的主题相同的主题。
 
 生成的文章将保存在`{output_dir}/{topic}/storm_gen_article.txt`中，与引用索引对应的参考资料将保存在`{output_dir}/{topic}/url_to_info.json`中。如果设置了`--do-polish-article`，则润色后的文章将保存在`{output_dir}/{topic}/storm_gen_article_polished.txt`中。
@@ -200,7 +200,7 @@ python eval_article_quality.py --input-path ../FreshWiki/topic_list.csv --gt-dir
 
 - [官网](https://github.com/stanford-oval/storm)
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
-    <!-- - [微信 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/stanford-oval-storm-readme/)
+    - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976835&idx=1&sn=e8cce058030ef38df66488c35012191e&chksm=86c7cac6b1b043d050967bd5bd0b3d46836c9a90895203b229b616bf6d94e0907c9047f514fb#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137769810)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/692502587)
