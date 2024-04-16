@@ -8,6 +8,8 @@ description = 'OpenAI将在东京设立亚洲首个办公室，并开始提供�
 keywords = ['OpenAI', '日本', '东京', 'GPT-4', '定制模型', '人工智能', '办公室', '亚洲', '日语']
 +++
 
+OpenAI将在东京设立亚洲第一个办公室，我们一起来看下。
+
 ---
 
 # 介绍OpenAI日本
@@ -33,7 +35,7 @@ keywords = ['OpenAI', '日本', '东京', 'GPT-4', '定制模型', '人工智能
 
 - [官网](https://openai.com/blog/introducing-openai-japan)
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
-    <!-- - [微信 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/openai-introduction-openai-japan/)
+    - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976841&idx=1&sn=9e39e0d5ca0158066ee6c728defda62e&chksm=86c7caccb1b043dabe587905cfb7d2a674c08ea4763285ba630f4377f5210ffe5ee950d3f013#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137825060)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/692780750)
