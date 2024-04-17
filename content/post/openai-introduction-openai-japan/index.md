@@ -1,5 +1,5 @@
 +++
-title = '【AI OpenAI】OpenAI将在东京设立亚洲第一个办公室 | 从零开始学AI learn AI from Scratch'
+title = '[AI OpenAI] 将在东京设立亚洲第一个办公室'
 date = 2024-04-16T14:04:30+08:00
 draft = false
 categories = ['AI', 'OpenAI']

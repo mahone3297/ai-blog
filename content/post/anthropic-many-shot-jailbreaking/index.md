@@ -1,5 +1,5 @@
 +++
-title = '【AI Many-Shot-Jailbreaking】上下文窗口越大越危险 | 从零开始学AI learn AI from Scratch'
+title = '[AI Many-Shot-Jailbreaking] 上下文窗口越大越危险'
 date = 2024-04-03T10:43:07+08:00
 draft = false
 categories = ['AI', 'Anthropic']

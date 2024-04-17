@@ -1,5 +1,5 @@
 +++
-title = '【AI AniPortrait】腾讯游戏知几团队推出的音频驱动的逼真肖像动画合成框架，对标阿里EMO | 从零开始学AI learn AI from Scratch'
+title = '[AI AniPortrait] 腾讯游戏知几团队推出的音频驱动的逼真肖像动画合成框架，对标阿里EMO'
 date = 2024-04-01T17:43:11+08:00
 draft = false
 categories = ['AI', 'AniPortrait']

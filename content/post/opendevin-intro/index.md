@@ -1,5 +1,5 @@
 +++
-title = '【AI OpenDevin】开源AI程序员，帮您写代码，开发程序 | 从零开始学AI learn AI from Scratch'
+title = '[AI OpenDevin] 开源AI程序员，帮您写代码，开发程序'
 date = 2024-04-12T17:13:37+08:00
 draft = false
 categories = ['AI', 'AI程序员']

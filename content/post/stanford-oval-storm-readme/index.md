@@ -1,5 +1,5 @@
 +++
-title = '【AI 斯坦福 STORM】基于互联网搜索，帮你从零开始撰写文章 | 从零开始学AI learn AI from Scratch'
+title = '[AI 斯坦福 STORM] 基于互联网搜索，帮你从零开始撰写文章'
 date = 2024-04-14T20:16:46+08:00
 draft = false
 categories = ['AI']

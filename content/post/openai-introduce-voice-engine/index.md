@@ -1,5 +1,5 @@
 +++
-title = 'OpenAI 介绍 Voice Engine | 从零开始学AI learn AI from Scratch'
+title = '[AI OpenAI Voice-Engine] 介绍'
 date = 2024-03-31T23:49:01+08:00
 draft = false
 categories = ['AI', 'OpenAI']

@@ -1,5 +1,5 @@
 +++
-title = '[AI SWE-agent] 帮你解决Github中的bug和issue | 从零开始学AI learn AI from Scratch'
+title = '[AI SWE-agent] 帮你解决Github中的bug和issue'
 date = 2024-04-16T16:52:36+08:00
 draft = false
 categories = ['AI', 'SWE-agent']

@@ -1,5 +1,5 @@
 +++
-title = '{{ replace .File.ContentBaseName "-" " " | title }} | 从零开始学AI learn AI from Scratch'
+title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 date = {{ .Date }}
 draft = true
 categories = []

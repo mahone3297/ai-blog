@@ -1,5 +1,5 @@
 +++
-title = '【AI Sora】初次印象，艺术家使用Sora创作的一些示例 | 从零开始学AI learn AI from Scratch'
+title = '[AI Sora] 初次印象，艺术家使用Sora创作的一些示例'
 draft = false
 categories = ['AI', 'Sora']
 tags = ['AI', 'OpenAI', 'Sora']
