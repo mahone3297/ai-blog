@@ -12,6 +12,8 @@ AI程序员竞争激烈。Devin出来后，开源的OpenDevin随后推出。
 
 现在，Princeton的SWE-agent也来了。它能帮你修复GitHub中的bug和issue。
 
+我试了下，报错了，请求频率太高，没办法。谁有token能支持下吗？我可以再试下。
+
 ---
 
 ## 👋 概述
