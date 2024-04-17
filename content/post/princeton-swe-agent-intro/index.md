@@ -10,7 +10,7 @@ keywords = ['Princeton Swe Agent', 'SWE-agent', 'GPT-4', '软件工程代理', '
 
 AI程序员竞争激烈。Devin出来后，开源的OpenDevin随后推出。
 
-现在，Princeton的SWE-agent也来了。它能帮你修复GitHub中的bug和issue。
+现在，Princeton的SWE-agent也来了。它能帮你修复GitHub中的bug和issue。好的地方在于，他提出了一个“代理-计算机接口（ACI）”。
 
 我试了下，报错了，请求频率太高，没办法。谁有token能支持下吗？我可以再试下。
 
