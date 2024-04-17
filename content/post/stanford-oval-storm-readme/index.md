@@ -2,10 +2,10 @@
 title = '[AI 斯坦福 STORM] 基于互联网搜索，帮你从零开始撰写文章'
 date = 2024-04-14T20:16:46+08:00
 draft = false
-categories = ['AI']
-tags = ['AI', 'Stanford', 'Oval', 'Storm', 'Readme']
+categories = ['AI', 'STORM']
+tags = ['AI', 'Stanford', 'Oval', 'STORM', 'Readme']
 description = "STORM是一个基于互联网搜索的LLM系统，可以从零开始撰写类似维基百科的文章。"
-keywords = ["Stanford", "Oval", "Storm", "Readme", "AI", "维基百科", "大纲", "文章", "自动化", "研究", "评估", "优化", "算法", "实时网络数据", "You.com搜索API"]
+keywords = ["Stanford", "Oval", "STORM", "Readme", "AI", "维基百科", "大纲", "文章", "自动化", "研究", "评估", "优化", "算法", "实时网络数据", "You.com搜索API"]
 +++
 
 今天介绍斯坦福出品的系统，STORM。
