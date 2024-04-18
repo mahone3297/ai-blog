@@ -12,6 +12,8 @@ keywords = ["波士顿动力", "机器人", "Atlas", "电动", "人形机器人"
 
 {{< bilibili BV1Mz42167Cv >}}
 
+https://www.bilibili.com/video/BV1Mz42167Cv/
+
 ---
 
 我们的新电动Atlas平台已经推出。凭借几十年的前瞻性机器人创新和多年的实践经验支持，波士顿动力正在开拓下一个商业领域。
@@ -50,3 +52,5 @@ Atlas的电动版本将比我们之前的任何一代都更强大，运动范围
     - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976852&idx=1&sn=a1cacaa683ad92e6bec2bde535ec495b&chksm=86c7cad1b1b043c77b875d0fdcf419d0fe0fbe7e0c8edbc443ff82ecc241670e85587b5530a3#rd)
     - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137920220)
     - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/693185009)
+    - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1485656)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2410196)
