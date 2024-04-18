@@ -46,7 +46,7 @@ Atlas的电动版本将比我们之前的任何一代都更强大，运动范围
 
 - [官网](https://bostondynamics.com/blog/electric-new-era-for-atlas/)
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
-    <!-- - [微信 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/bostondynamics-electric-new-era-for-atlas/)
+    - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976852&idx=1&sn=a1cacaa683ad92e6bec2bde535ec495b&chksm=86c7cad1b1b043c77b875d0fdcf419d0fe0fbe7e0c8edbc443ff82ecc241670e85587b5530a3#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137920220)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/693185009)
