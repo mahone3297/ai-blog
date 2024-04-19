@@ -131,12 +131,14 @@ Llama 3的8B和70B模型标志着我们计划为Llama 3发布的开始。而且�
 
 ---
 
-- [huggingface blog](https://huggingface.co/blog/llama3)
+- https://huggingface.co/blog/llama3)
 - https://ai.meta.com/blog/meta-llama-3/
 - https://llama.meta.com/llama3/
 - https://github.com/meta-llama/llama3
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
-    <!-- - [微信 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/meta-llama-3-intro/)
+    - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976862&idx=1&sn=dbefe1a6f772e5db2b3a481ffa2a7ab4&chksm=86c7cadbb1b043cdca8419dd2f58a66bed8ad1c052973c6a389fd41a452e68f6195dd2ef389a#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137965989)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/693409795)
+    - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1486793)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2410624)
