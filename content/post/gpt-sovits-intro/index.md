@@ -1,7 +1,7 @@
 +++
 title = 'Gpt Sovits Intro'
 date = 2024-04-20T18:13:10+08:00
-draft = true
+draft = false
 categories = []
 tags = []
 description = ''
