@@ -10,7 +10,7 @@ keywords = ["AI", "Microsoft", "VASA-1", "虚拟角色", "视觉情感技能", "
 
 肖像 + 声音 = 视频，该领域，最早阿里EMO，之后腾讯MuseV，AniPortrait。
 
-今天，微软出了 VASA-1，这个效果是真好。排第一。可惜没放出源码。我们来看下。
+最近，微软出了 VASA-1，这个效果是真好。排第一。可惜没放出源码。我们来看下。
 
 ---
 
@@ -92,11 +92,12 @@ keywords = ["AI", "Microsoft", "VASA-1", "虚拟角色", "视觉情感技能", "
 鉴于这样的背景，我们没有计划发布在线演示、API、产品、额外的实施细节或任何相关产品，直到我们确定这项技术将被负责任地使用，并符合适当的法规。
 
 - [官网](https://www.microsoft.com/en-us/research/project/vasa-1/)
+- [素材](https://github.com/vasavatar/VASA-1)
 - 本文
     - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/microsoft-vasa-1-intro/)
-    <!-- - [微信 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
-    <!-- - [阿里云 - 从零开始学AI](...) -->
-    <!-- - [腾讯云 - 从零开始学AI](...) -->
+    - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976892&idx=1&sn=7962737b839982257d4cc7f3bdbda726&chksm=86c7caf9b1b043ef29f4cd1641c3f6dc23569f182ea183670a50116c2a9598f1214edfb12820#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/138165090)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7361234872780357644)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/694335476)
+    - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1491369)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2412028)
