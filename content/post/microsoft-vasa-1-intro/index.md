@@ -1,11 +1,11 @@
 +++
-title = 'VASA-1：以音频驱动的逼真实时生成的对话脸部'
+title = '[AI Microsoft VASA-1] 以音频驱动的逼真实时生成的对话脸部'
 date = 2024-04-24T09:53:04+08:00
 draft = false
-categories = []
-tags = []
-description = ''
-keywords = []
+categories = ['AI', 'Microsoft', 'VASA-1']
+tags = ['AI', 'Microsoft', 'VASA-1']
+description = "微软VASA-1项目通过单张肖像照片和语音音频，生成具有精确唇音同步、栩栩如生的面部行为和自然头部运动的超逼真对话脸部视频。该技术展现了在实时效率、分布外泛化和解耦能力方面的显著优势，并强调了负责任的AI开发和应用的重要性。"
+keywords = ["AI", "Microsoft", "VASA-1", "虚拟角色", "视觉情感技能", "面部动态", "头部运动", "唇音同步", "面部行为", "实时效率", "分布外泛化", "解耦能力", "风险", "负责任的AI"]
 +++
 
 肖像 + 声音 = 视频，该领域，最早阿里EMO，之后腾讯MuseV，AniPortrait。
@@ -93,7 +93,7 @@ keywords = []
 
 - [官网](https://www.microsoft.com/en-us/research/project/vasa-1/)
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/microsoft-vasa-1-intro/)
     <!-- - [微信 - 从零开始学AI](...) -->
     <!-- - [CSDN - 从零开始学AI](...) -->
     <!-- - [掘金 - 从零开始学AI](...) -->
