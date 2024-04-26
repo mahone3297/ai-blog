@@ -41,17 +41,17 @@ keywords = ['阿里EMO', 'EMO技术', '通义千问app', '视频生成', '音频
 
 app很火爆，排队等25分钟
 
-video 请上微信公众号查看。
+video 视频请上微信公众号查看。
 
 感觉合成的视频，图像比声音稍微慢一点。可能0.5s左右。
 
 ---
 
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
-    <!-- - [微信 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/emo-integrate-into-tongyi-qianwen/)
+    - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976939&idx=1&sn=1618cd4ab92898f73cdba88cdb5bc163&chksm=86c7caaeb1b043b8c6e448130fa5cabd0a19f2c1dad4a67b3e79a8182f269b1c80f601bb8499#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/138217555)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7361715712992788519)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/694691752)
     <!-- - [阿里云 - 从零开始学AI](...) -->
     <!-- - [腾讯云 - 从零开始学AI](...) -->

@@ -34,15 +34,15 @@ description = "小米（Xiaomi）是一家知名的科技公司，由雷军创�
 - [雷军：听完总理工作报告，我有三点感受](https://mp.weixin.qq.com/s/olX5MKy-yBP4gvpu8sjJIQ)
 - [雷军：小米SU7 现已开启定购｜人车合一，我心澎湃](https://mp.weixin.qq.com/s/eFuV8fm-WpthT8IkcwcLJQ)
 - [雷军：答投资者问](https://mp.weixin.qq.com/s/DJ2XNqFJn0HSVSuYBEUtSA)
+- [雷军:小米SU7 亮相北京车展 | 最新进展集中汇报](https://mp.weixin.qq.com/s/fHwtno3JVh4lFYlsyP2sFA)
 
 ---
 
-<!-- - [官网](...) -->
-<!-- - 本文 -->
-<!-- - [博客 - 从零开始学AI](...) -->
-<!-- - [微信 - 从零开始学AI](...) -->
-<!-- - [CSDN - 从零开始学AI](...) -->
-<!-- - [掘金 - 从零开始学AI](...) -->
-<!-- - [知乎 - 从零开始学AI](...) -->
-<!-- - [阿里云 - 从零开始学AI](...) -->
-<!-- - [腾讯云 - 从零开始学AI](...) -->
+- 本文
+    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/xiaomi-leijun/)
+    <!-- - [微信 - 从零开始学AI](...) -->
+    <!-- - [CSDN - 从零开始学AI](...) -->
+    <!-- - [掘金 - 从零开始学AI](...) -->
+    <!-- - [知乎 - 从零开始学AI](...) -->
+    <!-- - [阿里云 - 从零开始学AI](...) -->
+    <!-- - [腾讯云 - 从零开始学AI](...) -->
