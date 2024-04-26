@@ -53,5 +53,5 @@ video 视频请上微信公众号查看。
     - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/138217555)
     - [掘金 - 从零开始学AI](https://juejin.cn/post/7361715712992788519)
     - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/694691752)
-    <!-- - [阿里云 - 从零开始学AI](...) -->
-    <!-- - [腾讯云 - 从零开始学AI](...) -->
+    - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1493372)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2412028)
