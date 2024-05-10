@@ -21,6 +21,9 @@ keywords = ["新东方", "俞敏洪", "西藏自驾", "老俞闲话", "对话", 
 - [老俞闲话｜西藏自驾之旅（第八天）](https://mp.weixin.qq.com/s/iMrf3XziTTTK0QUyiIMJvg)
 - [老俞闲话｜西藏自驾之旅（第九天）](https://mp.weixin.qq.com/s/Ct7_GrpddxPFtN8jPasGZg)
 - [老俞闲话｜西藏自驾之旅（第十天）](https://mp.weixin.qq.com/s/wbPMnlsV_lgrSkqtrgmT_g)
+- [老俞闲话｜西藏自驾之旅（第十一天）](https://mp.weixin.qq.com/s/UX4JgxxZPyNbnamMFL8GvQ)
+- [老俞闲话｜西藏自驾之旅（第十二天）](https://mp.weixin.qq.com/s/pKkSYlyV9o_qyh4nSU5L4A)
+- [老俞闲话｜西藏自驾之旅（第十三天）](https://mp.weixin.qq.com/s/pkYwU7NIdomfaDPx5uKaVg)
 
 ## 老俞闲话
 
