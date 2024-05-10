@@ -1,11 +1,11 @@
 +++
-title = 'AI 模型中的“it”是数据集'
+title = '[AI Research] AI 模型中的“it”是数据集'
 date = 2024-05-10T10:17:34+08:00
 draft = false
 categories = ['AI', 'Research']
 tags = ['AI', 'Research']
-description = ''
-keywords = []
+description = "模型效果的好坏，最重要的是数据集，而不是架构，超参数，优化器。"
+keywords = ["AI", "Research", "模型", "数据集", "架构", "超参数", "优化器"]
 +++
 
 **模型效果的好坏，最重要的是数据集，而不是架构，超参数，优化器。**
@@ -26,10 +26,10 @@ keywords = []
 
 - [原文](https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset/)
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
-    <!-- - [微信 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
-    <!-- - [阿里云 - 从零开始学AI](...) -->
-    <!-- - [腾讯云 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-research-the-it-in-ai-models-is-the-dataset/)
+    - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977011&idx=1&sn=33e2a53e3e08fcd82fc878b495cefa51&chksm=86c7ca76b1b04360fb5f31c688c2a143fe0ec6e6b0a7185a379bc203f2c80119d5b2bf632618#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/138657435)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7366948087128817700)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/696934253)
+    - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1504718)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2416239)
