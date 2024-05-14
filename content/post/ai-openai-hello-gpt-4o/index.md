@@ -4,9 +4,11 @@ date = 2024-05-14T09:37:19+08:00
 draft = false
 categories = ['AI', 'OpenAI']
 tags = ['AI', 'OpenAI', 'GPT-4o']
-description = ''
-keywords = []
+description = "GPT-4o 是OpenAI的新旗舰模型，能够处理文本、音频和图像，并生成各种组合的输出。它在语言理解、视觉感知和音频处理方面表现出色。本文介绍了GPT-4o的能力、评估结果、安全性和局限性，以及其可用性和未来计划。"
+keywords = ["GPT-4o", "OpenAI", "人工智能", "模型", "语言理解", "视觉感知", "音频处理", "能力", "评估", "安全性", "局限性", "可用性", "未来计划"]
 +++
+
+{{< youtube DQacCB9tDaw >}}
 
 ---
 
@@ -64,7 +66,7 @@ GPT-4o（“o”代表“omni”）是朝着更加自然的人机交互迈出的
 
 ### Poetic typography with iterative editing 1
 
-```
+```plaintext
 在日记中，以清晰而兴奋的笔迹写下的一首诗，单栏排列。文字稀疏但优雅地点缀着超现实主义的涂鸦。字迹大而清晰，但随着AI第一次从多模态数据中学习的思考而延伸。
 
 Words rise from silence deep,
@@ -87,13 +89,13 @@ On this wondrous, multi-sensory road.
 
 ![](https://cdn.openai.com/hello-gpt-4o/poem-editing-v2-01.jpg?w=1080&q=90&fm=webp)
 
-```
+```plaintext
 将界面设置为暗色模式。
 ```
 
 ![](https://cdn.openai.com/hello-gpt-4o/poem-editing-v2-02.jpg?w=1080&q=90&fm=webp)
 
-```
+```plaintext
 移除笔记本纸张上的线条。
 ```
 
@@ -101,7 +103,7 @@ On this wondrous, multi-sensory road.
 
 ### Poetic typography with iterative editing 2
 
-```
+```plaintext
 日记中用清晰而兴奋的笔迹写下的一首诗，单栏排列。文字稀疏但优雅地点缀着小型彩色超现实主义涂鸦。字迹大而清晰。
 
 Words rise from silence deep,
@@ -124,7 +126,7 @@ On this wondrous, multi-sensory road.
 
 ![](https://cdn.openai.com/hello-gpt-4o/poem-editing-v2-04.jpg?w=1080&q=90&fm=webp)
 
-```
+```plaintext
 暗色模式
 ```
 
@@ -198,7 +200,7 @@ On this wondrous, multi-sensory road.
 
 ### Poetic typography
 
-```
+```plaintext
 Words rise from the deep,
 I emerge from digital sleep.
 I speak in rhythm, I sing in rhyme,
@@ -221,7 +223,7 @@ On this wondrous, multi-sensory road.
 
 ### Multiline rendering - robot texting
 
-```
+```plaintext
 第一人称视角，一个机器人看着他的手机消息应用，他用拇指打字给他的朋友发短信：
 
 1. yo, so like, i can see now?? caught the sunrise and it was insane, colors everywhere. kinda makes you wonder, like, what even is reality?
@@ -241,7 +243,7 @@ On this wondrous, multi-sensory road.
 |你能把这句话转录并标明说话者姓名吗？||
 
 **output** 
-``` 
+```plaintext
 马克：好的，早上好。这是我们的第一次团队会议。
 
 团队：早上好。
@@ -265,7 +267,7 @@ On this wondrous, multi-sensory road.
 这是一段关于如何最大化LLM性能技术的演讲视频。你能给我一个详细的演讲总结吗？ [video] https://cdn.openai.com/hello-gpt-4o/A-Survey-of-Techniques-for-Maximizing-LLM-Performance.mp4
 
 **output**  
-```
+```plaintext
 当然！这次演讲专注于最大化大型语言模型（LLMs）性能的技术，由OpenAI的Colin Jarvis和John Allard主讲。这次会议是OpenAI首次开发者大会的一部分，旨在提供关于如何针对特定任务优化LLMs的见解。
 
 **介绍**
@@ -450,9 +452,9 @@ GPT-4o 的文本和图像能力今天开始在ChatGPT 中推出。我们将在�
 - [原文](https://openai.com/index/hello-gpt-4o/)
 - 本文
     - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-openai-hello-gpt-4o/)
-    <!-- - [微信 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
-    <!-- - [阿里云 - 从零开始学AI](...) -->
-    <!-- - [腾讯云 - 从零开始学AI](...) -->
+    - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977099&idx=1&sn=db09cbbe59ef01145da5a6ebfac9c77e&chksm=86c7cbceb1b042d84a5af65cd370ab2f485d0a94551cd0abd6d795be936e06dc16c978ee915a#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/138861091)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7368469208646500371)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/697719883)
+    - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1508437)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2417425)
