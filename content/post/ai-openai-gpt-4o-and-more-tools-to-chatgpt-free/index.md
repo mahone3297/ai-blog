@@ -8,6 +8,26 @@ description = '我们推出了最新的旗舰模型 GPT-4o，并为免费版 Cha
 keywords = ['GPT-4o', 'ChatGPT', '免费用户', '人工智能', 'AI', 'OpenAI', '语音对话', '桌面应用程序', '新界面']
 +++
 
+OpenAI推出了GPT-4o，同时还推出了一些工具。
+
+我们来体验下。这是我的头像
+
+![ai](ai.png)
+
+我让他变成黏土风格
+
+![ai-clay](ai-clay.png)
+
+效果感觉很不错。
+
+莫奈风格。
+
+![ai-monet](ai-monet.png)
+
+效果太棒了！可以考虑做新头像了。
+
+---
+
 我们正在推出最新的旗舰模型，并为免费版 ChatGPT 用户提供更多功能。
 
 与我们的使命一致，我们专注于推进人工智能技术，并确保它对所有人都可访问且有益。今天，我们推出了最新的模型 GPT-4o，并将向 ChatGPT 免费用户提供更多智能和高级工具。
@@ -58,10 +78,10 @@ GPT-4o 是我们最新的旗舰模型，提供 GPT-4 级别的智能，但速度
 
 - [原文](https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/)
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
-    <!-- - [微信 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
-    <!-- - [阿里云 - 从零开始学AI](...) -->
-    <!-- - [腾讯云 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-openai-gpt-4o-and-more-tools-to-chatgpt-free/)
+    - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977110&idx=1&sn=c704bf4fdac8fb963456475c48f46196&chksm=86c7cbd3b1b042c553f7898f9c7d66a7290965ab18afd012c1e646b3e7242bcf0b420a0b6743#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/138906125)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7368759192255512639)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/697879764)
+    - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1509631)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2417592)
