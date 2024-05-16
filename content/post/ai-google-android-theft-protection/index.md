@@ -14,7 +14,7 @@ keywords = []
 
 - [原文](https://blog.google/products/android/android-theft-protection/)
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-google-android-theft-protection/)
     <!-- - [微信 - 从零开始学AI](...) -->
     <!-- - [CSDN - 从零开始学AI](...) -->
     <!-- - [掘金 - 从零开始学AI](...) -->
