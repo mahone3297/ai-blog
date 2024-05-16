@@ -28,3 +28,14 @@ keywords = ['awesome']
 ## Google
 
 - [【精校】Google I/O 2024大会 | 2小时完整版【中英】](https://www.bilibili.com/video/BV1x1421q7xZ/)
+
+## 哥飞
+
+- [分享10个基于第三方谷歌搜索API的可实操赚钱方法](https://mp.weixin.qq.com/s/vQ9GJ5cHFh-z0q3lVsgteA)
+- [【哥飞推荐】一个开源AI贴纸生成器，同时也是](https://mp.weixin.qq.com/s/q7VnT4txJ99v4OBgOppgDA)
+
+##  花爷梦呓换酒钱
+
+- [这个信息差，真能赚100万](https://mp.weixin.qq.com/s/zbLDuI9Mg_SwZrYWD3L2pw) 翻译
+    - [纳瓦尔 博客](https://nav.al/)
+- [又一个信息差，还能赚100万](https://mp.weixin.qq.com/s/OfL3Bi5hxpp7Go-E70Oa8Q) 毛绒风格定制
