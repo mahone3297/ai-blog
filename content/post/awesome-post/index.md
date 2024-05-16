@@ -24,3 +24,7 @@ keywords = ['awesome']
 ## 硬地骇客
 
 - [AI 播客应用 Podwise 三万字复盘：两个月 1.2 万美元 ARR 之路](https://book.hardhacker.com/)
+
+## Google
+
+- [【精校】Google I/O 2024大会 | 2小时完整版【中英】](https://www.bilibili.com/video/BV1x1421q7xZ/)
