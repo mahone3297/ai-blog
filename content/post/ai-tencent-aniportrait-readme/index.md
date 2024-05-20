@@ -1,9 +1,9 @@
 +++
-title = '[AI AniPortrait] 腾讯游戏知几团队推出的音频驱动的逼真肖像动画合成框架，对标阿里EMO'
+title = '[AI Tencent AniPortrait] 腾讯游戏知几团队推出的音频驱动的逼真肖像动画合成框架，对标阿里EMO'
 date = 2024-04-01T17:43:11+08:00
 draft = false
-categories = ['AI', 'AniPortrait']
-tags = ['AI', 'AniPortrait']
+categories = ['AI', 'Tencent', 'AniPortrait']
+tags = ['AI', 'Tencent', 'AniPortrait']
 description = 'AniPortrait 是腾讯开源的音频驱动的逼真肖像动画合成工具。本文介绍了 AniPortrait 的特性、使用方法以及相关训练和推理过程。'
 keywords = ['AniPortrait', '腾讯', '动画合成', '音频驱动', '肖像动画']
 +++
@@ -22,7 +22,7 @@ keywords = ['AniPortrait', '腾讯', '动画合成', '音频驱动', '肖像动�
 
 组织：Tencent Games Zhiji, Tencent
 
-![zhiji_logo](zhiji_logo.png)
+![zhiji_logo](https://github.com/Zejun-Yang/AniPortrait/raw/main/asset/zhiji_logo.png)
 
 在这里，我们提出了AniPortrait，一个新颖的框架，用于生成由音频和参考肖像图像驱动的高质量动画。您还可以提供视频来实现面部重现。
 
@@ -30,7 +30,7 @@ keywords = ['AniPortrait', '腾讯', '动画合成', '音频驱动', '肖像动�
 
 ## 流程
 
-![pipeline](pipeline.png)
+![pipeline](https://github.com/Zejun-Yang/AniPortrait/raw/main/asset/pipeline.png)
 
 ## 待办事项
 
@@ -229,7 +229,7 @@ accelerate launch train_stage_2.py --config ./configs/train/stage2.yaml
 
 - [官网](https://github.com/Zejun-Yang/AniPortrait)
 - 本文
-    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/aniportrait-readme/)
+    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-tencent-aniportrait-readme/)
     - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976763&idx=1&sn=e7b9ee2c8bdc90cf73725d03df6a5581&chksm=86c7d57eb1b05c68f3bebb63418b79d374220def4e7ff69072dcdcb35b62514f7773f61a7705#rd)
     - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137366473)
     - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/690687456)
