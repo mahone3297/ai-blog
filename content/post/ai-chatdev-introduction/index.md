@@ -3,7 +3,7 @@ title = '[AI ChatDev] 你当投资人，让AI帮你在几分钟内完成程序�
 date = 2024-04-04T13:11:21+08:00
 draft = false
 categories = ['AI', 'ChatDev']
-tags = ['AI', 'ChatDev']
+tags = ['AI', 'ChatDev', 'AI程序员']
 description = "ChatDev是一家虚拟软件公司，通过各种智能代理扮演不同的角色，包括首席执行官、首席产品官、首席技术官、程序员、评审员、测试员、艺术设计师。本文介绍了ChatDev的安装、使用效果和高级技能，以及如何分享您的软件。"
 keywords = ["ChatDev", "软件开发", "交流代理", "智能代理", "虚拟软件公司", "多智能体组织", "LLMs", "易于使用", "可定制", "可扩展"]
 +++
