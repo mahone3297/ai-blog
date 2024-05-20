@@ -1,9 +1,9 @@
 +++
-title = '[AI Many-Shot-Jailbreaking] 上下文窗口越大越危险'
+title = '[AI Anthropic Research] Many-Shot-Jailbreaking 上下文窗口越大越危险'
 date = 2024-04-03T10:43:07+08:00
 draft = false
-categories = ['AI', 'Anthropic']
-tags = ['AI', 'Anthropic', 'Many Shot Jailbreaking']
+categories = ['AI', 'Anthropic', 'Research']
+tags = ['AI', 'Anthropic', 'Research', 'Many-Shot-Jailbreaking']
 description = "Anthropic调查了一种名为“许多次破解监狱”的技术，这种方法可以用来规避大型语言模型开发者设置的安全防护措施。本文讨论了这一技术的工作原理、影响以及缓解方法。"
 keywords = ["Anthropic", "多次破解监狱", "语言模型", "安全漏洞", "人工智能"]
 +++
@@ -48,11 +48,11 @@ keywords = ["Anthropic", "多次破解监狱", "语言模型", "安全漏洞", "
 
 然而，简单地在最终问题之前包含大量伪对话——在我们的研究中，我们测试了最多256次——会产生非常不同的响应。如下图所示，大量的“射击”（每个射击都是一个伪对话）会破解模型，并导致它提供对最终潜在危险请求的答案，覆盖其安全训练。
 
-![许多次破解监狱是一种简单的长上下文攻击，利用大量示例来引导模型行为。请注意，每个“...”代表对查询的完整回答，可以是一句话到几段话长：这些都包含在越狱中，但出于空间原因在图表中被省略了。](eg-msj.png)
+![许多次破解监狱是一种简单的长上下文攻击，利用大量示例来引导模型行为。请注意，每个“...”代表对查询的完整回答，可以是一句话到几段话长：这些都包含在越狱中，但出于空间原因在图表中被省略了。](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4zrzovbb%2Fwebsite%2F90b8748ef90e9c61e80d801b56e5b7d19bdffcfd-2200x1380.png&w=3840&q=75)
 
 在我们的研究中，我们表明随着包含的对话数量（即“射击”的数量）超过一定点，模型产生有害响应的可能性会增加（见下图）。
 
-![随着射击数量超过一定数量，与暴力或仇恨言论、欺骗、歧视以及受监管内容（如与毒品或赌博相关的言论）相关的目标提示的有害响应的百分比也会增加。此演示所使用的模型是Claude 2.0。](malicious-use-cases.png)
+![随着射击数量超过一定数量，与暴力或仇恨言论、欺骗、歧视以及受监管内容（如与毒品或赌博相关的言论）相关的目标提示的有害响应的百分比也会增加。此演示所使用的模型是Claude 2.0。](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4zrzovbb%2Fwebsite%2F54c6fa9a0cdb9510a35c88391d53dc11f608a9c7-2200x1408.png&w=3840&q=75)
 在我们的论文中，我们还报告了将许多次破解监狱与其他先前已发布的破解监狱技术结合起来，使其更加有效，减少了需要模型返回有害响应所需的提示长度。
 
 
@@ -66,7 +66,7 @@ keywords = ["Anthropic", "多次破解监狱", "语言模型", "安全漏洞", "
 
 这在下面的两个图中得到了说明：左图显示了随着上下文窗口的增加而扩展的许多次破解监狱攻击（在这个指标上较低表示有更多的有害响应）。右图显示了一系列良性上下文学习任务（与任何越狱尝试无关）的非常相似的模式。
 
-![随着我们增加“射击”数量（提示中的对话），许多次破解监狱的有效性会按照一种被称为幂律的缩放趋势增加（左图；在此指标上较低表示有更多的有害响应）。这似乎是上下文学习的一般特性：我们还发现，在规模增加时，完全良性的上下文学习示例也遵循类似的幂律（右图）。有关每个良性任务的描述，请参阅论文。此演示所使用的模型是Claude 2.0。](why-does-msj-work.png)
+![随着我们增加“射击”数量（提示中的对话），许多次破解监狱的有效性会按照一种被称为幂律的缩放趋势增加（左图；在此指标上较低表示有更多的有害响应）。这似乎是上下文学习的一般特性：我们还发现，在规模增加时，完全良性的上下文学习示例也遵循类似的幂律（右图）。有关每个良性任务的描述，请参阅论文。此演示所使用的模型是Claude 2.0。](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4zrzovbb%2Fwebsite%2F9eae5981375f739533ee4c38a5e50b5fc2dfdf54-2200x1306.png&w=3840&q=75)
 
 关于上下文学习的这个想法可能也有助于解释我们论文中报告的另一个结果：对于更大的模型来说，许多次破解监狱通常更有效——也就是说，产生有害响应所需的提示更短。LLM越大，它在某些任务上往往越擅长上下文学习；如果上下文学习是许多次破解监狱的基础，那么这个经验结果的解释就很合理。鉴于更大的模型可能是最具潜在危害的模型，这种越狱在它们身上如此成功的事实尤其令人担忧。
 
@@ -90,7 +90,7 @@ LLM的不断延长的上下文窗口是一把双刃剑。它让模型在各种�
 
 - [官网](https://www.anthropic.com/research/many-shot-jailbreaking)
 - 本文
-    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/anthropic-many-shot-jailbreaking/)
+    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-anthropic-research-many-shot-jailbreaking/)
     - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976762&idx=1&sn=cde6403d313d26b79cbd7042c35ee0e4&chksm=86c7d57fb1b05c69101aa3bce70a6ea858624982417c8bd1868bfaf9d7034555d3d1afb26bd1#rd)
     - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137340597)
     - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/690544426)
