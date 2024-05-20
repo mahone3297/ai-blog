@@ -1,9 +1,9 @@
 +++
-title = '[AI MuseV] 基于扩散的虚拟人视频生成框架'
+title = '[AI Tencent MuseV] 基于扩散的虚拟人视频生成框架'
 date = 2024-03-28T12:52:04+08:00
 draft = false
-categories = ['AI', 'MuseV']
-tags = ['AI', 'MuseV']
+categories = ['AI', 'Tencent', 'MuseV']
+tags = ['AI', 'Tencent', 'MuseV']
 description = "MuseV是基于视觉条件并行去噪的无限长度和高保真虚拟人视频生成。本项目提供了用于文本到视频和视频到视频生成的检查点，并支持多种参考图像技术。此外，MuseV还支持与Stable Diffusion生态系统兼容。"
 keywords = ["MuseV", "虚拟人视频生成", "并行去噪", "扩散模型", "T2I", "IPAdapter", "文本到视频", "视频到视频", "图像处理"]
 +++
@@ -281,6 +281,6 @@ python app.py
 - [github](https://github.com/TMElyralab/MuseV)
 - [huggingface](https://huggingface.co/TMElyralab/MuseV)
 - 本文
-    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-musev-diffusion-based-virtual-human-video-generation-framework/)
+    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-tencent-musev-readme/)
     - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976722&idx=1&sn=82100b88eaf4a134e9d4ab1198ea5f01&chksm=86c7d557b1b05c41a59b862e59888df2607faf735e64a037e72239ba555ae4c93d338766e98e&token=449037386&lang=zh_CN#rd)
     - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137186672)
