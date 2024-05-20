@@ -104,14 +104,14 @@ CPO把用户手册都写了。。。
 
 # 软件开发中的交流代理
 
-![logo1](logo1.png)
+![logo1](https://github.com/OpenBMB/ChatDev/raw/main/misc/logo1.png)
 
 ## 📖 概览
 
 - **ChatDev** 是一家**虚拟软件公司**，通过各种**智能代理**扮演不同的角色，包括首席执行官、首席产品官、首席技术官、程序员、评审员、测试员、艺术设计师。这些代理形成了一个多智能体组织结构，并且他们的使命是通过编程"彻底改变数字世界"。ChatDev 内部的代理通过参加专门的功能研讨会来**协作**，包括设计、编码、测试和文档编写等任务。
 - ChatDev 的主要目标是提供一个基于大型语言模型（LLMs）的**易于使用**、**高度可定制**和**可扩展**的框架，这个框架为研究集体智能提供了一个理想的场景。
 
-![company](company.png)
+![company](https://github.com/OpenBMB/ChatDev/raw/main/misc/company.png)
 
 ## 🎉 新闻
 * **2024年1月25日：我们已经将经验共同学习模块整合到ChatDev中。请查看[经验共同学习指南](wiki.md#co-tracking)。**
@@ -129,7 +129,7 @@ CPO把用户手册都写了。。。
 - 2023年6月30日：ChatDev存储库的初始版本已发布。
 
 ## ❓ ChatDev能做什么？
-![intro](intro.png)
+![intro](https://github.com/OpenBMB/ChatDev/raw/main/misc/intro.png)
 
 {{< video src="https://github.com/OpenBMB/ChatDev/assets/11889052/80d01d2f-677b-4399-ad8b-f7af9bb62b72" >}}
 
@@ -278,7 +278,7 @@ CPO把用户手册都写了。。。
 
 - [官网](https://github.com/OpenBMB/ChatDev)
 - 本文
-    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/chatdev-intro/)
+    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-chatdev-introduction/)
     - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976783&idx=1&sn=9dfcac76ae2c0f7396f9e1e1b7efd5d4&chksm=86c7d50ab1b05c1c3364b27c364b04f2f1d3cd4992f1757c0d04f3a7aa566b2b317c274af342#rd)
     - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137424700)
     - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/690921503)
