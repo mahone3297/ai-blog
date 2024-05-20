@@ -2,8 +2,8 @@
 title = '[AI 阿里 EMO] 集成进通义千问app，全民演唱，人人可用！'
 date = 2024-04-26T10:59:52+08:00
 draft = false
-categories = ['AI', '阿里', 'EMO', '通义千问']
-tags = ['AI', '阿里', 'EMO', '通义千问', '视频生成', '全民演唱']
+categories = ['AI', '阿里', 'EMO']
+tags = ['AI', '阿里', 'EMO', '通义千问', '视频生成']
 description = '阿里EMO技术的最新进展，现在集成进通义千问app，允许用户通过图+音频生成任意时长的视频，实现全民演唱的互动体验。'
 keywords = ['阿里EMO', 'EMO技术', '通义千问app', '视频生成', '音频视频同步', '全民演唱', '互动体验']
 +++
@@ -48,7 +48,7 @@ video 视频请上微信公众号查看。
 ---
 
 - 本文
-    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/emo-integrate-into-tongyi-qianwen/)
+    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-ali-emo-integrate-into-tongyi-qianwen/)
     - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976939&idx=1&sn=1618cd4ab92898f73cdba88cdb5bc163&chksm=86c7caaeb1b043b8c6e448130fa5cabd0a19f2c1dad4a67b3e79a8182f269b1c80f601bb8499#rd)
     - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/138217555)
     - [掘金 - 从零开始学AI](https://juejin.cn/post/7361715712992788519)
