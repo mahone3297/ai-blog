@@ -1,9 +1,9 @@
 +++
-title = '[AI 机器人] Atlas的电动新时代，不再局限于人类运动范围的动作方式'
+title = '[AI 波士顿动力] Atlas的电动新时代，不再局限于人类运动范围的动作方式'
 date = 2024-04-18T10:02:14+08:00
 draft = false
-categories = ['AI 机器人']
-tags = ['AI', '机器人', 'Atlas', '波士顿动力']
+categories = ['AI', '波士顿动力', '机器人']
+tags = ['AI', '波士顿动力', '机器人', 'Atlas']
 description = '液压Atlas机器人退役了，一款新的电动机器人Atlas上线，不再局限于人类运动范围的动作方式。'
 keywords = ["波士顿动力", "机器人", "Atlas", "电动", "人形机器人", "工程技术", "软件", "服务", "数字转型"]
 +++
@@ -48,7 +48,7 @@ Atlas的电动版本将比我们之前的任何一代都更强大，运动范围
 
 - [官网](https://bostondynamics.com/blog/electric-new-era-for-atlas/)
 - 本文
-    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/bostondynamics-electric-new-era-for-atlas/)
+    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-bostondynamics-electric-new-era-for-atlas/)
     - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976852&idx=1&sn=a1cacaa683ad92e6bec2bde535ec495b&chksm=86c7cad1b1b043c77b875d0fdcf419d0fe0fbe7e0c8edbc443ff82ecc241670e85587b5530a3#rd)
     - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137920220)
     - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/693185009)
