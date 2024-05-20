@@ -1,11 +1,11 @@
 +++
-title = '[AI Grok] Announcing Grok 1.5'
+title = '[AI xAI Grok] 宣布 Grok 1.5'
 date = 2024-03-30T23:52:03+08:00
 draft = false
-categories = ['AI', 'Grok']
-tags = ['AI', 'Grok']
-keywords = ["Grok-1.5", "推理能力", "上下文长度", "模型", "高级推理", "早期测试者", "Grok用户", "𝕏平台"]
+categories = ['AI', 'xAI', 'Grok']
+tags = ['AI', 'xAI', 'Grok']
 description = "Grok-1.5具备改进的推理能力，上下文长度为128,000个标记。即将在𝕏上推出。介绍Grok-1.5，我们最新的模型，能够理解长篇上下文并进行高级推理。Grok-1.5将在未来几天内提供给我们的早期测试者和现有的Grok用户，供在𝕏平台上使用。"
+keywords = ["Grok-1.5", "推理能力", "上下文长度", "模型", "高级推理", "早期测试者", "Grok用户", "𝕏平台"]
 +++
 
 两周前，xAI发布了Grok-1。
@@ -32,7 +32,7 @@ Grok-1.5具备改进的推理能力，上下文长度为128,000个标记。即�
 
 Grok-1.5的一个新功能是能够在其上下文窗口内处理长达128K标记的长篇上下文。这使得Grok的内存容量增加了前一个上下文长度的16倍，使其能够利用来自 substantially longer documents 的信息。
 
-![The image shows a graph that visualizes the model's ability to recall information from its context window. The x-axis is the length of the context window and the y-axis is the relative position of the fact to retrieve from the window. We use colors to mark the recall rate. The entire graph is green, which means the recall-rate is 100% for every context window and every placement of the fact to retrieve.](context.png)
+![The image shows a graph that visualizes the model's ability to recall information from its context window. The x-axis is the length of the context window and the y-axis is the relative position of the fact to retrieve from the window. We use colors to mark the recall rate. The entire graph is green, which means the recall-rate is 100% for every context window and every placement of the fact to retrieve.](https://x.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcontext.f27d1f23.webp&w=828&q=75)
 
 此外，该模型可以处理更长、更复杂的提示，同时在其上下文窗口扩展的情况下仍保持其遵循指令的能力。在“大海捞针”（NIAH）评估中，Grok-1.5展示了强大的检索能力，能够在长达128K标记的上下文中检索嵌入文本，并取得了完美的检索结果。
 
@@ -49,6 +49,6 @@ Grok-1.5即将提供给早期测试者，我们期待收到您的反馈，以帮
 
 - [官网](https://x.ai/blog/grok-1.5)
 - 本文
-    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/announcing-grok-1.5/)
+    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-xai-announcing-grok-1.5/)
     - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976734&idx=1&sn=eceea19653fdc8e069bf37b3939f8b22&chksm=86c7d55bb1b05c4d6e490276237ba353512ff1d00a80694c42864a53d989200850f1d7677a53&token=449037386&lang=zh_CN#rd)
     - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137208443)
