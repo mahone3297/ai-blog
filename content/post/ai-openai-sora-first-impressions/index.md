@@ -1,5 +1,5 @@
 +++
-title = '[AI Sora] 初次印象，艺术家使用Sora创作的一些示例'
+title = '[AI OpenAI Sora] 初次印象，艺术家使用Sora创作的一些示例'
 date = 2024-03-26T14:53:00+08:00
 draft = false
 categories = ['AI', 'OpenAI', 'Sora']
