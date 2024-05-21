@@ -25,9 +25,9 @@ keywords = ["AI", "OpenAI", "伊利亚·苏茨凯弗", "雅各布·帕霍克", "
 - [原文](https://openai.com/index/jakub-pachocki-announced-as-chief-scientist/)
 - 本文
     - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-openai-jakub-pachocki-announced-as-chief-scientist/)
-    <!-- - [微信 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
-    <!-- - [阿里云 - 从零开始学AI](...) -->
-    <!-- - [腾讯云 - 从零开始学AI](...) -->
+    - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977163&idx=1&sn=658bed03d12dc69c3a76bafc5951808a&chksm=86c7cb8eb1b0429880e0d674bf690964d2049dafc1b722851dcb0b72138392b6d76c3fa4c509#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/139088236)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7371040857279561791)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/698947476)
+    - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1513904)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2419014)
