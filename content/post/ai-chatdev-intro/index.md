@@ -2,8 +2,8 @@
 title = '[AI ChatDev] 你当投资人，让AI帮你在几分钟内完成程序开发'
 date = 2024-04-04T13:11:21+08:00
 draft = false
-categories = ['AI', 'ChatDev']
-tags = ['AI', 'ChatDev', 'AI程序员']
+categories = ['AI', 'AI程序员']
+tags = ['AI', 'AI程序员', 'ChatDev']
 description = "ChatDev是一家虚拟软件公司，通过各种智能代理扮演不同的角色，包括首席执行官、首席产品官、首席技术官、程序员、评审员、测试员、艺术设计师。本文介绍了ChatDev的安装、使用效果和高级技能，以及如何分享您的软件。"
 keywords = ["ChatDev", "软件开发", "交流代理", "智能代理", "虚拟软件公司", "多智能体组织", "LLMs", "易于使用", "可定制", "可扩展"]
 +++
@@ -278,7 +278,7 @@ CPO把用户手册都写了。。。
 
 - [官网](https://github.com/OpenBMB/ChatDev)
 - 本文
-    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-chatdev-introduction/)
+    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-chatdev-intro/)
     - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976783&idx=1&sn=9dfcac76ae2c0f7396f9e1e1b7efd5d4&chksm=86c7d50ab1b05c1c3364b27c364b04f2f1d3cd4992f1757c0d04f3a7aa566b2b317c274af342#rd)
     - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137424700)
     - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/690921503)
