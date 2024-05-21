@@ -2,11 +2,10 @@
 title = '[AI Suno] Suno v3正式上线，AI音乐已来！'
 date = 2024-04-02T10:46:37+08:00
 draft = false
-categories = ['AI', 'Suno']
-tags =  ['AI', 'Suno']
+categories = ['AI', 'Music', 'Suno']
+tags =  ['AI', 'Music', 'Suno']
 description = "Suno v3正式上线，AI音乐已来！在Suno，我们正在构建一个未来，在那里任何人都可以创作音乐。使用v3在几秒钟内创作完整的、长达两分钟的歌曲。更好的音频质量、更多的风格和流派、改进的提示遵从性，这是Suno v3的特性与改进。立即使用v3创作您自己的歌曲！"
 keywords = ["Suno v3", "AI音乐", "Suno Explore", "Suno Create", "Suno List", "Suno v3特性", "Suno v3改进", "Suno v3使用", "音乐创作工具"]
-
 +++
 
 AI音乐来了，Suno v3上线！
@@ -77,7 +76,7 @@ Suno团队
 - [官网 app](https://app.suno.ai/)
 - [官网 介绍](https://www.suno.ai/blog/v3)
 - 本文
-    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/suno-v3-introduce/)
+    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-music-suno-v3-intro/)
     - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976655&idx=1&sn=ebc728402403fcf0dc54e0cbf77c014a&chksm=86c7d58ab1b05c9c270da9968a270a482caea6b2bb551adaf5cec8a179cb1899b942846411bc#rd)
     - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137272956)
     - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/690388497)
