@@ -2,8 +2,8 @@
 title = '[AI SWE-agent] 帮你解决Github中的bug和issue'
 date = 2024-04-16T16:52:36+08:00
 draft = false
-categories = ['AI', 'SWE-agent']
-tags = ['AI', 'SWE-agent']
+categories = ['AI', 'AI程序员']
+tags = ['AI', 'AI程序员', 'SWE-agent', 'princeton']
 description = 'SWE-agent将语言模型（例如GPT-4）转化为软件工程代理，可以在真实的GitHub存储库中修复错误和问题。'
 keywords = ['Princeton Swe Agent', 'SWE-agent', 'GPT-4', '软件工程代理', 'GitHub存储库', 'bug修复', 'issue解决']
 +++
@@ -23,7 +23,7 @@ SWE-agent将语言模型（例如GPT-4）转化为软件工程代理，可以在
 
 SWE-agent由普林斯顿大学的研究人员构建和维护。
 
-![results+preview](results+preview.png)
+![results+preview](https://github.com/princeton-nlp/SWE-agent/raw/main/assets/results+preview.png)
 
 ### ✨ 代理-计算机接口（ACI）
 我们通过设计简单的以语言模型为中心的命令和反馈格式来实现这些结果，以便让语言模型更容易浏览存储库、查看、编辑和执行代码文件。我们将此称为**代理-计算机接口**（ACI），并构建了SWE-agent存储库，以便轻松迭代用于存储库级别编码代理的ACI设计。
@@ -220,7 +220,7 @@ MIT。请查看 `LICENSE` 文件。
 
 - [官网](https://github.com/princeton-nlp/SWE-agent)
 - 本文
-    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/princeton-swe-agent-intro/)
+    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-princeton-swe-agent-intro/)
     - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976847&idx=1&sn=29eabef2321bd02ed2eb331d452efe39&chksm=86c7cacab1b043dc0b435f1e3eed951cd29ce65500003010a3f8b9194760798a43fdf0eef42a#rd)
     - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137859929)
     - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/692920824)
