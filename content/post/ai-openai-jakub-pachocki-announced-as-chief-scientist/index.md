@@ -29,5 +29,5 @@ keywords = ["AI", "OpenAI", "伊利亚·苏茨凯弗", "雅各布·帕霍克", "
     - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/139088236)
     - [掘金 - 从零开始学AI](https://juejin.cn/post/7371040857279561791)
     - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/698947476)
-    - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1513904)
+    <!-- - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1513904) -->
     - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2419014)
