@@ -1,7 +1,7 @@
 +++
 title = '[AI OpenAI] How the voices for ChatGPT were chosen'
 date = 2024-05-21T20:18:14+08:00
-draft = false
+draft = true
 categories = ['AI', 'OpenAI-blog']
 tags = ['AI', 'OpenAI']
 description = "How the voices for ChatGPT were chosen We worked with industry-leading casting and directing professionals to narrow down over 400 submissions before selecting the 5 voices."
