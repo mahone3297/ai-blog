@@ -58,7 +58,7 @@ OpenAI的内部团队从产品和研究的角度审查了声音，经过仔细�
 - [原文](https://openai.com/index/how-the-voices-for-chatgpt-were-chosen/)
 - 本文
     - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-openai-how-the-voices-for-chatgpt-were-chosen/)
-    <!-- - [微信 - 从零开始学AI](...) -->
+    - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977207&idx=1&sn=046ffda1477b7d60485d9b6e583ce1f3&chksm=86c7cbb2b1b042a412b790c28071f879d67167ee94a639798677f3c930bb60413caf5ecc081a#rd)
     <!-- - [CSDN - 从零开始学AI](...) -->
     <!-- - [掘金 - 从零开始学AI](...) -->
     <!-- - [知乎 - 从零开始学AI](...) -->
