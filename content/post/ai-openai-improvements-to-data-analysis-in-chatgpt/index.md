@@ -2,7 +2,7 @@
 title = '[AI OpenAI] ChatGPT数据分析的改进'
 date = 2024-05-21T20:18:14+08:00
 draft = false
-categories = ['AI', 'OpenAI']
+categories = ['AI', 'OpenAI-blog']
 tags = ['AI', 'OpenAI']
 description = "ChatGPT数据分析改进：直接从Google Drive和Microsoft OneDrive上传文件，交互式表格和定制图表。"
 keywords = ["ChatGPT", "数据分析", "Google Drive", "Microsoft OneDrive", "交互式表格", "定制图表"]

@@ -2,7 +2,7 @@
 title = '[AI OpenAI Voice-Engine] 介绍'
 date = 2024-03-31T23:49:01+08:00
 draft = false
-categories = ['AI', 'OpenAI']
+categories = ['AI', 'OpenAI-blog']
 tags = ['AI', 'OpenAI', 'Voice-Engine']
 description = 'OpenAI介绍了Voice Engine语言技术，取得了令人期待的结果。然而，由于各种安全顾虑，目前尚未发布。'
 keywords = ['OpenAI', 'Voice Engine', '语言技术', '合成声音', '人工智能安全']

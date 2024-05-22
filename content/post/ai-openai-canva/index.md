@@ -2,7 +2,7 @@
 title = '[AI OpenAI] Canva'
 date = 2024-05-21T19:21:57+08:00
 draft = false
-categories = ['AI', 'OpenAI']
+categories = ['AI', 'OpenAI-blog']
 tags = ['AI', 'OpenAI', 'Canva']
 description = "Canva是一个视觉沟通平台，为超过1.75亿人提供设计工具。Magic Studio利用GPT-4等AI技术提升创作效率。"
 keywords = ["Canva", "视觉沟通平台", "设计工具", "Magic Studio", "GPT-4", "AI"]
