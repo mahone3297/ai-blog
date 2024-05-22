@@ -2,8 +2,8 @@
 title = '[AI Microsoft] 接下来：微软Build会继续发展和扩展为开发者提供的人工智能工具'
 date = 2024-05-22T15:00:58+08:00
 draft = false
-categories = ['Microsoft']
-tags = ['Microsoft', 'Microsoft Build']
+categories = ['AI', 'Microsoft']
+tags = ['AI', 'Microsoft', 'Microsoft Build']
 description = "人工智能方面的突破性进展对微软以及使用我们技术改善效率、增强客户体验并取得新突破的开发者产生了深远影响。微软Build将继续推动人工智能工具的发展和扩展。"
 keywords = ["Microsoft", "Microsoft Build", "人工智能", "微软Build", "开发者工具"]
 +++
