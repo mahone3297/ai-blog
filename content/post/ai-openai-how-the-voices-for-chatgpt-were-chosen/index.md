@@ -2,7 +2,7 @@
 title = '[AI OpenAI] ChatGPT的声音是如何选择的'
 date = 2024-05-22T09:16:58+08:00
 draft = true
-categories = ['AI', 'OpenAI']
+categories = ['AI', 'OpenAI-blog']
 tags = ['AI', 'OpenAI']
 description = ''
 keywords = []
@@ -51,7 +51,7 @@ OpenAI的内部团队从产品和研究的角度审查了声音，经过仔细�
 ## 新的Voice Mode即将推出到GPT-4o，为付费用户提供，并添加新的声音
 我们计划在未来几周内向ChatGPT Plus用户提供GPT-4o的新Voice Mode的测试版本。借助GPT-4o，使用您的声音与ChatGPT交互将更加自然。GPT-4o可以流畅处理打断，有效管理群组对话，过滤掉背景噪音，并适应语气。
 
-展望未来，我们计划在ChatGPT中引入更多的声音选择，以更好地满足用户多样化的兴
+展望未来，我们计划在ChatGPT中引入更多的声音选择，以更好地满足用户多样化的兴趣和偏好。
 
 ---
 

@@ -1,6 +1,22 @@
 baseURL: 'https://blog.aihub2022.top'
-languageCode: 'en-us'
+# languageCode: 'en-us'
 title: '博客 | 从零开始学AI | Learn AI from scratch'
+defaultContentLanguage: 'zh'
+languages:
+  zh:
+    disabled: false
+    # languageCode: ""
+    # languageDirection: ""
+    languageName: "中文"
+    title: "博客 | 从零开始学AI"
+    weight: 1
+  en:
+    disabled: false
+    # languageCode: ""
+    # languageDirection: ""
+    languageName: "English"
+    title: "Blog | Learn AI from scratch"
+    weight: 2
 
 theme: 'hugo-theme-stack'
 
