@@ -139,9 +139,8 @@ Copilot+ PC为企业提供了最具性能的Windows 11设备，具有独特的AI
 - [原文](https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/)
 - 本文
     - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/microsoft/introducing-copilot-pcs/)
-    <!-- - [Blog | Learn AI from scratch](...) -->
-    <!-- - [公众号 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
+    - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977228&idx=1&sn=f04d78f24f67a698a7846505c77937b7&chksm=86c7cb49b1b0425fa67be08b4a958bb6aca0a1f1079d078af624db9a71c4436262704a5210fc#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/139138684)
     <!-- - [掘金 - 从零开始学AI](...) -->
     <!-- - [知乎 - 从零开始学AI](...) -->
     <!-- - [阿里云 - 从零开始学AI](...) -->
