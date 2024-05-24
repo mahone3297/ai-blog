@@ -20,6 +20,8 @@ keywords = ['Android 15', 'Google', '人工智能', '手机', '安全', '防盗�
 ## 使用盗窃检测锁阻止手机失窃
 盗窃检测锁将于今年晚些时候推出，如果您的手机被抢走，它将帮助您保护个人和财务数据的安全。这一强大的新功能利用谷歌人工智能技术，当有人从您手中抢走手机并试图跑、骑车或开车逃跑时，它会快速锁定手机，以防止您的信息落入错误的手中。
 
+{{< video "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/2._Theft_detection_lock.mp4" >}}
+
 ## 获得更多防范欺诈应用的实时保护
 同样在今年晚些时候，谷歌Play Protect将利用设备上的人工智能技术来发现可能涉及欺诈或钓鱼的应用程序。这种实时威胁检测将分析应用程序如何使用敏感权限并与其他应用程序交互，以实时发现可疑行为。如果谷歌Play Protect发现某些看起来是恶意的东西，该应用程序将被发送到谷歌进行进一步审查，如果确认其正在进行有害活动，我们将警告用户或禁用该应用程序。所有这些操作都是在不收集任何个人数据的情况下完成的。
 
@@ -28,6 +30,8 @@ keywords = ['Android 15', 'Google', '人工智能', '手机', '安全', '防盗�
 
 ## 通过拍照将项目添加到Google Wallet
 除了将包含条形码和QR码的物品的数字版本保存到您的Google Wallet中，很快在美国，您还可以为大多数只包含文本的通行证创建数字版本。只需拍摄日常通行证，比如活动门票、图书馆卡、汽车保险卡、健身会员卡等等，就可以在Google Wallet中创建数字版本，以便快速访问。
+
+{{< video "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/3._Google_Wallet_scan_to_add.mp4" >}}
 
 ## 在Google地图中探索增强现实内容
 您将很快能够直接在手机上的Google地图中访问增强现实（AR）内容，以帮助您以新的沉浸方式了解位置。通过为包括新加坡和巴黎在内的地点构建的体验，您可以看到这一点。这些AR进展为我们与三星和高通合作为整个Android生态系统打造的扩展现实（XR）平台奠定了基础。
@@ -51,6 +55,8 @@ Fast Pair使您可以轻松连接您的Android设备和配件，如扬声器、�
 此外，Fast Pair还可以帮助跟踪您配件的电池寿命，并通过全球推出的新“查找我的设备”体验来定位丢失的设备。本月晚些时候，您将能够在“查找我的设备”应用程序中使用来自Chipolo和Pebblebee的蓝牙跟踪器标签找到诸如钥匙、钱包或行李等物品。今年稍后，请留意来自eufy、Jio、Motorola等品牌的其他蓝牙标签。
 
 了解更多关于Android上所有我们的新功能和即将推出的功能。如果您愿意接受挑战，请玩Android Game On!小游戏，与麦克拉伦车手Lando和Oscar一起体验其中一些功能。
+
+![An animated gif containing the Android and McLaren logos and the text “Game On” with the Android robot wearing a McLaren F1 racing uniform](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Game_on.gif)
 
 对于为汽车、大屏幕、可穿戴设备和电视构建Android应用程序的开发人员，请在我们的开发者博客上了解我们在I/O上宣布的新工具和功能。
 
