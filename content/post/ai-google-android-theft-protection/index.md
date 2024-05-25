@@ -8,6 +8,8 @@ description = "Android的新功能可在盗窃前、期间和后保护您的数�
 keywords = ["Android", "防盗功能", "智能手机", "数据安全", "Google", "AI"]
 +++
 
+{{< video "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/blog_header_2.mp4" >}}
+
 Android的新功能可在盗窃发生前、期间和之后帮助保护您的数据的三种方式。
 
 智能手机帮助我们处理日常任务，如在线银行业务、存储敏感信息、为朋友和家人拍照以及快速支付购物。尽管手机让我们的生活变得更加便捷，但它们也包含了大量宝贵信息，这使得这些设备成为那些可能想获取我们数据的人的目标。
