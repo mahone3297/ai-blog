@@ -66,7 +66,7 @@ Android使用AI来锁定设备，如果手机检测到可能表明盗窃的动�
 - [原文](https://blog.google/products/android/android-theft-protection/)
 - 本文
     - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-google-android-theft-protection/)
-    <!-- - [微信 - 从零开始学AI](...) -->
+    - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977237&idx=1&sn=459278619aa02563bda75e6f2b30e239&chksm=86c7cb50b1b042460ea0e48dc13f6b18a4f681a0a212054dcd979be62c6f456e755b412fcf39#rd)
     <!-- - [CSDN - 从零开始学AI](...) -->
     <!-- - [掘金 - 从零开始学AI](...) -->
     <!-- - [知乎 - 从零开始学AI](...) -->
