@@ -56,7 +56,7 @@ VideoFX 是我们最新的实验性工具，它让您可以仅通过文本提示
 - 本文
     - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-google-labs-video-fx-generative-ai/)
     <!-- - [Blog | Learn AI from scratch](...) -->
-    <!-- - [公众号 - 从零开始学AI](...) -->
+    - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977242&idx=1&sn=c3da440ac620961253a843cc84e6dad1&chksm=86c7cb5fb1b0424946d737178a54b38e4bff5d4b820fffc0f5bdc80db317e557ae835aa12759#rd)
     <!-- - [CSDN - 从零开始学AI](...) -->
     <!-- - [掘金 - 从零开始学AI](...) -->
     <!-- - [知乎 - 从零开始学AI](...) -->
