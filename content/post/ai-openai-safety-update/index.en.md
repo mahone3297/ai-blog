@@ -2,7 +2,7 @@
 title = '[AI OpenAI] OpenAI Safety Update'
 date = 2024-05-27T09:58:48+08:00
 draft = false
-categories = ['AI', 'OpenAI-blog']
+categories = ['AI', 'OpenAI']
 tags = ['AI', 'OpenAI']
 description = "Sharing our practices as part of the AI Seoul Summit. Learn about OpenAI's safety updates and commitments. Explore 10 key safety practices actively used and improved upon by OpenAI."
 keywords = ["OpenAI", "AI Seoul Summit", "safety update", "AI safety", "safety practices", "model safety", "safety measures", "alignment research", "safety monitoring", "child protection", "election integrity", "impact assessment", "policy analysis", "security measures", "government partnership", "safety decision making", "Board oversight"]

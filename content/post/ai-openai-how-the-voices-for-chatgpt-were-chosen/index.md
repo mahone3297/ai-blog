@@ -2,7 +2,7 @@
 title = '[AI OpenAI] ChatGPT的声音是如何选择的'
 date = 2024-05-22T09:16:58+08:00
 draft = false
-categories = ['AI', 'OpenAI-blog']
+categories = ['AI', 'OpenAI']
 tags = ['AI', 'OpenAI']
 description = '如何选择ChatGPT的声音 我们与业界领先的配音和导演专业人士合作，在挑选出5种声音之前，我们对400多个提交进行了筛选。'
 keywords = ["ChatGPT", "声音选择", "配音专业人士", "导演专业人士", "行业合作", "Voice Mode"]

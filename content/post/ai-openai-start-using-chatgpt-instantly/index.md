@@ -2,7 +2,7 @@
 title = '[AI OpenAI ChatGPT] 无需注册，立即使用'
 date = 2024-04-02T09:22:29+08:00
 draft = false
-categories = ['AI', 'OpenAI-blog']
+categories = ['AI', 'OpenAI']
 tags = ['AI', 'OpenAI', 'ChatGPT']
 description = 'ChatGPT大幅降低使用门槛！不用注册什么账号，马上用！我们正在让人们更轻松地体验人工智能的好处，无需注册。'
 keywords = ['ChatGPT', '人工智能', '无需注册', 'AI', 'OpenAI']

@@ -2,7 +2,7 @@
 title = '[AI OpenAI] 引入 GPT-4o 及更多工具至免费版 ChatGPT 用户'
 date = 2024-05-14T21:33:51+08:00
 draft = false
-categories = ['AI', 'OpenAI-blog']
+categories = ['AI', 'OpenAI']
 tags = ['AI', 'OpenAI', 'GPT-4o']
 description = '我们推出了最新的旗舰模型 GPT-4o，并为免费版 ChatGPT 用户提供更多功能，包括更快的速度、改进的文本、语音和视觉能力，以及新的桌面应用程序和简化的界面。'
 keywords = ['GPT-4o', 'ChatGPT', '免费用户', '人工智能', 'AI', 'OpenAI', '语音对话', '桌面应用程序', '新界面']

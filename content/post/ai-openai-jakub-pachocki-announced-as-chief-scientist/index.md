@@ -2,7 +2,7 @@
 title = '[AI OpenAI] 伊利亚·苏茨凯弗将离开OpenAI，雅各布·帕霍克宣布为首席科学家'
 date = 2024-05-21T10:47:25+08:00
 draft = false
-categories = ['AI', 'OpenAI-blog']
+categories = ['AI', 'OpenAI']
 tags = ['AI', 'OpenAI']
 description = "伊利亚·苏茨凯弗将离开OpenAI，雅各布·帕霍克宣布为首席科学家。萨姆·阿尔特曼与公司分享的消息。雅各布是OpenAI的首席科学家，自2017年以来，他一直领导着变革性的研究项目。"
 keywords = ["AI", "OpenAI", "伊利亚·苏茨凯弗", "雅各布·帕霍克", "首席科学家", "萨姆·阿尔特曼", "人工智能", "GPT-4", "OpenAI Five", "深度学习", "强化学习", "雅各布·帕霍克", "卡内基梅隆大学"]

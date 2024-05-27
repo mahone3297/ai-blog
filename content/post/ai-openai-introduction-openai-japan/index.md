@@ -2,7 +2,7 @@
 title = '[AI OpenAI] 将在东京设立亚洲第一个办公室'
 date = 2024-04-16T14:04:30+08:00
 draft = false
-categories = ['AI', 'OpenAI-blog']
+categories = ['AI', 'OpenAI']
 tags = ['AI', 'OpenAI']
 description = 'OpenAI将在东京设立亚洲首个办公室，并开始提供针对日语优化的GPT-4定制模型。'
 keywords = ['OpenAI', '日本', '东京', 'GPT-4', '定制模型', '人工智能', '办公室', '亚洲', '日语']

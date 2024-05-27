@@ -2,7 +2,7 @@
 title = '[AI OpenAI] OpenAI 与 Reddit 合作伙伴关系'
 date = 2024-05-21T19:45:20+08:00
 draft = false
-categories = ['AI', 'OpenAI-blog']
+categories = ['AI', 'OpenAI']
 tags = ['AI', 'OpenAI', 'Reddit']
 description = "OpenAI与Reddit宣布合作，将Reddit内容引入ChatGPT和新产品中，以提升用户体验。此合作将使Reddit用户和版主能够利用AI功能，构建更加强大的社区。OpenAI还将成为Reddit的广告合作伙伴。"
 keywords = ["OpenAI", "Reddit", "合作伙伴关系", "ChatGPT", "AI", "Reddit内容", "社区建设", "用户体验", "AI功能", "广告合作伙伴"]

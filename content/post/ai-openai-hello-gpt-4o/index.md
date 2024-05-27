@@ -2,7 +2,7 @@
 title = '[AI OpenAI] 您好，GPT-4o'
 date = 2024-05-14T09:37:19+08:00
 draft = false
-categories = ['AI', 'OpenAI-blog']
+categories = ['AI', 'OpenAI']
 tags = ['AI', 'OpenAI', 'GPT-4o']
 description = "GPT-4o 是OpenAI的新旗舰模型，能够处理文本、音频和图像，并生成各种组合的输出。它在语言理解、视觉感知和音频处理方面表现出色。本文介绍了GPT-4o的能力、评估结果、安全性和局限性，以及其可用性和未来计划。"
 keywords = ["GPT-4o", "OpenAI", "人工智能", "模型", "语言理解", "视觉感知", "音频处理", "能力", "评估", "安全性", "局限性", "可用性", "未来计划"]
