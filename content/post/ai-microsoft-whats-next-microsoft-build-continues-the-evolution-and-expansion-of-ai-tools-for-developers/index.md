@@ -83,7 +83,7 @@ Copilot扩展，包括插件和连接器，允许客户通过将其连接到新�
 
 - [原文](https://blogs.microsoft.com/blog/2024/05/21/whats-next-microsoft-build-continues-the-evolution-and-expansion-of-ai-tools-for-developers/)
 - 本文
-    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/microsoft/whats-next-microsoft-build-continues-the-evolution-and-expansion-of-ai-tools-for-developers/)
+    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-microsoft-whats-next-microsoft-build-continues-the-evolution-and-expansion-of-ai-tools-for-developers/)
     - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977212&idx=1&sn=7bed083ef1c8f3bb5b9e4f5f0637215e&chksm=86c7cbb9b1b042afc617c526a0120831e3a8d268956807122b1e4d17f2a9d642ef496c2cbd9f#rd)
     <!-- - [CSDN - 从零开始学AI](...) -->
     <!-- - [掘金 - 从零开始学AI](...) -->
