@@ -1,22 +1,33 @@
 +++
-title = '[AI OpenAI] News Corp and Openai Sign Landmark Multi Year Global Partnership'
+title = '[AI OpenAI] 与新闻集团的里程碑式的跨年度全球合作伙伴关系'
 date = 2024-05-27T17:11:12+08:00
 draft = false
 categories = ['AI', 'OpenAI']
 tags = ['AI', 'OpenAI']
-description = ''
-keywords = []
+description = "我们与新闻集团联手支持最高的新闻标准，并通过其优质的新闻报道丰富我们的产品。新闻集团和OpenAI宣布了一项具有历史意义的跨年度协议，将新闻集团的新闻内容引入OpenAI。"
+keywords = ["AI", "OpenAI", "新闻集团", "全球合作伙伴关系", "新闻标准", "新闻报道", "数字时代", "新闻业", "跨年度协议", "可靠信息"]
 +++
 
----
+我们与新闻集团联手支持最高的新闻标准，并通过其优质的新闻报道丰富我们的产品。
+
+![在深灰色背景上显示OpenAI和News Corp的标志。](https://images.ctfassets.net/kftzwdyauwt9/5XiZ5ak5ln5RFBb9RFuUmb/4c6885a348782a8d53d35eaa90f4e1d8/News_Corp.png?w=1920&q=90&fm=webp)
+
+今天，新闻集团和OpenAI宣布了一项具有历史意义的跨年度协议，将新闻集团的新闻内容引入OpenAI。通过这一合作伙伴关系，OpenAI获得了在回答用户问题时展示来自新闻集团的报纸头版内容的许可，并且可以通过增强其产品来提供人们基于可靠信息和新闻来源做出知情选择的能力，这是最终目标。
+
+OpenAI将获得新闻集团主要新闻和信息出版物的当前和存档内容，包括《华尔街日报》、《巴伦周刊》、《MarketWatch》、《投资者商业日报》、《FN》和《纽约邮报》；《泰晤士报》、《星期日泰晤士报》和《太阳报》；《澳大利亚人报》、《news.com.au》、《每日电讯报》、《邮政信箱报》、《广告商报》和《太阳先驱报》；以及其他。此合作伙伴关系不包括访问新闻集团其他业务的内容。
+
+除了提供内容外，新闻集团还将分享新闻专业知识，以帮助确保OpenAI提供的新闻报道具有最高的新闻标准。
+
+新闻集团首席执行官罗伯特·汤姆森表示：“我们相信，这一历史性协议将在数字时代树立新的真实性、美德和价值标准。我们很高兴能在萨姆·奥尔特曼及其可靠、才华横溢的团队身上找到有原则的合作伙伴，他们理解记者和新闻报道的商业和社会意义。这一里程碑式的协议不是终点，而是美好友谊的开始，在这个友谊中，我们共同致力于即时创造和传递见解和诚信。”
+
+OpenAI首席执行官萨姆·奥尔特曼表示：“我们与新闻集团的合作是新闻和技术的一个值得骄傲的时刻。我们非常重视新闻集团作为世界范围内报道突发新闻的领导者的历史，也很高兴能够提升我们用户对其高质量报道的访问。我们共同为一个AI尊重、增强和维护世界一流新闻标准的未来奠定了基础。”
 
 ---
 
 - [原文](https://openai.com/index/news-corp-and-openai-sign-landmark-multi-year-global-partnership/)
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
-    <!-- - [Blog | Learn AI from scratch](...) -->
-    <!-- - [公众号 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-openai-news-corp-and-openai-sign-landmark-multi-year-global-partnership/)
+    - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977252&idx=1&sn=5159553d3a22556d12f5c62edf847d1a&chksm=86c7cb61b1b04277039f7c197c3916f6b13fb5c25d6fd6f982cf8c300dd826a1e45fe72e92a4#rd)
     <!-- - [CSDN - 从零开始学AI](...) -->
     <!-- - [掘金 - 从零开始学AI](...) -->
     <!-- - [知乎 - 从零开始学AI](...) -->
