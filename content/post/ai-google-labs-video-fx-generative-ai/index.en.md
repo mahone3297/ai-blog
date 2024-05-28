@@ -53,4 +53,4 @@ Visit labs.google to try these experiments and more. We look forward to what you
 ---
 
 - [原文](https://blog.google/technology/ai/google-labs-video-fx-generative-ai/)
-<!-- - [Blog | Learn AI from scratch](...) -->
+- [Blog | Learn AI from scratch](https://blog.aihub2022.top/en/post/ai-google-labs-video-fx-generative-ai/)
