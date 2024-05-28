@@ -4,8 +4,8 @@ date = 2024-05-28T10:03:51+08:00
 draft = false
 categories = ['AI', 'Google']
 tags = ['AI', 'Google']
-description = ''
-keywords = []
+description = 'A lot happened at I/O 2024! Whether you were most into the latest Gemini app updates, felt especially excited about what’s coming for developers or can’t wait to try the latest generative AI tools, there was something for just about everyone. Don’t believe us? Below, we rounded up 100 things we announced over the last two days.'
+keywords = ['I/O 2024', 'Google AI', 'Gemini app updates', 'generative AI tools', 'developer advancements', 'Android updates', 'Responsible AI']
 +++
 
 ![A black background with various 3D, rainbow-hued “I”s and “O”s falling down on the right-hand third of the screen.](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO24_100Things_Hero.width-1200.format-webp.webp)

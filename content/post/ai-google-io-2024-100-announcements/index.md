@@ -4,8 +4,8 @@ date = 2024-05-28T10:03:51+08:00
 draft = false
 categories = ['AI', 'Google']
 tags = ['AI', 'Google']
-description = ''
-keywords = []
+description = 'I/O 2024 发生了很多事情！无论你对最新的 Gemini 应用更新感兴趣，对开发者即将推出的内容感到特别兴奋，还是迫不及待想尝试最新的生成式 AI 工具，这里几乎为每个人都提供了一些内容。不信？以下是我们在过去两天宣布的 100 件事情。'
+keywords = ['AI', 'Google', 'Gemini', '生成式 AI', '开发者', '搜索服务', 'Android', '负责任的 AI']
 +++
 
 ![A black background with various 3D, rainbow-hued “I”s and “O”s falling down on the right-hand third of the screen.](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO24_100Things_Hero.width-1200.format-webp.webp)
@@ -240,3 +240,4 @@ Gemini 1.5 的 200 万令牌功能与主要基础模型的上下文长度进行�
 
 - [原文](https://blog.google/technology/ai/google-io-2024-100-announcements/)
 - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-google-io-2024-100-announcements/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977258&idx=1&sn=e078a722ebaba041f6a8149b09a0f963&chksm=86c7cb6fb1b042796c9f186711680815259e895ead723a37304aeebf15c11038d43dd2e45b72#rd)
