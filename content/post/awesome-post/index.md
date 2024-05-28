@@ -8,6 +8,10 @@ description = '精选帖子合集'
 keywords = ['awesome']
 +++
 
+## 投资
+
+- [Founder Park 社区早期基金来了！不仅投你，还要帮你](https://mp.weixin.qq.com/s/H5hkinQG0mb38EDjB7Ss4w)
+
 ## 马斯克
 
 - [马斯克Elon Musk最新精彩Nicolai访谈 2024.4.9 全记录+视频](https://mp.weixin.qq.com/s/3qqBmQLZFZvecpLP58UaPg)
