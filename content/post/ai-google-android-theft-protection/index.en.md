@@ -1,7 +1,7 @@
 +++
 title = '[AI Google] Android’s theft protection features keep your device and data safe'
 date = 2024-05-16T23:24:00+08:00
-draft = true
+draft = false
 categories = ['AI', 'Google']
 tags = ['AI', 'Google', 'Android']
 description = "3 ways Android’s new features can help protect your data before, during and after a theft."

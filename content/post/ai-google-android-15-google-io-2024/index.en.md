@@ -1,7 +1,7 @@
 +++
 title = '[AI Google] 10 updates coming to the Android ecosystem'
 date = 2024-05-16T22:46:01+08:00
-draft = true
+draft = false
 categories = ['AI', 'Google']
 tags = ['AI', 'Google', 'Android']
 description = 'New experiences bring greater theft protections, battery life optimizations on watches and entertainment to TVs, cars and more.'

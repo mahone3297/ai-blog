@@ -1,7 +1,7 @@
 +++
 title = '[AI Microsoft] Whats Next Microsoft Build Continues the Evolution and Expansion of Ai Tools for Developers'
 date = 2024-05-22T15:00:58+08:00
-draft = true
+draft = false
 categories = ['Microsoft']
 tags = ['Microsoft', 'Microsoft Build']
 description = ''

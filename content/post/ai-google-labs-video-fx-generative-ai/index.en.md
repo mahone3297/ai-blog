@@ -1,7 +1,7 @@
 +++
 title = '[AI Google] Introducing VideoFX, plus new features for ImageFX and MusicFX'
 date = 2024-05-25T12:58:31+08:00
-draft = true
+draft = false
 categories = ['AI', 'Google']
 tags = ['AI', 'Google']
 description = 'VideoFX is the latest experiment from labs.google, and you can check out new updates to MusicFX and ImageFX, now available in 110+ countries.'
