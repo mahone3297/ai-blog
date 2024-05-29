@@ -60,7 +60,7 @@ LearnLM正在为我们产品中的一系列功能提供支持，包括Gemini、�
 ---
 
 - [原文](https://blog.google/technology/ai/google-responsible-ai-commitment-update/)
-<!-- - [博客 - 从零开始学AI](...) -->
+- [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-google-responsible-ai-commitment-update/)
 <!-- - [公众号 - 从零开始学AI](...) -->
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->

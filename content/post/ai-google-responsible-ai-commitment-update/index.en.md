@@ -60,7 +60,7 @@ This is in addition to the societally-beneficial results we’ve seen from work 
 ---
 
 - [original](https://blog.google/technology/ai/google-responsible-ai-commitment-update/)
-<!-- - [Blog | Learn AI from scratch](...) -->
+- [Blog | Learn AI from scratch](https://blog.aihub2022.top/en/post/ai-google-responsible-ai-commitment-update/)
 <!-- - [公众号 - 从零开始学AI](...) -->
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
