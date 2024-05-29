@@ -24,9 +24,10 @@ OpenAI技术和政策专家Aleksander Madry（应对准备主管）、Lilian Wen
 
 ---
 
-- [博客 - 从零开始学AI](https://openai.com/index/openai-board-forms-safety-and-security-committee/)
+- [原文](https://openai.com/index/openai-board-forms-safety-and-security-committee/)
+- [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-openai-board-forms-safety-and-security-committee/)
 <!-- - [Blog | Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977264&idx=1&sn=1582fb83b08793c2726f9fa839485c28&chksm=86c7cb75b1b0426398b4e5b3bedcb6800b50bb6c80a66241709adaacee585284efcae0f813a6#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->

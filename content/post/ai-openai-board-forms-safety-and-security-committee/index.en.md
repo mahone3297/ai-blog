@@ -26,7 +26,7 @@ Additionally, OpenAI will retain and consult with other safety, security, and te
 
 - [original](https://openai.com/index/openai-board-forms-safety-and-security-committee/)
 <!-- - [博客 - 从零开始学AI](...) -->
-<!-- - [Blog | Learn AI from scratch](...) -->
+- [Blog | Learn AI from scratch](https://blog.aihub2022.top/en/post/ai-openai-board-forms-safety-and-security-committee/)
 <!-- - [公众号 - 从零开始学AI](...) -->
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
