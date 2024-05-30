@@ -4,20 +4,20 @@ date = 2024-05-30T09:23:40+08:00
 draft = false
 categories = ['AI', 'OpenAI']
 tags = ['AI', 'OpenAI']
-description = ''
-keywords = []
+description = 'MavenAGI launches an AI customer service agent powered by GPT-4, improving efficiency and reducing costs for companies like Tripadvisor and HubSpot.'
+keywords = ['AI', 'OpenAI', 'MavenAGI', 'customer support', 'GPT-4', 'automated customer service', 'AI chatbot', 'customer service automation']
 +++
 
 ![White MavenAGI logo on a purple background.](https://images.ctfassets.net/kftzwdyauwt9/4ODVwIGDS1fsp5DXzVvVrQ/6986fb1ac60bf3bd3ef43110dee807de/MavenAGI.png?w=1920&q=90&fm=webp)
 
-MavenAGI(opens in a new window) is a new software company for the AI era. They recently launched an AI customer service agent, built on the flexibility of GPT-4, which a number of companies like Tripadvisor, Clickup and Rho are already using to save time and better serve their customers.
+MavenAGI is a new software company for the AI era. They recently launched an AI customer service agent, built on the flexibility of GPT-4, which a number of companies like Tripadvisor, Clickup and Rho are already using to save time and better serve their customers.
 
 {{< video "https://videos.ctfassets.net/kftzwdyauwt9/6oggW0porbyOu9Loy3HAUd/01ef350ac68d17f9efcb0f2251b530df/Maven_Chat.mp4" >}}
 
 ## Customer support is expensive yet disappointing
 In today's customer service environment, no one is winning.
 
-Service representatives face repetitive work, demanding ticket volume, disorganized documentation, and delays in escalations. Customers get frustrated explaining issues and waiting for answers, and companies struggle to meet their desire for good customer service. Up to 90% of consumers expect(opens in a new window) an “immediate” customer service response, and more than half of consumers say(opens in a new window) they’d drop a company and use a competitor after just one bad customer service experience.
+Service representatives face repetitive work, demanding ticket volume, disorganized documentation, and delays in escalations. Customers get frustrated explaining issues and waiting for answers, and companies struggle to meet their desire for good customer service. Up to 90% of consumers expect an “immediate” customer service response, and more than half of consumers say they’d drop a company and use a competitor after just one bad customer service experience.
 
 For all this frustration, the average support ticket still costs $40, mostly in labor but also in overlapping systems used to store knowledge. MavenAGI CEO Jonathan Corbin saw customer support as a pain point ready for an overhaul. “Existing systems and siloed data have made it challenging to deliver a great experience in a cost-effective manner," he says, "Companies have long thought they had two options for support: low cost or high quality.”
 
@@ -35,7 +35,7 @@ MavenAGI works by training GPT-4 to the context of customer service in three sta
 “One of the advantages of this generation of AI versus the last generation models is actually you don't really need that much data for any given customer,” CTO Sami Shalabi says. “Evaluation at scale is the magic sauce. The Maven approach has been validated with over 1M customer interactions. Our platform provides the tools that the head of support, CX, and product need to confidently answer any question their customers throw at it.”
 
 ## Improving support at several touchpoints
-MavenAGI offers a full range of channels(opens in a new window) for a better support experience, each highlighting a different benefit to using GPT-4 for custom agents:
+MavenAGI offers a full range of channels for a better support experience, each highlighting a different benefit to using GPT-4 for custom agents:
 
 - For customers looking for self-service assistance, Smart Search instantly provides the right answer in customer-facing knowledge bases or help centers.
 - For customers who are looking for direct support, an AI chatbot uses GPT-4’s capacity for natural conversation to guide customers to quickly find the answers to many questions on their own. MavenAGI automatically discerns whether a question is outside of its capabilities and can route it to a representative. 
@@ -64,4 +64,4 @@ MavenAGI aims to unlock the human potential trapped in input/output tasks. Custo
 ---
 
 - [original](https://openai.com/index/mavenagi-launches-automated-customer-support-agents-powered-by-openai/)
-<!-- - [Blog | Learn AI from scratch](...) -->
+- [Blog | Learn AI from scratch](https://blog.aihub2022.top/en/post/ai-openai-mavenagi-launches-automated-customer-support-agents-powered-by-openai/)
