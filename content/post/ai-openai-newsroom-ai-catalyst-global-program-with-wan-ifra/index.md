@@ -29,11 +29,9 @@ AI时代，尤其是生成式AI，为新闻编辑室和出版商带来了巨大�
 
 ---
 
-<!-- - [原文](...) -->
 - [原文](https://openai.com/index/newsroom-ai-catalyst-global-program-with-wan-ifra/)
-<!-- - [博客 - 从零开始学AI](...) -->
-<!-- - [Blog | Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-openai-newsroom-ai-catalyst-global-program-with-wan-ifra/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977281&idx=1&sn=62d8304b2e5a4ed82e37b0c0957adab8&chksm=86c7cb04b1b04212bb186e33ff7b9dcedebd97e2cb23da418789c22171a59e19ea65f2167370#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->
