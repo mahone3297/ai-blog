@@ -46,8 +46,6 @@ LearnLM 以教育研究为基础，并根据人们的学习方式量身定制，
 ## 应用 LearnLM 构建学校的生成式 AI 体验
 我们还将应用 LearnLM 来指导和启用我们为学校构建的生成式 AI 体验。通过 Google Classroom 的一个新试点项目，我们正在与教育者直接合作，看看我们如何帮助简化和改进课程计划的过程——这是教学中的一个关键但耗时的组成部分。这些功能将帮助教师发现新想法和独特活动，找到吸引人的材料，并区分他们的课程和内容，以满足每个学生的需求。没有任何技术可以取代教师的魔力，但当有意且深思熟虑地应用时，AI 可以帮助增强他们的能力——让他们有更多时间投入到自己和学生身上。
 
-![一段展示新工具如何帮助教师在课堂上应用生成式 AI 的视频](//i.ytimg.com/vi_webp/NTECA6ct55w/default.webp)
-
 {{< youtube NTECA6ct55w >}}
 
 ## 介绍两个新的实验性工具以推进学习
@@ -64,9 +62,8 @@ LearnLM 以教育研究为基础，并根据人们的学习方式量身定制，
 ---
 
 - [原文](https://blog.google/outreach-initiatives/education/google-learnlm-gemini-generative-ai/)
-<!-- - [博客 - 从零开始学AI](...) -->
-<!-- - [Blog | Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-google-learnlm-gemini-generative-ai/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977301&idx=1&sn=c2188e5ba81ecc27c59c0249c9b3fd07&chksm=86c7cb10b1b042069603476a25c79f3a8fe62cf32cd2f54d37784c36a9299c544867f09c08c4#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->

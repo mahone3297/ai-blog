@@ -46,8 +46,6 @@ With LearnLM we’re enhancing learning experiences in products you already use 
 ## Applying LearnLM to build generative AI experiences for schools
 We’ll also apply LearnLM to inform and enable the generative AI experiences that we build for schools. Through a new pilot program in Google Classroom, we’re working directly with educators to see how we can help simplify and improve the process of lesson planning — a critical, but time-consuming component of teaching. These features will help teachers discover new ideas and unique activities, find engaging materials, and differentiate their lessons and content to meet each of their students where they are. No technology can ever replace the magic of a teacher, but when applied in deliberate and thoughtful ways, AI can help to augment their capacity — giving them time back to invest in themselves and their students.
 
-![A video of how new tools are helping teachers apply generative AI in the classroom](//i.ytimg.com/vi_webp/NTECA6ct55w/default.webp)
-
 {{< youtube NTECA6ct55w >}}
 
 ## Introducing two new experimental tools to advance learning
@@ -64,8 +62,7 @@ With any emerging technology, there are still risks and new questions that will 
 ---
 
 - [original](https://blog.google/outreach-initiatives/education/google-learnlm-gemini-generative-ai/)
-<!-- - [博客 - 从零开始学AI](...) -->
-<!-- - [Blog | Learn AI from scratch](...) -->
+- [Blog | Learn AI from scratch](https://blog.aihub2022.top/en/post/ai-google-learnlm-gemini-generative-ai/)
 <!-- - [公众号 - 从零开始学AI](...) -->
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
