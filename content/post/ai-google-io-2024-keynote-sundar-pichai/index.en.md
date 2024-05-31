@@ -209,8 +209,7 @@ This progress is only possible because of our incredible developer community. Yo
 ---
 
 - [original](https://blog.google/inside-google/message-ceo/google-io-2024-keynote-sundar-pichai/)
-<!-- - [博客 - 从零开始学AI](...) -->
-<!-- - [Blog | Learn AI from scratch](...) -->
+- [Blog | Learn AI from scratch](https://blog.aihub2022.top/en/post/ai-google-io-2024-keynote-sundar-pichai/)
 <!-- - [公众号 - 从零开始学AI](...) -->
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->

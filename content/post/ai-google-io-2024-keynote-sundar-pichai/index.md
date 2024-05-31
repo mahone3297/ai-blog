@@ -209,8 +209,7 @@ Gemini 不只是一个聊天机器人；它被设计为你的个人帮助助手�
 ---
 
 - [原文](https://blog.google/inside-google/message-ceo/google-io-2024-keynote-sundar-pichai/)
-<!-- - [博客 - 从零开始学AI](...) -->
-<!-- - [Blog | Learn AI from scratch](...) -->
+- [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-google-io-2024-keynote-sundar-pichai/)
 <!-- - [公众号 - 从零开始学AI](...) -->
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
