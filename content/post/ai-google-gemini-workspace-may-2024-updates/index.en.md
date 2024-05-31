@@ -46,8 +46,7 @@ To start using these features and several other newly announced capabilities for
 ---
 
 - [original](https://blog.google/products/workspace/google-gemini-workspace-may-2024-updates/)
-<!-- - [博客 - 从零开始学AI](...) -->
-<!-- - [Blog | Learn AI from scratch](...) -->
+- [Blog | Learn AI from scratch](https://blog.aihub2022.top/en/post/ai-google-gemini-workspace-may-2024-updates/)
 <!-- - [公众号 - 从零开始学AI](...) -->
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
