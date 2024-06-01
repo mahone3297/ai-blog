@@ -44,10 +44,8 @@ ChatGPT Edu is designed for schools that want to deploy AI more broadly to stude
 
 ---
 
-<!-- - [原文](...) -->
 - [original](https://openai.com/index/introducing-chatgpt-edu/)
-<!-- - [博客 - 从零开始学AI](...) -->
-<!-- - [Blog | Learn AI from scratch](...) -->
+- [Blog | Learn AI from scratch](https://blog.aihub2022.top/en/post/ai-openai-introducing-chatgpt-edu/)
 <!-- - [公众号 - 从零开始学AI](...) -->
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
