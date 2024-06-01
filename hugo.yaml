@@ -1,7 +1,7 @@
 baseURL: 'https://blog.aihub2022.top'
 # languageCode: 'en-us'
 title: '博客 | 从零开始学AI | Learn AI from scratch'
-defaultContentLanguage: 'zh'
+defaultContentLanguage: 'en'
 languages:
   zh:
     disabled: false
@@ -45,7 +45,7 @@ params:
   sidebar:
       compact: false
       # emoji: 🍥
-      subtitle: 关注我，带你一起AI
+      subtitle: 关注我，和你一起AI
       avatar:
           enabled: true
           local: true
