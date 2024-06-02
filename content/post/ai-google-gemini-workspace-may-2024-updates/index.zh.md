@@ -45,9 +45,9 @@ Gemini 在 Gmail 应用中收集你的收件箱中的见解
 
 ---
 
-- [原文](https://blog.google/products/workspace/google-gemini-workspace-may-2024-updates/) 
+- [原文](https://blog.google/products/workspace/google-gemini-workspace-may-2024-updates/)
 - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-google-gemini-workspace-may-2024-updates/)
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977327&idx=1&sn=5a47e7132b8d1c59e2eb572c38ebab4a&chksm=86c7cb2ab1b0423cf7de3d05fec3f49e89cde6519d92fa4418b490555264295bbc94f0e36928#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->
