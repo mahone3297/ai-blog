@@ -41,9 +41,8 @@ Ask Photos是一项实验性功能，我们即将开始推出，并将陆续添�
 ---
 
 - [原文](https://blog.google/products/photos/ask-photos-google-io-2024/)
-<!-- - [博客 - 从零开始学AI](...) -->
-<!-- - [Blog | Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [博客 - 从零开始学AI](https://blog.aihub2022.top/zh/post/ai-google-ask-photos-google-io-2024/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977372&idx=1&sn=7168e2846c4a769f0aacead640f67486&chksm=86c7c8d9b1b041cf641a16d04dc533fbe04ec2a29afa8df5c556b91676acfd8ef9613c982fd9#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->

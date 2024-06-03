@@ -41,8 +41,7 @@ Ask Photos is an experimental feature that we're starting to roll out soon, with
 ---
 
 - [original](https://blog.google/products/photos/ask-photos-google-io-2024/)
-<!-- - [博客 - 从零开始学AI](...) -->
-<!-- - [Blog | Learn AI from scratch](...) -->
+- [Blog | Learn AI from scratch](https://blog.aihub2022.top/post/ai-google-ask-photos-google-io-2024/)
 <!-- - [公众号 - 从零开始学AI](...) -->
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
