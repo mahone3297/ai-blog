@@ -4,9 +4,9 @@ https://blog.aihub2022.top/
 
 ## Get started
 
-### footer custom
+### vercel analytics
 
-`layouts/partials/footer/custom.html` footer is customized for the vercel Analytics.
+Add js in `layouts/partials/head/script.html` is customized for the vercel Analytics.
 
 ### sidebar-left
 
