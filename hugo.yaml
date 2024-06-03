@@ -33,12 +33,19 @@ menus:
   main:
     - name: AI 合集
       url: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA3MDIyNTgzNA==&action=getalbum&album_id=3280266823330201601#wechat_redirect
-    - name: coze 合集
+      weight: 1
+    - name: AI coze 合集
       url: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA3MDIyNTgzNA==&action=getalbum&album_id=3296371887652241411#wechat_redirect
-    - name: 博客
+      weight: 2
+    - name: AI 博客
       url: https://blog.aihub2022.top/
+      weight: 3
+    - name: AI 词典
+      url: https://dict.aihub2022.top/
+      weight: 4
     - name: OpenAI 中文文档
       url: https://openai-doc.aihub2022.top/
+      weight: 5
 
 params:
   newTab: true
