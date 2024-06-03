@@ -14,3 +14,7 @@ The sidebar-left is customized. So, If the theme needs to be updated, we need to
 
 - sync the sidebar-left from the theme `./sync-sidebar-left.sh`
 - and then update the content with `layouts/partials/sidebar/qr_code.html`
+
+### widget
+
+- `categories/tag-cloud.html`, remove icon and add <a> tag to Category/Tags list
