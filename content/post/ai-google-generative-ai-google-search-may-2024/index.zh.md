@@ -83,9 +83,8 @@ keywords = ['AI', 'Google', '生成式 AI', 'Google 搜索', 'Gemini 模型', 'A
 ---
 
 - [原文](https://blog.google/products/search/generative-ai-google-search-may-2024/)
-<!-- - [博客 - 从零开始学AI](...) -->
-<!-- - [Blog | Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [博客 - 从零开始学AI](https://blog.aihub2022.top/zh/post/ai-google-generative-ai-google-search-may-2024/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977376&idx=1&sn=c2ba829e3484d241b69af10445bfc8b1&chksm=86c7c8e5b1b041f3a55eb7b1d076c79837bb2374bf309259a29fd983043e636dc02446bac58f#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->

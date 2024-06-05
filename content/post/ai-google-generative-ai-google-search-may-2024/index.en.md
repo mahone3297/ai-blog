@@ -83,8 +83,7 @@ Sign up for Search Labs to be one of the first to try out these features and mor
 ---
 
 - [original](https://blog.google/products/search/generative-ai-google-search-may-2024/)
-<!-- - [博客 - 从零开始学AI](...) -->
-<!-- - [Blog | Learn AI from scratch](...) -->
+- [Blog | Learn AI from scratch](https://blog.aihub2022.top/post/ai-google-generative-ai-google-search-may-2024/)
 <!-- - [公众号 - 从零开始学AI](...) -->
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
