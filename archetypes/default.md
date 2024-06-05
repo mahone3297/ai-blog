@@ -2,10 +2,10 @@
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 date = {{ .Date }}
 draft = false
-categories = []
-tags = []
+categories = ['AI']
+tags = ['AI']
 description = ''
-keywords = []
+keywords = ['AI']
 +++
 
 ---
