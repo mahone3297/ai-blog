@@ -92,10 +92,8 @@ At OpenAI, we are committed to the ongoing development and protection of advance
 
 ---
 
-<!-- - [原文](...) -->
 - [original](https://openai.com/index/securing-research-infrastructure-for-advanced-ai/)
-<!-- - [博客 - 从零开始学AI](...) -->
-<!-- - [Blog | Learn AI from scratch](...) -->
+- [Blog | Learn AI from scratch](https://blog.aihub2022.top/post/ai-openai-securing-research-infrastructure-for-advanced-ai/)
 <!-- - [公众号 - 从零开始学AI](...) -->
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->

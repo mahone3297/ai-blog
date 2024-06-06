@@ -92,11 +92,9 @@ OpenAI使用内部和外部红队模拟对手测试我们的研究环境安全�
 
 ---
 
-<!-- - [原文](...) -->
-- [original](https://openai.com/index/securing-research-infrastructure-for-advanced-ai/)
-<!-- - [博客 - 从零开始学AI](...) -->
-<!-- - [Blog | Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [原文](https://openai.com/index/securing-research-infrastructure-for-advanced-ai/)
+- [博客 - 从零开始学AI](https://blog.aihub2022.top/zh/post/ai-openai-securing-research-infrastructure-for-advanced-ai/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977381&idx=1&sn=4475f713279278a3de91651197d872ed&chksm=86c7c8e0b1b041f630421c6fac91479bc50b89a810941e3f76e0a723763794bba96221bf1dac#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->
