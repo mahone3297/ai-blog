@@ -27,7 +27,7 @@ keywords = ['OpenAI', '大西洋月刊', 'AI', '新闻合作', '新闻报道', '
 ---
 
 - [原文](https://openai.com/index/enhancing-news-in-chatgpt-with-the-atlantic/)
-- [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-openai-enhancing-news-in-chatgpt-with-the-atlantic/)
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/post/ai-openai-enhancing-news-in-chatgpt-with-the-atlantic/)
 - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977288&idx=1&sn=71309972458281f09e8e6fdeb1d95494&chksm=86c7cb0db1b0421bca26c6c33f08e9505fcb0498e07086ad8fb8ec04cc9f0f7868c11dce0936#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->

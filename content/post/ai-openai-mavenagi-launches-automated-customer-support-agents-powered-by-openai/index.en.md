@@ -64,4 +64,4 @@ MavenAGI aims to unlock the human potential trapped in input/output tasks. Custo
 ---
 
 - [original](https://openai.com/index/mavenagi-launches-automated-customer-support-agents-powered-by-openai/)
-- [Blog | Learn AI from scratch](https://blog.aihub2022.top/en/post/ai-openai-mavenagi-launches-automated-customer-support-agents-powered-by-openai/)
+- [AI Blog | Learn AI from scratch](https://ai-blog.aihub2022.top/en/post/ai-openai-mavenagi-launches-automated-customer-support-agents-powered-by-openai/)

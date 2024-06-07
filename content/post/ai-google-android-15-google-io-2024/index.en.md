@@ -63,4 +63,4 @@ For developers building Android apps for cars, large screens, wearables and TVs,
 ---
 
 - [original](https://blog.google/products/android/android-15-google-io-2024/)
-- [Blog | Learn AI from scratch](https://blog.aihub2022.top/en/post/ai-google-android-15-google-io-2024/)
+- [AI Blog | Learn AI from scratch](https://ai-blog.aihub2022.top/en/post/ai-google-android-15-google-io-2024/)

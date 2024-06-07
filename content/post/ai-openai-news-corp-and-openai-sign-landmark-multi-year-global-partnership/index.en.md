@@ -25,4 +25,4 @@ In addition to providing content, News Corp will share journalistic expertise to
 ---
 
 - [original](https://openai.com/index/news-corp-and-openai-sign-landmark-multi-year-global-partnership/)
-- [Blog | Learn AI from scratch](https://blog.aihub2022.top/en/post/ai-openai-news-corp-and-openai-sign-landmark-multi-year-global-partnership/)
+- [AI Blog | Learn AI from scratch](https://ai-blog.aihub2022.top/en/post/ai-openai-news-corp-and-openai-sign-landmark-multi-year-global-partnership/)

@@ -56,4 +56,4 @@ Looking ahead, you can expect even more options as we plan to introduce addition
 ---
 
 - [original](https://openai.com/index/improvements-to-data-analysis-in-chatgpt/)
-- [Blog | Learn AI from scratch](https://blog.aihub2022.top/en/post/ai-openai-how-the-voices-for-chatgpt-were-chosen/)
+- [AI Blog | Learn AI from scratch](https://ai-blog.aihub2022.top/en/post/ai-openai-how-the-voices-for-chatgpt-were-chosen/)

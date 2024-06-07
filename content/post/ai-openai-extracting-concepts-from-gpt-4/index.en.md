@@ -14,7 +14,7 @@ Researchers have developed new scalable methods to decompose the internal repres
 ---
 
 - [original](https://openai.com/index/extracting-concepts-from-gpt-4/)
-- [Blog | Learn AI from scratch](/post/ai-openai-extracting-concepts-from-gpt-4/)
+- [AI Blog | Learn AI from scratch](https://ai-blog.aihub2022.top/post/ai-openai-extracting-concepts-from-gpt-4/)
 <!-- - [公众号 - 从零开始学AI](...) -->
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->

@@ -239,4 +239,4 @@ Context lengths of leading foundation models compared with Gemini 1.5’s 2 mill
 ---
 
 - [original](https://blog.google/technology/ai/google-io-2024-100-announcements/)
-- [Blog | Learn AI from scratch](https://blog.aihub2022.top/en/post/ai-google-io-2024-100-announcements/)
+- [AI Blog | Learn AI from scratch](https://ai-blog.aihub2022.top/en/post/ai-google-io-2024-100-announcements/)

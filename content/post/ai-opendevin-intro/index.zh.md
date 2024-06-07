@@ -170,7 +170,7 @@ OpenDevin 使用了一系列强大的框架和库的组合，为其开发提供�
 
 - [官网](https://github.com/OpenDevin/OpenDevin)
 - 本文
-    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-opendevin-intro/)
+    - [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/post/ai-opendevin-intro/)
     - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976812&idx=1&sn=d0a139130753fc4c1e1b749e62a6b35c&chksm=86c7d529b1b05c3f11ab4ee807867e3674ce42788ba1d49f2a5f4ba6b113e55d95839650eef7#rd)
     - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137714109)
     - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/692280610)

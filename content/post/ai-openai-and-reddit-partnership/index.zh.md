@@ -34,7 +34,7 @@ OpenAI 披露：Sam Altman 是 Reddit 的股东。此合作由 OpenAI 首席运�
 
 - [原文](https://openai.com/index/openai-and-reddit-partnership/)
 - 本文
-    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-openai-and-reddit-partnership/)
+    - [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/post/ai-openai-and-reddit-partnership/)
     - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977197&idx=1&sn=06fd7a61abd56da799c0f5d1f22ed4b9&chksm=86c7cba8b1b042be6e8dd8d2bf9eec7a35beffd311992b7763440fb43c586f8bc4075d685b7a#rd)
     <!-- - [CSDN - 从零开始学AI](...) -->
     <!-- - [掘金 - 从零开始学AI](...) -->

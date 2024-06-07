@@ -59,7 +59,7 @@ We are committed to developing safe and responsible AI, which involves designing
 ---
 
 - [original](https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/)
-- [Blog | Learn AI from scratch](https://blog.aihub2022.top/en/post/ai-openai-disrupting-deceptive-uses-of-ai-by-covert-influence-operations/)
+- [AI Blog | Learn AI from scratch](https://ai-blog.aihub2022.top/en/post/ai-openai-disrupting-deceptive-uses-of-ai-by-covert-influence-operations/)
 <!-- - [公众号 - 从零开始学AI](...) -->
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->

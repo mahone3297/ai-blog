@@ -49,6 +49,6 @@ Grok-1.5即将提供给早期测试者，我们期待收到您的反馈，以帮
 
 - [官网](https://x.ai/blog/grok-1.5)
 - 本文
-    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-xai-announcing-grok-1.5/)
+    - [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/post/ai-xai-announcing-grok-1.5/)
     - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976734&idx=1&sn=eceea19653fdc8e069bf37b3939f8b22&chksm=86c7d55bb1b05c4d6e490276237ba353512ff1d00a80694c42864a53d989200850f1d7677a53&token=449037386&lang=zh_CN#rd)
     - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137208443)

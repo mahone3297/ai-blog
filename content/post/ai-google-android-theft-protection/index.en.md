@@ -64,5 +64,5 @@ Learn more about how we’re also protecting users from financial fraud and scam
 ---
 
 - [original](https://blog.google/products/android/android-theft-protection/)
-- [Blog | Learn AI from scratch](https://blog.aihub2022.top/en/post/ai-google-android-theft-protection/)
+- [AI Blog | Learn AI from scratch](https://ai-blog.aihub2022.top/en/post/ai-google-android-theft-protection/)
 

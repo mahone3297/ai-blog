@@ -41,7 +41,7 @@ AI 首尔峰会中分享我们的实践
 
 - [原文](https://openai.com/index/openai-safety-update/)
 - 本文
-    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-openai-safety-update/)
+    - [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/post/ai-openai-safety-update/)
     - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977247&idx=1&sn=1af0d05d371dfbaa38304d85c2920f48&chksm=86c7cb5ab1b0424cb66ed46931735296bae1a70ad9251f7ae49c16afc1499f6aa4293a8eefb0#rd)
     <!-- - [CSDN - 从零开始学AI](...) -->
     <!-- - [掘金 - 从零开始学AI](...) -->

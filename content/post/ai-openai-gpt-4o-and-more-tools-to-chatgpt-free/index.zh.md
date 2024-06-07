@@ -58,7 +58,7 @@ GPT-4o 是我们最新的旗舰模型，提供 GPT-4 级别的智能，但速度
 
 - [原文](https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/)
 - 本文
-    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-openai-gpt-4o-and-more-tools-to-chatgpt-free/)
+    - [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/post/ai-openai-gpt-4o-and-more-tools-to-chatgpt-free/)
     - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977110&idx=1&sn=c704bf4fdac8fb963456475c48f46196&chksm=86c7cbd3b1b042c553f7898f9c7d66a7290965ab18afd012c1e646b3e7242bcf0b420a0b6743#rd)
     - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/138906125)
     - [掘金 - 从零开始学AI](https://juejin.cn/post/7368759192255512639)

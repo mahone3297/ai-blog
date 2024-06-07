@@ -255,7 +255,7 @@ keywords = ["新东方", "俞敏洪", "西藏自驾", "老俞闲话", "对话", 
 
 <!-- - [官网](...) -->
 - 从零开始学AI
-    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/xdf-yuminhong/)
+    - [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/post/xdf-yuminhong/)
     <!-- - [微信 - 从零开始学AI](...) -->
     <!-- - [CSDN - 从零开始学AI](...) -->
     <!-- - [掘金 - 从零开始学AI](...) -->

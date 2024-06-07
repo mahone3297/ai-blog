@@ -48,7 +48,7 @@ video 视频请上微信公众号查看。
 ---
 
 - 本文
-    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-ali-emo-integrate-into-tongyi-qianwen/)
+    - [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/post/ai-ali-emo-integrate-into-tongyi-qianwen/)
     - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976939&idx=1&sn=1618cd4ab92898f73cdba88cdb5bc163&chksm=86c7caaeb1b043b8c6e448130fa5cabd0a19f2c1dad4a67b3e79a8182f269b1c80f601bb8499#rd)
     - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/138217555)
     - [掘金 - 从零开始学AI](https://juejin.cn/post/7361715712992788519)

@@ -62,7 +62,7 @@ With any emerging technology, there are still risks and new questions that will 
 ---
 
 - [original](https://blog.google/outreach-initiatives/education/google-learnlm-gemini-generative-ai/)
-- [Blog | Learn AI from scratch](https://blog.aihub2022.top/en/post/ai-google-learnlm-gemini-generative-ai/)
+- [AI Blog | Learn AI from scratch](https://ai-blog.aihub2022.top/en/post/ai-google-learnlm-gemini-generative-ai/)
 <!-- - [公众号 - 从零开始学AI](...) -->
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->

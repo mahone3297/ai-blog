@@ -76,7 +76,7 @@ Suno团队
 - [官网 app](https://app.suno.ai/)
 - [官网 介绍](https://www.suno.ai/blog/v3)
 - 本文
-    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-music-suno-v3-intro/)
+    - [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/post/ai-music-suno-v3-intro/)
     - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976655&idx=1&sn=ebc728402403fcf0dc54e0cbf77c014a&chksm=86c7d58ab1b05c9c270da9968a270a482caea6b2bb551adaf5cec8a179cb1899b942846411bc#rd)
     - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137272956)
     - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/690388497)

@@ -281,6 +281,6 @@ python app.py
 - [github](https://github.com/TMElyralab/MuseV)
 - [huggingface](https://huggingface.co/TMElyralab/MuseV)
 - 本文
-    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-tencent-musev-readme/)
+    - [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/post/ai-tencent-musev-readme/)
     - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976722&idx=1&sn=82100b88eaf4a134e9d4ab1198ea5f01&chksm=86c7d557b1b05c41a59b862e59888df2607faf735e64a037e72239ba555ae4c93d338766e98e&token=449037386&lang=zh_CN#rd)
     - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137186672)

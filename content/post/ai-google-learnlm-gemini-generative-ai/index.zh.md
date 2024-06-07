@@ -62,7 +62,7 @@ LearnLM 以教育研究为基础，并根据人们的学习方式量身定制，
 ---
 
 - [原文](https://blog.google/outreach-initiatives/education/google-learnlm-gemini-generative-ai/)
-- [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-google-learnlm-gemini-generative-ai/)
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/post/ai-google-learnlm-gemini-generative-ai/)
 - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977301&idx=1&sn=c2188e5ba81ecc27c59c0249c9b3fd07&chksm=86c7cb10b1b042069603476a25c79f3a8fe62cf32cd2f54d37784c36a9299c544867f09c08c4#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->

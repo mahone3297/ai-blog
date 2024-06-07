@@ -82,4 +82,4 @@ On Wednesday, you can watch keynotes from Executive Vice President of Cloud and 
 ---
 
 - [original](https://blogs.microsoft.com/blog/2024/05/21/whats-next-microsoft-build-continues-the-evolution-and-expansion-of-ai-tools-for-developers/)
-- [Blog | Learn AI from scratch](https://blog.aihub2022.top/en/post/ai-microsoft-whats-next-microsoft-build-continues-the-evolution-and-expansion-of-ai-tools-for-developers/)
+- [AI Blog | Learn AI from scratch](https://ai-blog.aihub2022.top/en/post/ai-microsoft-whats-next-microsoft-build-continues-the-evolution-and-expansion-of-ai-tools-for-developers/)

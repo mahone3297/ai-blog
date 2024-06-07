@@ -64,7 +64,7 @@ MavenAGI的目标是释放被困在输入/输出任务中的人类潜力。客�
 ---
 
 - [原文](https://openai.com/index/mavenagi-launches-automated-customer-support-agents-powered-by-openai/)
-- [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-openai-mavenagi-launches-automated-customer-support-agents-powered-by-openai/)
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/post/ai-openai-mavenagi-launches-automated-customer-support-agents-powered-by-openai/)
 - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977276&idx=1&sn=263e9e0ec34ba62fc59c4ed938d8b4d2&chksm=86c7cb79b1b0426fc305a4141047145672790dafc0476298f427c4d3bcb25b1bfe2e92bfc81c#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->

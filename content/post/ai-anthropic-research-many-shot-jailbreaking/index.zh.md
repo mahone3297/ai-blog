@@ -90,7 +90,7 @@ LLM的不断延长的上下文窗口是一把双刃剑。它让模型在各种�
 
 - [官网](https://www.anthropic.com/research/many-shot-jailbreaking)
 - 本文
-    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-anthropic-research-many-shot-jailbreaking/)
+    - [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/post/ai-anthropic-research-many-shot-jailbreaking/)
     - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976762&idx=1&sn=cde6403d313d26b79cbd7042c35ee0e4&chksm=86c7d57fb1b05c69101aa3bce70a6ea858624982417c8bd1868bfaf9d7034555d3d1afb26bd1#rd)
     - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137340597)
     - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/690544426)

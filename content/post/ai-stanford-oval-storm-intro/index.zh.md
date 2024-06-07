@@ -200,7 +200,7 @@ python eval_article_quality.py --input-path ../FreshWiki/topic_list.csv --gt-dir
 
 - [官网](https://github.com/stanford-oval/storm)
 - 本文
-    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-stanford-oval-storm-intro/)
+    - [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/post/ai-stanford-oval-storm-intro/)
     - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976835&idx=1&sn=e8cce058030ef38df66488c35012191e&chksm=86c7cac6b1b043d050967bd5bd0b3d46836c9a90895203b229b616bf6d94e0907c9047f514fb#rd)
     - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137769810)
     - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/692502587)

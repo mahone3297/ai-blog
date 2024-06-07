@@ -30,7 +30,7 @@ More details about the program, the curriculum, the timeline, eligibility and th
 ---
 
 - [original](https://openai.com/index/newsroom-ai-catalyst-global-program-with-wan-ifra/)
-- [Blog | Learn AI from scratch](https://blog.aihub2022.top/en/post/ai-openai-newsroom-ai-catalyst-global-program-with-wan-ifra/)
+- [AI Blog | Learn AI from scratch](https://ai-blog.aihub2022.top/en/post/ai-openai-newsroom-ai-catalyst-global-program-with-wan-ifra/)
 <!-- - [公众号 - 从零开始学AI](...) -->
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->

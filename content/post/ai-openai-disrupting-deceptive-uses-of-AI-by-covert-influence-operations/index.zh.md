@@ -59,7 +59,7 @@ OpenAI 致力于执行防止滥用的政策，并提高 AI 生成内容的透明
 ---
 
 - [原文](https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/)
-- [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-openai-disrupting-deceptive-uses-of-ai-by-covert-influence-operations/)
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/post/ai-openai-disrupting-deceptive-uses-of-ai-by-covert-influence-operations/)
 - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977322&idx=1&sn=37b73fee6c4a3ce70ca72e5b2e47cf81&chksm=86c7cb2fb1b04239e79cb88178b551b65a6fd8f3255af66e57a4718b967900d70bcdc0d7ffbd#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->

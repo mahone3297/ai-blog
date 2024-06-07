@@ -155,7 +155,7 @@ Wyclef Jean、Justin Tranter和Marc Rebillet是首批使用Music AI Sandbox发�
 ---
 
 - [原文](https://blog.google/technology/ai/google-generative-ai-veo-imagen-3/)
-- [博客 - 从零开始学AI](https://blog.aihub2022.top/zh/post/ai-google-generative-ai-veo-imagen-3/)
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-google-generative-ai-veo-imagen-3/)
 - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977364&idx=1&sn=7bd17b7dca71a086e7d7d19f6bb8c093&chksm=86c7c8d1b1b041c787ac6847355eae2c854ddc9d2583d7107cefa7213a64c16446157abe1cec#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->

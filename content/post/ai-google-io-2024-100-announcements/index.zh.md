@@ -239,5 +239,5 @@ Gemini 1.5 的 200 万令牌功能与主要基础模型的上下文长度进行�
 ---
 
 - [原文](https://blog.google/technology/ai/google-io-2024-100-announcements/)
-- [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-google-io-2024-100-announcements/)
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/post/ai-google-io-2024-100-announcements/)
 - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977258&idx=1&sn=e078a722ebaba041f6a8149b09a0f963&chksm=86c7cb6fb1b042796c9f186711680815259e895ead723a37304aeebf15c11038d43dd2e45b72#rd)

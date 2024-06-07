@@ -220,7 +220,7 @@ MIT。请查看 `LICENSE` 文件。
 
 - [官网](https://github.com/princeton-nlp/SWE-agent)
 - 本文
-    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-princeton-swe-agent-intro/)
+    - [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/post/ai-princeton-swe-agent-intro/)
     - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976847&idx=1&sn=29eabef2321bd02ed2eb331d452efe39&chksm=86c7cacab1b043dc0b435f1e3eed951cd29ce65500003010a3f8b9194760798a43fdf0eef42a#rd)
     - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137859929)
     - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/692920824)

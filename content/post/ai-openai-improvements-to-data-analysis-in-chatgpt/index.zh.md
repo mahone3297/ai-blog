@@ -66,7 +66,7 @@ keywords = ["ChatGPT", "数据分析", "Google Drive", "Microsoft OneDrive", "�
 
 - [原文](https://openai.com/index/improvements-to-data-analysis-in-chatgpt/)
 - 本文
-    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-openai-improvements-to-data-analysis-in-chatgpt/)
+    - [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/post/ai-openai-improvements-to-data-analysis-in-chatgpt/)
     - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977202&idx=1&sn=d729e1222d54d2c9da646037e951c08a&chksm=86c7cbb7b1b042a170e1bac07870bf32ca9b3fe9eafe79a2935e4be0a3c2ca31a7ef0ffadddc#rd)
     <!-- - [CSDN - 从零开始学AI](...) -->
     <!-- - [掘金 - 从零开始学AI](...) -->

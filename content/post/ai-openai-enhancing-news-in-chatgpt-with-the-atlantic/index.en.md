@@ -27,7 +27,7 @@ The Atlantic is maximizing ambition as it continues to pair journalistic excelle
 ---
 
 - [original](https://openai.com/index/enhancing-news-in-chatgpt-with-the-atlantic/)
-- [Blog | Learn AI from scratch](https://blog.aihub2022.top/en/post/ai-openai-enhancing-news-in-chatgpt-with-the-atlantic/)
+- [AI Blog | Learn AI from scratch](https://ai-blog.aihub2022.top/en/post/ai-openai-enhancing-news-in-chatgpt-with-the-atlantic/)
 <!-- - [公众号 - 从零开始学AI](...) -->
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->

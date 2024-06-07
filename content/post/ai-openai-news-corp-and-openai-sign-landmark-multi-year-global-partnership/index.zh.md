@@ -26,7 +26,7 @@ OpenAI首席执行官萨姆·奥尔特曼表示：“我们与新闻集团的合
 
 - [原文](https://openai.com/index/news-corp-and-openai-sign-landmark-multi-year-global-partnership/)
 - 本文
-    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-openai-news-corp-and-openai-sign-landmark-multi-year-global-partnership/)
+    - [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/post/ai-openai-news-corp-and-openai-sign-landmark-multi-year-global-partnership/)
     - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977252&idx=1&sn=5159553d3a22556d12f5c62edf847d1a&chksm=86c7cb61b1b04277039f7c197c3916f6b13fb5c25d6fd6f982cf8c300dd826a1e45fe72e92a4#rd)
     <!-- - [CSDN - 从零开始学AI](...) -->
     <!-- - [掘金 - 从零开始学AI](...) -->

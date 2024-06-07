@@ -45,7 +45,7 @@ ChatGPT Edu专为那些希望更广泛地向学生和校园社区部署AI的学�
 ---
 
 - [原文](https://openai.com/index/introducing-chatgpt-edu/)
-- [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-openai-introducing-chatgpt-edu/)
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/post/ai-openai-introducing-chatgpt-edu/)
 - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977312&idx=1&sn=5de5c3a6174b5cb5c7fddcdbaa4abf33&chksm=86c7cb25b1b042339cb1d49fdb93e91fdb5a5580063511d9b2675fb570ab69e3a6dbadb8943e#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->

@@ -14,7 +14,7 @@ keywords = ['AI', 'OpenAI', '10BedICU']
 ---
 
 - [original](https://openai.com/index/10bedicu/)
-- [Blog | Learn AI from scratch](https://blog.aihub2022.top/post/ai-openai-10bedicu/)
+- [AI Blog | Learn AI from scratch](https://ai-blog.aihub2022.top/post/ai-openai-10bedicu/)
 <!-- - [公众号 - 从零开始学AI](...) -->
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->

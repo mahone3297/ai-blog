@@ -31,7 +31,7 @@ Vox Media还将使用OpenAI技术扩展其第一方数据平台Forte的领导地
 ---
 
 - [原文](https://openai.com/index/a-content-and-product-partnership-with-vox-media/)
-- [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-openai-a-content-and-product-partnership-with-vox-media/)
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/post/ai-openai-a-content-and-product-partnership-with-vox-media/)
 - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977295&idx=1&sn=0d0b4251cca38ebe62067e1b04077eab&chksm=86c7cb0ab1b0421c41d4d32a9e2fa66e31f05fd66637c4b7dd1f1adbc194863c4ace09bd0305#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->

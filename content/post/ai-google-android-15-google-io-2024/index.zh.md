@@ -64,7 +64,7 @@ Fast Pair使您可以轻松连接您的Android设备和配件，如扬声器、�
 
 - [原文](https://blog.google/products/android/android-15-google-io-2024/)
 - 本文
-    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-google-android-15-google-io-2024/)
+    - [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/post/ai-google-android-15-google-io-2024/)
     - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977233&idx=1&sn=8f745e7e62dcd8d18e42897b7cc57e66&chksm=86c7cb54b1b04242637487257ef59bb9cb549a6b44b7322caa291e5235fa72c0d3cd6ed21f22#rd)
     <!-- - [CSDN - 从零开始学AI](...) -->
     <!-- - [掘金 - 从零开始学AI](...) -->

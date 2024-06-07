@@ -40,7 +40,7 @@ Team4Tech是一个致力于弥合全球数字公平差距的非营利影响加�
 ---
 
 - [原文](https://openai.com/index/introducing-openai-for-nonprofits/)
-- [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-openai-introducing-openai-for-nonprofits/)
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/post/ai-openai-introducing-openai-for-nonprofits/)
 - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977317&idx=1&sn=cd81cf73d8ee545eead87fe9f9ccefa8&chksm=86c7cb20b1b04236878ab21e64f8990eddda28ca1dbb4966fa1e8465480a6d8829f9431bc2fb#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->

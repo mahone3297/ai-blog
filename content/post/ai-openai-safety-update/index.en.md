@@ -40,4 +40,4 @@ As we move towards our next frontier model, we recognize we will need to evolve 
 ---
 
 - [original](https://openai.com/index/openai-safety-update/)
-- [Blog | Learn AI from scratch](https://blog.aihub2022.top/en/post/ai-openai-safety-update/)
+- [AI Blog | Learn AI from scratch](https://ai-blog.aihub2022.top/en/post/ai-openai-safety-update/)

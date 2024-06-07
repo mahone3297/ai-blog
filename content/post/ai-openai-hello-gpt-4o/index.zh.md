@@ -451,7 +451,7 @@ GPT-4o 的文本和图像能力今天开始在ChatGPT 中推出。我们将在�
 
 - [原文](https://openai.com/index/hello-gpt-4o/)
 - 本文
-    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-openai-hello-gpt-4o/)
+    - [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/post/ai-openai-hello-gpt-4o/)
     - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977099&idx=1&sn=db09cbbe59ef01145da5a6ebfac9c77e&chksm=86c7cbceb1b042d84a5af65cd370ab2f485d0a94551cd0abd6d795be936e06dc16c978ee915a#rd)
     - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/138861091)
     - [掘金 - 从零开始学AI](https://juejin.cn/post/7368469208646500371)

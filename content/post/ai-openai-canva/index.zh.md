@@ -51,7 +51,7 @@ Canva与OpenAI之间的紧密合作不仅限于Magic Studio。一个原生的DAL
 
 - [原文](https://openai.com/index/canva/)
 - 本文
-    - [博客 - 从零开始学AI](https://blog.aihub2022.top/post/ai-openai-canva/)
+    - [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/post/ai-openai-canva/)
     - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977192&idx=1&sn=9ff9350ba5946c0ec39a718d16dbf121&chksm=86c7cbadb1b042bba5073d3263c02980513be24618457c45266b925a8a39f8e6b17285c1df24#rd)
     <!-- - [CSDN - 从零开始学AI](...) -->
     <!-- - [掘金 - 从零开始学AI](...) -->
