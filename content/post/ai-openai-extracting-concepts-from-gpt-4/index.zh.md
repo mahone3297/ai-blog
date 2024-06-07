@@ -51,8 +51,7 @@ keywords = ['AI', "GPT-4", "AI可解释性", "机器学习", "稀疏自编码器
 ---
 
 - [原文](https://openai.com/index/extracting-concepts-from-gpt-4/)
-<!-- - [博客 - 从零开始学AI](...) -->
-<!-- - [Blog | Learn AI from scratch](...) -->
+- [博客 - 从零开始学AI](/zh/post/ai-openai-extracting-concepts-from-gpt-4/)
 <!-- - [公众号 - 从零开始学AI](...) -->
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
