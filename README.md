@@ -1,6 +1,6 @@
 Personal blog, mainly introducing AI related knowledge.
 
-https://blog.aihub2022.top/
+https://ai-blog.aihub2022.top/
 
 ## Get started
 
