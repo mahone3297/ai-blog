@@ -46,8 +46,7 @@ keywords = ['AI', 'OpenAI', '10BedICU', '印度', '重症护理', '医疗服务'
 ---
 
 - [原文](https://openai.com/index/10bedicu/)
-<!-- - [博客 - 从零开始学AI](...) -->
-<!-- - [Blog | Learn AI from scratch](...) -->
+- [博客 - 从零开始学AI](https://blog.aihub2022.top/zh/post/ai-openai-10bedicu/)
 <!-- - [公众号 - 从零开始学AI](...) -->
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
