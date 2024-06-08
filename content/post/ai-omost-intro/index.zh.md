@@ -191,7 +191,7 @@ canvas.add_local_description(
 
 最后生成了图像。效果还不错。
 
-![alt text](happy-children-day.png)
+![](happy-children-day.png)
 
 ## 样例
 
@@ -199,19 +199,18 @@ canvas.add_local_description(
 
 问题就是有点慢，几分钟一张图。
 
-![alt text](<ragged man.png>)
+![](<ragged man.png>)
 
-![alt text](girl.png)
+![](girl.png)
 
-![alt text](tiger.png)
+![](tiger.png)
 
-![alt text](chibifu.png)
+![](chibifu.png)
 
 ---
 
 - [github](https://github.com/lllyasviel/Omost)
-<!-- - [博客 - 从零开始学AI](...) -->
-<!-- - [Blog - Learn AI from scratch](...) -->
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-omost-intro/)
 <!-- - [公众号 - 从零开始学AI](...) -->
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->

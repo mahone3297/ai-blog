@@ -191,7 +191,7 @@ canvas.add_local_description(
 
 Finally, the image was generated. The result is quite good.
 
-![alt text](happy-children-day.png)
+![](happy-children-day.png)
 
 ## Samples
 
@@ -199,18 +199,18 @@ Lastly, here are some images I generated, all with pretty good results.
 
 The only issue is that it’s a bit slow, taking a few minutes per image.
 
-![alt text](<ragged man.png>)
+![](<ragged man.png>)
 
-![alt text](girl.png)
+![](girl.png)
 
-![alt text](tiger.png)
+![](tiger.png)
 
-![alt text](chibifu.png)
+![](chibifu.png)
 
 ---
 
 - [GitHub](https://github.com/lllyasviel/Omost)
-<!-- - [Blog - Learn AI from scratch](...) -->
+- [AI Blog - Learn AI from scratch](https://ai-blog.aihub2022.top/post/ai-omost-intro/)
 <!-- - [公众号 - Learn AI from scratch](...) -->
 <!-- - [CSDN - Learn AI from scratch](...) -->
 <!-- - [Juejin - Learn AI from scratch](...) -->
