@@ -4,7 +4,7 @@ date = 2024-06-07T14:43:17+08:00
 draft = false
 categories = ['AI', 'Text-to-Image']
 tags = ['AI', 'Text-to-Image']
-description = 'Omost is a project to convert LLM's coding capability to image generation (or more accurately, image composing) capability.'
+description = "Omost is a project to convert LLM's coding capability to image generation (or more accurately, image composing) capability."
 keywords = ['AI', 'Text-to-Image', 'Omost']
 +++
 
