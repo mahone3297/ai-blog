@@ -94,9 +94,8 @@ Project Astra的两部分演示，我们对未来AI助手的愿景。每部分�
 ---
 
 - [原文](https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/)
-<!-- - [博客 - 从零开始学AI](...) -->
-<!-- - [Blog | Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-google-gemini-update-flash-ai-assistant-io-2024/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977405&idx=1&sn=40032ee85d10116476addc8872925582&chksm=86c7c8f8b1b041ee60f8eee2e37887239645c373bfde1b51aa22d18ef956be27ae03c8d674eb#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->
