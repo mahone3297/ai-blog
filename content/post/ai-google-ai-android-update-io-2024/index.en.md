@@ -15,11 +15,4 @@ By building AI right into the Android operating system, Google is reimagining ho
 ---
 
 - [original](https://blog.google/products/android/google-ai-android-update-io-2024/)
-<!-- - [AI 博客 - 从零开始学AI](...) -->
-<!-- - [AI Blog | Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
-<!-- - [CSDN - 从零开始学AI](...) -->
-<!-- - [掘金 - 从零开始学AI](...) -->
-<!-- - [知乎 - 从零开始学AI](...) -->
-<!-- - [阿里云 - 从零开始学AI](...) -->
-<!-- - [腾讯云 - 从零开始学AI](...) -->
+- [AI Blog - Learn AI from scratch](https://ai-blog.aihub2022.top/post/ai-google-ai-android-update-io-2024/)

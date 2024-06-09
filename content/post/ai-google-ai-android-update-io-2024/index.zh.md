@@ -61,9 +61,8 @@ Android 是第一个包括内置、设备上基础模型的移动操作系统。
 ---
 
 - [原文](https://blog.google/products/android/google-ai-android-update-io-2024/)
-<!-- - [AI 博客 - 从零开始学AI](...) -->
-<!-- - [AI Blog | Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-google-ai-android-update-io-2024/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977414&idx=1&sn=c9d7546a7785c9067ec79cca20128ee0&chksm=86c7c883b1b04195fadac116857aed175cf0411218dd3b52a73385629027088f297198a8cce6#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->
