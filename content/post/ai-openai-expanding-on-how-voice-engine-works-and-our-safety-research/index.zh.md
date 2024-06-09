@@ -60,7 +60,7 @@ TTS系统是通过帮助模型理解配对音频和转录的语音细微差别�
 ---
 
 - [原文](https://openai.com/index/expanding-on-how-voice-engine-works-and-our-safety-research/)
-<!-- - [AI 博客 - 从零开始学AI](...) -->
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-openai-expanding-on-how-voice-engine-works-and-our-safety-research/)
 <!-- - [公众号 - 从零开始学AI](...) -->
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->

@@ -1,5 +1,5 @@
 +++
-title = 'Ai Openai Expanding on How Voice Engine Works and Our Safety Research'
+title = '[AI OpenAI] Expanding on how Voice Engine works and our safety research'
 date = 2024-06-09T10:31:45+08:00
 draft = false
 categories = ['AI', 'OpenAI']
@@ -13,7 +13,7 @@ This article discusses the working principle and safety research of the voice en
 ---
 
 - [original](https://openai.com/index/expanding-on-how-voice-engine-works-and-our-safety-research/)
-<!-- - [AI Blog - Learn AI from scratch](...) -->
+- [AI Blog - Learn AI from scratch](https://ai-blog.aihub2022.top/post/ai-openai-expanding-on-how-voice-engine-works-and-our-safety-research/)
 <!-- - [公众号 - 从零开始学AI](...) -->
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
