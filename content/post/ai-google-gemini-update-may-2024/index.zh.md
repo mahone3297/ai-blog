@@ -73,9 +73,8 @@ Gemini 1.5 Pro 将在超过 150 个国家和 35 种语言中向 Gemini Advanced 
 ---
 
 - [原文](https://blog.google/products/gemini/google-gemini-update-may-2024/)
-<!-- - [AI 博客 - 从零开始学AI](...) -->
-<!-- - [AI Blog - Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-google-gemini-update-may-2024/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977431&idx=1&sn=df9809d20a36e42e9b84ef75df0e7763&chksm=86c7c892b1b04184c360e6932f0d8adf90fb8d05e4b7cc862b57a8162ba2a24f401f25e8ef8c#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->
