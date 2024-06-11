@@ -8,6 +8,10 @@ description = '精选帖子合集'
 keywords = ['awesome']
 +++
 
+## AI
+### RAG
+- [一文详谈RAG优化方案与实践](https://mp.weixin.qq.com/s/HT9bjXpwoSszU_ru-e-9dw)
+
 ## 投资
 
 - [Founder Park 社区早期基金来了！不仅投你，还要帮你](https://mp.weixin.qq.com/s/H5hkinQG0mb38EDjB7Ss4w)
