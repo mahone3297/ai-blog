@@ -199,7 +199,7 @@ canvas.add_local_description(
 
 问题就是有点慢，几分钟一张图。
 
-![](<ragged man.png>)
+![](ragged-man.png)
 
 ![](girl.png)
 
@@ -211,7 +211,7 @@ canvas.add_local_description(
 
 - [github](https://github.com/lllyasviel/Omost)
 - [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-omost-intro/)
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977442&idx=1&sn=57ac8c886d9cc6f7e5ea6062930eb088&chksm=86c7c8a7b1b041b11300928df16bd0e906da2540a1bda611042e74f8eee7b2a3fb8e210c1e50#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->

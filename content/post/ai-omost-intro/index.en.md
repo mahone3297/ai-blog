@@ -199,7 +199,7 @@ Lastly, here are some images I generated, all with pretty good results.
 
 The only issue is that it’s a bit slow, taking a few minutes per image.
 
-![](<ragged man.png>)
+![](ragged-man.png)
 
 ![](girl.png)
 
