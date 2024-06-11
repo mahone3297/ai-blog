@@ -8,6 +8,13 @@ description = "新东方 俞敏洪的相关文章和对话。包括西藏自驾�
 keywords = ["新东方", "俞敏洪", "西藏自驾", "老俞闲话", "对话", "周记", "游记"]
 +++
 
+## 葡萄牙纪行
+
+- [老俞闲话丨葡萄牙纪行（一）](https://mp.weixin.qq.com/s/QOw4gS2HBc9qGFo0UbtUzw)
+- [老俞闲话丨葡萄牙纪行（二）](https://mp.weixin.qq.com/s/j7iSfVcV7KiFjzyhbFN2Lg)
+- [老俞闲话丨葡萄牙纪行（三）](https://mp.weixin.qq.com/s/tQm7o8O0pGgsENZoojxnyA)
+- [老俞闲话丨葡萄牙纪行（四）](https://mp.weixin.qq.com/s/fV8h5TewjH7fs5nzVBtMrg)
+
 ## 西藏自驾
 
 - [老俞闲话丨西藏自驾之旅（序）](https://mp.weixin.qq.com/s/Eq1x1uykAGwfHfHWESdR9A)
