@@ -47,14 +47,14 @@ python gradio_app_sdxl_specific_id_low_vram.py
 
 ### 角色描述
 
-```
+```plaintext
 [汤姆] 一个戴眼镜的年轻程序员，穿着带有编程口号的T恤。
 [丽莎] 一个女开发者，短发，笔记本电脑上贴满了科技标志的贴纸。
 ```
 
 ### 漫画描述
 
-```
+```plaintext
 [汤姆] 在办公室，正在键盘上打字 #汤姆正在编写一段代码。
 [丽莎] 在同一个办公室，正在她的笔记本电脑上查看汤姆的代码 #丽莎问汤姆他是用的tab还是空格。
 [汤姆] 和 [丽莎] 争论，双方都显得很沮丧 #汤姆辩解用tab，丽莎坚持用空格。
@@ -95,9 +95,8 @@ python gradio_app_sdxl_specific_id_low_vram.py
 
 - [github](https://github.com/HVision-NKU/StoryDiffusion)
 - [官网](https://storydiffusion.github.io/)
-<!-- - [AI 博客 - 从零开始学AI](...) -->
-<!-- - [AI Blog - Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-storydiffusion-intro/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977457&idx=1&sn=d756952c4a9b1a3a67a1db2bb3286d05&chksm=86c7c8b4b1b041a2a37002e7fa7510e6593b941087c02e13d9b9339167a5ebc743b025627146#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->

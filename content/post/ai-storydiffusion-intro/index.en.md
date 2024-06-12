@@ -95,3 +95,4 @@ Which operating system is better: Windows or macOS?
 
 - [GitHub](https://github.com/HVision-NKU/StoryDiffusion)
 - [Official Website](https://storydiffusion.github.io/)
+- [AI Blog - Learn AI from scratch](https://ai-blog.aihub2022.top/post/ai-storydiffusion-intro/)
