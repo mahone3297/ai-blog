@@ -37,7 +37,7 @@ menus:
     - name: AI coze 合集
       url: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA3MDIyNTgzNA==&action=getalbum&album_id=3296371887652241411#wechat_redirect
       weight: 2
-    - name: AI 博客
+    - name: AI blog
       url: https://ai-blog.aihub2022.top/
       weight: 3
     - name: AI words
@@ -63,7 +63,7 @@ params:
     readingTime: true
   widgets:
     homepage:
-      # - type: search
+      - type: search
       # - type: archives
       #   params:
       #     limit: 5
@@ -74,6 +74,7 @@ params:
         params:
           limit: 20
     page:
+      - type: search
       - type: toc
 
 markup:
