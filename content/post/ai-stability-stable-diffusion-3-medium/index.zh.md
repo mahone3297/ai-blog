@@ -50,10 +50,8 @@ prompt: "A charming young girl stands on a sunlit path, her light summer dress f
 ---
 
 - [官网](https://stability.ai/news/stable-diffusion-3-medium)
-<!-- - [original](...) -->
-<!-- - [AI 博客 - 从零开始学AI](...) -->
-<!-- - [AI Blog - Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-stability-stable-diffusion-3-medium/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977468&idx=1&sn=9fc9cdb35831ab8bc29327662cf643e2&chksm=86c7c8b9b1b041af790473072f82d8340c0228887488d45ddea48cbce58662f7773da36fda75#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->
