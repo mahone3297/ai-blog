@@ -31,6 +31,9 @@ menus:
     #   params:
     #       icon: brand-github
   main:
+    - name: About
+      url: /about/
+      weight: 1
     - name: AI 合集
       url: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA3MDIyNTgzNA==&action=getalbum&album_id=3280266823330201601#wechat_redirect
       weight: 1
