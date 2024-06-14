@@ -29,4 +29,4 @@ keywords = ['AI', 'AI words', 'search bar', '新功能', '单词查找']
 ---
 
 - [AI words](https://ai-words.aihub2022.top/)
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977475&idx=1&sn=f8b81c6022f69523af4ff83047e53112&chksm=86c7c846b1b041501e5f5164c83c694da7f4666c847f16ecf05cefa85c650f21a255920c2837#rd)
