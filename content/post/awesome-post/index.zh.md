@@ -28,6 +28,7 @@ keywords = ['awesome']
 ### 马斯克
 - [马斯克Elon Musk最新精彩Nicolai访谈 2024.4.9 全记录+视频](https://mp.weixin.qq.com/s/3qqBmQLZFZvecpLP58UaPg)
 - [特斯拉2024第一季度财报及问答电话会议 · 完整版+视频](https://mp.weixin.qq.com/s/Gd_K78rPbZGXwfnsPW0rQQ)
+- [马斯克 · 特斯拉2024年度股东大会 · 图文完整版3万字（附全程精校视频）](https://mp.weixin.qq.com/s/xtV1AbE26shzNpDoNnso_w)
 ### Sam Altman
 - [Sam Altman 5月最新2万字谈AI未来：GPT-5与OpenAI的使命 （附全文+视频）](https://mp.weixin.qq.com/s/aT3lMdLGMtRqNHbfoWJJ0w)
 
