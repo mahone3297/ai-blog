@@ -46,6 +46,9 @@ menus:
     - name: OpenAI 中文文档
       url: https://openai-doc.aihub2022.top/
       weight: 5
+    - name: Friendly Links 友链
+      url: /links/
+      weight: 6
 
 params:
   newTab: true
@@ -76,6 +79,9 @@ params:
     page:
       # - type: search
       - type: toc
+  footer:
+      since: 2024
+      customText:
 
 markup:
     goldmark:
