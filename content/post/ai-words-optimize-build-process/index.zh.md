@@ -64,11 +64,8 @@ keywords = ['AI', 'AI words', '优化', '网站性能', '构建过程', '网站�
 
 ---
 
-<!-- - [原文](...) -->
-<!-- - [original](...) -->
-<!-- - [AI 博客 - 从零开始学AI](...) -->
-<!-- - [AI Blog - Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-words-optimize-build-process/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977485&idx=1&sn=8c0f44e59ab78efe26224b2446ac2ad5&chksm=86c7c848b1b0415e3b11d727a69f8e5626860ee8b28989d363cf7a59b9c98e99ccc59c454c94#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->
