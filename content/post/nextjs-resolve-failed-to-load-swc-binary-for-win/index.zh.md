@@ -56,8 +56,8 @@ npm i @next/swc-win32-x64-msvc
 
 ---
 
-<!-- - [AI 博客 - 从零开始学AI]() -->
-<!-- - [公众号 - 从零开始学AI]() -->
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/nextjs-resolve-failed-to-load-swc-binary-for-win/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977490&idx=1&sn=af76ac46cc26628f6b7b1c7e2fe122be&chksm=86c7c857b1b04141915c5c98beeb808ab3824910a62d12305c8147d3fedfca993b18463942ee#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->

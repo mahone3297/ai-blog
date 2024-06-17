@@ -56,7 +56,7 @@ Now, you can run `npm run dev` again and see if the error is resolved. If everyt
 
 ---
 
-<!-- - [AI Blog - Learn AI from Scratch]() -->
+- [AI Blog - Learn AI from Scratch](https://ai-blog.aihub2022.top/post/nextjs-resolve-failed-to-load-swc-binary-for-win/)
 <!-- - [Official Account - Learn AI from Scratch]() -->
 <!-- - [CSDN - Learn AI from Scratch](...) -->
 <!-- - [Juejin - Learn AI from Scratch](...) -->
