@@ -8,6 +8,8 @@ description = 'Exploring Google TimesFM to see if it can predict stock prices an
 keywords = ['AI', 'Google', 'TimesFM', 'Time Series Forecasting', 'Stock Price Prediction']
 +++
 
+![](ai-google-timesfm-can-ai-predict-stock-prices-for-financial-freedom-sf-intricate-artwork-maste.jpeg)
+
 Today, I stumbled upon a model named TimesFM, which can predict time series data. This sparked a bold idea: if this model can predict stock prices, could it make me a stock market guru?
 
 ## Introduction

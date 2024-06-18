@@ -8,6 +8,8 @@ description = '探索谷歌TimesFM模型，看看它能否通过预测股票价�
 keywords = ['AI', '谷歌', 'TimesFM', '时间序列预测', '股票价格预测']
 +++
 
+![](ai-google-timesfm-can-ai-predict-stock-prices-for-financial-freedom-sf-intricate-artwork-maste.jpeg)
+
 今天我偶然发现了一个名为TimesFM的模型，它能够预测时间序列数据。于是我心中冒出了一个大胆的想法：如果这个模型可以预测股票价格，那么我是否能借此成为股神呢？
 
 ## 介绍
