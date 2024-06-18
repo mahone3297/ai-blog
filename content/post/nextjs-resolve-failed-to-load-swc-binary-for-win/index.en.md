@@ -8,6 +8,8 @@ description = 'Quickly resolve the SWC Binary error when running Next.js on Wind
 keywords = ['Next.js', 'SWC binary error', 'Windows', 'Microsoft Visual C++ Redistributable', 'processor architecture', 'node process architecture']
 +++
 
+![](nextjs--failed-to-load-swc-binary-for-win3264-sf-intricate-artwork-masterpiece-ominous-matt.jpeg)
+
 When running the Next.js `npm run dev` command, you might encounter this frustrating error:
 
 ```bash

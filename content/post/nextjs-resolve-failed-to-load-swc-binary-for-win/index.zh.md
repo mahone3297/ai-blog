@@ -8,6 +8,8 @@ description = '快速解决 Next.js 在 Windows 下运行时 SWC Binary 报错�
 keywords = ['Next.js', 'SWC binary error', 'Windows', 'Microsoft Visual C++ Redistributable', '处理器架构', 'node 进程架构']
 +++
 
+![](nextjs--failed-to-load-swc-binary-for-win3264-sf-intricate-artwork-masterpiece-ominous-matt.jpeg)
+
 在运行 Next.js `npm run dev` 程序时，你可能会遇到这样一个让人抓狂的报错：
 
 ```bash
