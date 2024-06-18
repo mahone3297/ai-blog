@@ -143,12 +143,4 @@ Although the TimesFM model demonstrated some predictive capabilities, the final 
 - [Google Research blog](https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/)
 - [Hugging Face checkpoint repo](https://huggingface.co/google/timesfm-1.0-200m)
 - https://github.com/lhw828/timesfm
-
-<!-- - [Original](...) -->
-<!-- - [AI Blog - Learn AI from scratch](...) -->
-<!-- - [Official Account - Learn AI from scratch](...) -->
-<!-- - [CSDN - Learn AI from scratch](...) -->
-<!-- - [Juejin - Learn AI from scratch](...) -->
-<!-- - [Zhihu - Learn AI from scratch](...) -->
-<!-- - [Alibaba Cloud - Learn AI from scratch](...) -->
-<!-- - [Tencent Cloud - Learn AI from scratch](...) -->
+- [AI Blog - Learn AI from scratch](https://ai-blog.aihub2022.top/post/ai-google-timesfm-intro/)

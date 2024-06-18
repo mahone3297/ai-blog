@@ -143,12 +143,8 @@ plt.close(fig='all')
 - [Google Research blog](https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/)
 - [Hugging Face checkpoint repo](https://huggingface.co/google/timesfm-1.0-200m)
 - https://github.com/lhw828/timesfm
-
-<!-- - [原文](...) -->
-<!-- - [original](...) -->
-<!-- - [AI 博客 - 从零开始学AI](...) -->
-<!-- - [AI Blog - Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-google-timesfm-intro/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977499&idx=1&sn=b797640ce9a8df227680d4567f6586bd&chksm=86c7c85eb1b041485c7bab75299bd4f6b422da0e854db440e8e246b937d17d058e1686a9a62e#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->
