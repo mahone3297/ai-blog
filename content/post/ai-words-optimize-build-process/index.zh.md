@@ -8,6 +8,8 @@ description = '了解我如何优化AI words网站的构建过程，将构建时
 keywords = ['AI', 'AI words', '优化', '网站性能', '构建过程', '网站开发']
 +++
 
+![](ai-words-optimize-build-process-sf-intricate-artwork-masterpiece-ominous-matte-painting-mo.jpeg)
+
 在一个阳光明媚的早晨，我坐在电脑前，满怀期待地按下了“构建”按钮，准备生成我的新网站 [AI words](https://ai-words.aihub2022.top/)。这个网站的目标是为每个单词生成一个单独的页面，总共有5000个单词。可是，构建过程竟然需要整整14分钟！我心想，难道没有办法让这个过程更快一些吗？
 
 ## 初探性能瓶颈

@@ -8,6 +8,8 @@ description = 'Learn how I optimized the build process of the AI words website, 
 keywords = ['AI', 'AI words', 'optimization', 'website performance', 'build process', 'website development']
 +++
 
+![](ai-words-optimize-build-process-sf-intricate-artwork-masterpiece-ominous-matte-painting-mo.jpeg)
+
 On a sunny morning, I sat at my computer, eagerly pressing the "build" button to generate my new website, [AI words](https://ai-words.aihub2022.top/). This website aimed to create a separate page for each word, with a total of 5,000 words. But to my surprise, the build process took a whopping 14 minutes! I thought, isn't there a way to make this process faster?
 
 ## Exploring Performance Bottlenecks
