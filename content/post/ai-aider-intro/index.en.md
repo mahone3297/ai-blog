@@ -66,6 +66,7 @@ In conclusion: Keep working hard, and keep using AI. Persistence is key, and per
 - [Official Website](https://aider.chat/)
 - [GitHub](https://github.com/paul-gauthier/aider)
 - [Building a better repository map with tree sitter](https://aider.chat/2023/10/22/repomap.html)
+- https://deepseek.com/
 - [AI Blog - Learn AI from scratch](https://ai-blog.aihub2022.top/post/ai-aider-intro/)
 <!-- - [CSDN - Learn AI from scratch](...) -->
 <!-- - [Juejin - Learn AI from scratch](...) -->

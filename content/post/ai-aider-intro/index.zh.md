@@ -66,6 +66,7 @@ Aider 支持很多 LLM。我试用了 DeepSeek 这个模型，他们最近发布
 - [官网](https://aider.chat/)
 - [github](https://github.com/paul-gauthier/aider)
 - [Building a better repository map with tree sitter](https://aider.chat/2023/10/22/repomap.html)
+- https://deepseek.com/
 - [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-aider-intro/)
 - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977505&idx=1&sn=21a91feef83c38edc7ad0727751a184b&chksm=86c7c864b1b0417296dda0f3f20cee58f8e5fd66ac514b53f2722efb7524e80472c0fe2a69c8#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
