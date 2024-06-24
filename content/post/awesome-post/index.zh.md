@@ -11,6 +11,7 @@ keywords = ['awesome']
 ## AI Tech
 ### RAG
 - [一文详谈RAG优化方案与实践](https://mp.weixin.qq.com/s/HT9bjXpwoSszU_ru-e-9dw)
+- [Vector | Graph：蚂蚁首个开源Graph RAG框架设计解读](https://mp.weixin.qq.com/s/hd2FzO2p15ERbHe0w87J8Q)
 ### Llama-3
 - [百亿美金开源模型Llama3: 小札最新2万字访谈披露一切 · 全纪录+视频](https://mp.weixin.qq.com/s/MuSFe3BGgqnHVS-D57eI1w)
 
