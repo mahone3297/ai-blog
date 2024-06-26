@@ -80,3 +80,4 @@ At this stage, AI can only achieve this level. It seems there's still much work 
 ---
 
 - [github](https://github.com/harry0703/MoneyPrinterTurbo)
+- [AI Blog - Learn AI from scratch](https://ai-blog.aihub2022.top/post/ai-moneyprinterturbo-intro/)

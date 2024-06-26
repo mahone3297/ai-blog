@@ -80,9 +80,8 @@ pip install -r requirements.txt
 ---
 
 - [github](https://github.com/harry0703/MoneyPrinterTurbo)
-<!-- - [AI 博客 - 从零开始学AI](...) -->
-<!-- - [AI Blog - Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-moneyprinterturbo-intro/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977513&idx=1&sn=ce7d24de6b52692b6da04d8ba9a1c3cb&chksm=86c7c86cb1b0417aa6e192fa3a24d68a7572f46f39c41a8da09df0d66c63d7b1b46991a83d04#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->
