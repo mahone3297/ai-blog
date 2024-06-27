@@ -14,6 +14,8 @@ keywords = ['awesome']
 - [Vector | Graph：蚂蚁首个开源Graph RAG框架设计解读](https://mp.weixin.qq.com/s/hd2FzO2p15ERbHe0w87J8Q)
 ### Llama-3
 - [百亿美金开源模型Llama3: 小札最新2万字访谈披露一切 · 全纪录+视频](https://mp.weixin.qq.com/s/MuSFe3BGgqnHVS-D57eI1w)
+### AI search
+- [我做了一个 AI 搜索引擎](https://mp.weixin.qq.com/s/25eXZi1QgGYIPpXeDzkQrg)
 
 ## 投资
 - [Founder Park 社区早期基金来了！不仅投你，还要帮你](https://mp.weixin.qq.com/s/H5hkinQG0mb38EDjB7Ss4w)
