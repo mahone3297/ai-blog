@@ -8,11 +8,9 @@ description = '探索Perplexica，一款由AI驱动的开源搜索引擎，了�
 keywords = ['AI', 'Perplexica', '开源', '搜索引擎', '机器学习', 'SearxNG', 'LLMs']
 +++
 
-AI搜索引擎市场，有产品 https://www.perplexity.ai/ 。我们看下，它如何介绍自己
+之前，我们有介绍过 [Perplexcity](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976470&idx=1&sn=7a501a09ae52c2f900c44c1cf0e5c491&chksm=86c7d453b1b05d456ef6fa3cfe169ead60daef54eaa0fbc3d7c14f989fa34b0df159706d0871#rd)
 
-![How is Perplexity AI different?](how-perplexity-ai-different.png)
-
-开源市场上，也有一款对标产品 Perplexica ，我们来看下
+现在，开源市场上，也有一款对标产品 Perplexica ，我们来看下
 
 ![perplexica](perplexica.png)
 
@@ -78,9 +76,8 @@ Perplexica是一个开源的、由AI驱动的搜索工具或搜索引擎，它�
 ---
 
 - [github](https://github.com/ItzCrazyKns/Perplexica)
-<!-- - [AI 博客 - 从零开始学AI](...) -->
-<!-- - [AI Blog - Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-perplexica-intro/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977519&idx=1&sn=7faa96a1ca403b53f5dccc7dd7e7893e&chksm=86c7c86ab1b0417cbf2720c9bd6ee3ca2d19d625e8f39b8565b5ebcaf44e8d35ffaf7d78ef96#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->

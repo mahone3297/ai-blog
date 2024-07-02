@@ -8,11 +8,9 @@ description = 'Explore Perplexica, an AI-driven open source search engine. Learn
 keywords = ['AI', 'Perplexica', 'Open Source', 'Search Engine', 'Machine Learning', 'SearxNG', 'LLMs']
 +++
 
-In the AI search engine market, there is a product called https://www.perplexity.ai/. Let's take a look at how it introduces itself:
+Previously, we introduced [Perplexcity](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976470&idx=1&sn=7a501a09ae52c2f900c44c1cf0e5c491&chksm=86c7d453b1b05d456ef6fa3cfe169ead60daef54eaa0fbc3d7c14f989fa34b0df159706d0871#rd).
 
-![How is Perplexity AI different?](how-perplexity-ai-different.png)
-
-In the open-source market, there is a comparable product called Perplexica. Let's check it out:
+Now, in the open-source market, there is also a comparable product called Perplexica. Let's check it out.
 
 ![perplexica](perplexica.png)
 
@@ -53,7 +51,7 @@ Using SearxNG to stay up-to-date and completely open source, Perplexica ensures 
    - `OPENAI`: Your OpenAI API key. **You only need to fill this if you wish to use OpenAI's models**.
    - `OLLAMA`: Your Ollama API URL. You should enter it as `http://host.docker.internal:PORT_NUMBER`. If you installed Ollama on port 11434, use `http://host.docker.internal:11434`. For other ports, adjust accordingly. **You need to fill this if you wish to use Ollama's models instead of OpenAI's**.
    - `GROQ`: Your Groq API key. **You only need to fill this if you wish to use Groq's hosted models**
-   
+
      **Note**: You can change these after starting Perplexica from the settings dialog.
    - `SIMILARITY_MEASURE`: The similarity measure to use (This is filled by default; you can leave it as is if you are unsure about it.)
 5. Ensure you are in the directory containing the `docker-compose.yaml` file and execute:
@@ -78,7 +76,7 @@ Using SearxNG to stay up-to-date and completely open source, Perplexica ensures 
 ---
 
 - [github](https://github.com/ItzCrazyKns/Perplexica)
-<!-- - [AI Blog - Learn AI from scratch](...) -->
+- [AI Blog - Learn AI from scratch](https://ai-blog.aihub2022.top/post/ai-perplexica-intro/)
 <!-- - [WeChat Official Account - Learn AI from scratch](...) -->
 <!-- - [CSDN - Learn AI from scratch](...) -->
 <!-- - [Juejin - Learn AI from scratch](...) -->
