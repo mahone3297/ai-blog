@@ -50,9 +50,8 @@ LLMs 被提示这样做。我们提示它们很好地自行引用答案，并使
 ---
 
 - [gitlab](https://github.com/ItzCrazyKns/Perplexica)
-<!-- - [AI 博客 - 从零开始学AI](...) -->
-<!-- - [AI Blog - Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-perplexica-architecture/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977525&idx=1&sn=a03cd38303e1170b07f4d52ef75fe63f&chksm=86c7c870b1b04166111f1aa5d6095c9f471e80099f8c7ce1031654fde376732aa5e05fb72133#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->

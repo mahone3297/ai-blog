@@ -50,3 +50,4 @@ Image and video searches are conducted in a similar manner. A query is always ge
 ---
 
 - [gitlab](https://github.com/ItzCrazyKns/Perplexica)
+- [AI Blog - Learn AI from scratch](https://ai-blog.aihub2022.top/post/ai-perplexica-architecture/)
