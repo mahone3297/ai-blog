@@ -16,10 +16,6 @@ keywords = ['awesome']
 - [百亿美金开源模型Llama3: 小札最新2万字访谈披露一切 · 全纪录+视频](https://mp.weixin.qq.com/s/MuSFe3BGgqnHVS-D57eI1w)
 ### AI search
 - [我做了一个 AI 搜索引擎](https://mp.weixin.qq.com/s/25eXZi1QgGYIPpXeDzkQrg)
-### Kimi
-- Context Caching
-    - [「上下文缓存」正式公测，推动长文本模型降本 90%](https://mp.weixin.qq.com/s/72ubEn-6kHUVw34AzI4Pyg)
-    - [Caching - Moonshot AI 开放平台](https://platform.moonshot.cn/docs/price/caching)
 
 ## 投资
 - [Founder Park 社区早期基金来了！不仅投你，还要帮你](https://mp.weixin.qq.com/s/H5hkinQG0mb38EDjB7Ss4w)
