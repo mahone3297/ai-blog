@@ -191,7 +191,7 @@ For detailed pricing, refer to the official documentation
 ---
 
 - [「上下文缓存」正式公测，推动长文本模型降本 90%](https://mp.weixin.qq.com/s/72ubEn-6kHUVw34AzI4Pyg)
-<!-- - [AI Blog - Learn AI from scratch](...) -->
+- [AI Blog - Learn AI from scratch](https://ai-blog.aihub2022.top/post/ai-kimi-context-caching/)
 <!-- - [公众号 - 从零开始学AI](...) -->
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->

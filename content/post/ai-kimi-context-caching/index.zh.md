@@ -191,9 +191,8 @@ is_prime(number_to_check)
 ---
 
 - [「上下文缓存」正式公测，推动长文本模型降本 90%](https://mp.weixin.qq.com/s/72ubEn-6kHUVw34AzI4Pyg)
-<!-- - [AI 博客 - 从零开始学AI](...) -->
-<!-- - [AI Blog - Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-kimi-context-caching/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977531&idx=1&sn=3bbe6d920cc7413973ccced37c04e014&chksm=86c7c87eb1b04168e7b4d3f4a7d9b98907457074be18122c4cd1759efa3be6cce0f572b8cbb2#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->
