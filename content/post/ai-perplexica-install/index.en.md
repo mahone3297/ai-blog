@@ -56,17 +56,14 @@ As mentioned in previous articles, if it knows the answer, it will respond direc
 
 ![perplexica-chat-2](perplexica-chat-2.png)
 
-![perplexica-chat-3](perplexica-chat-3.png)
-
-![perplexica-chat-4](perplexica-chat-4.png)
-
-Some of the subsequent questions trigger searches.
+This issue, if he doesn't know the answer, he will call search.
 
 The speed is a bit slow, possibly due to slow search or LLM, not sure for now.
 
 ---
 
 - [github](https://github.com/ItzCrazyKns/Perplexica)
+- [AI Blog - Learn AI from scratch](https://ai-blog.aihub2022.top/post/ai-perplexica-install/)
 <!-- - [AI Blog - Learn AI from scratch](...) -->
 <!-- - [AI 博客 - 从零开始学AI](...) -->
 <!-- - [WeChat Official Account - Learn AI from scratch](...) -->

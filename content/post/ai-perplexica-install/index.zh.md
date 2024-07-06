@@ -56,20 +56,15 @@ keywords = ['AI', 'Perplexica', '安装', 'Docker', '教程']
 
 ![perplexica-chat-2](perplexica-chat-2.png)
 
-![perplexica-chat-3](perplexica-chat-3.png)
-
-![perplexica-chat-4](perplexica-chat-4.png)
-
-后面的一些问题，都有调用搜索。
+这个问题，他不会，就调用搜索。
 
 速度有些慢，可能搜索慢，也可能 LLM 慢，暂时不确定。
 
 ---
 
 - [github](https://github.com/ItzCrazyKns/Perplexica)
-<!-- - [AI 博客 - 从零开始学AI](...) -->
-<!-- - [AI Blog - Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-perplexica-install/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977544&idx=1&sn=68dd5fbe6c1625459d17a2300ad0a2f9&chksm=86c7c80db1b0411b6a2161f08f3d8d4deb70e78ca3e046a9cadce0ffea9261679355edaaca13#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->
