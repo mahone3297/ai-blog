@@ -1,9 +1,9 @@
 +++
-title = '[AI Kuaishou Live-Portrait] 引领高效肖像动画新时代'
+title = '[AI 快手 LivePortrait] 引领高效肖像动画新时代'
 date = 2024-07-09T11:22:31+08:00
 draft = false
-categories = ['AI', 'Kuaishou', 'Live-Portrait']
-tags = ['AI', 'Kuaishou', 'Live-Portrait']
+categories = ['AI', '快手', 'LivePortrait']
+tags = ['AI', '快手', 'LivePortrait']
 description = '快手推出了 LivePortrait，具备拼接与重定向控制的高效肖像动画，下载代码，准备环境，下载预训练权重并开始推理。'
 keywords = ['AI', 'LivePortrait', '快手', '肖像动画', '拼接', '重定向']
 +++

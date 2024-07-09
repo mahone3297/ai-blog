@@ -1,9 +1,9 @@
 +++
-title = '[AI Kuaishou Live-Portrait] Leading the New Era of Efficient Portrait Animation'
+title = '[AI Kuaishou LivePortrait] Leading the New Era of Efficient Portrait Animation'
 date = 2024-07-09T11:22:31+08:00
 draft = false
-categories = ['AI', 'Kuaishou', 'Live-Portrait']
-tags = ['AI', 'Kuaishou', 'Live-Portrait']
+categories = ['AI', 'Kuaishou', 'LivePortrait']
+tags = ['AI', 'Kuaishou', 'LivePortrait']
 description = 'Kuaishou has launched LivePortrait, featuring efficient portrait animation with stitching and redirection control. Download the code, prepare the environment, download pre-trained weights, and start inference.'
 keywords = ['AI', 'LivePortrait', 'Kuaishou', 'portrait animation', 'stitching', 'redirection']
 +++
