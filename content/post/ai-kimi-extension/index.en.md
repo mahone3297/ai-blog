@@ -41,10 +41,4 @@ Open the sidebar mode and continuously converse with Kimi.
 
 ---
 
-<!-- - [AI Blog - Learn AI from scratch](...) -->
-<!-- - [Official Account - Learn AI from scratch](...) -->
-<!-- - [CSDN - Learn AI from scratch](...) -->
-<!-- - [Juejin - Learn AI from scratch](...) -->
-<!-- - [Zhihu - Learn AI from scratch](...) -->
-<!-- - [Alibaba Cloud - Learn AI from scratch](...) -->
-<!-- - [Tencent Cloud - Learn AI from scratch](...) -->
+- [AI Blog - Learn AI from scratch](https://ai-blog.aihub2022.top/post/ai-kimi-extension/)

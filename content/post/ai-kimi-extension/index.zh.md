@@ -41,9 +41,8 @@ Kimi 浏览器插件来了，下载地址 https://kimi.moonshot.cn/extension/dow
 
 ---
 
-<!-- - [AI 博客 - 从零开始学AI](...) -->
-<!-- - [AI Blog - Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-kimi-extension/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977561&idx=1&sn=1c11270a1ce217cbe81ec50723c8dcb3&chksm=86c7c81cb1b0410a8f9a80b664f65d72168826d9786589242266ca975bf63128341082e63482#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->
