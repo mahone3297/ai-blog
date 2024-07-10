@@ -16,7 +16,7 @@ Mixture-of-Agents (MoA) 是一种新颖的方法，它利用多个 LLMs 的集�
 
 我们看下架构图
 
-![together-moa-explained](https://github.com/togethercomputer/MoA/raw/main/assets/together-moa-explained.png)
+![together-moa-explained](together-moa-explained.png)
 
 ## 快速开始
 
@@ -54,7 +54,7 @@ bash run_eval_mt_bench.sh
 bash run_eval_flask.sh
 ```
 ### 结果
-![alpaca_and_mtbench](https://github.com/togethercomputer/MoA/raw/main/assets/alpaca_and_mtbench.png)
+![alpaca_and_mtbench](alpaca_and_mtbench.png)
 
 从结果上看，效果不错。
 
@@ -154,11 +154,8 @@ asyncio.run(main())
 ---
 
 - [github](https://github.com/togethercomputer/MoA)
-<!-- - [原文](...) -->
-<!-- - [original](...) -->
-<!-- - [AI 博客 - 从零开始学AI](...) -->
-<!-- - [AI Blog - Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-moa-intro/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977578&idx=1&sn=db5b5f93c0798440cd3739291db0f4c3&chksm=86c7c82fb1b041397ee86a1e75d855f080f85fc1938db57800fa794ad5e3ad738f41738de991#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->

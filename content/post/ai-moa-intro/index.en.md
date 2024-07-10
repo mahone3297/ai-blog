@@ -16,7 +16,7 @@ Mixture-of-Agents (MoA) is an innovative approach that leverages the collective 
 
 Let's look at the architecture diagram
 
-![together-moa-explained](https://github.com/togethercomputer/MoA/raw/main/assets/together-moa-explained.png)
+![together-moa-explained](together-moa-explained.png)
 
 ## Quick Start
 
@@ -54,7 +54,7 @@ bash run_eval_mt_bench.sh
 bash run_eval_flask.sh
 ```
 ### Results
-![alpaca_and_mtbench](https://github.com/togethercomputer/MoA/raw/main/assets/alpaca_and_mtbench.png)
+![alpaca_and_mtbench](alpaca_and_mtbench.png)
 
 From the results, the performance looks good.
 
@@ -154,8 +154,7 @@ The dataset is [here](https://huggingface.co/datasets/tatsu-lab/alpaca_eval/blob
 ---
 
 - [github](https://github.com/togethercomputer/MoA)
-<!-- - [original](...) -->
-<!-- - [AI Blog - Learn AI from scratch](...) -->
+- [AI Blog - Learn AI from scratch](https://ai-blog.aihub2022.top/post/ai-moa-intro/)
 <!-- - [公众号 - 从零开始学AI](...) -->
 <!-- - [CSDN - Learn AI from scratch](...) -->
 <!-- - [掘金 - Learn AI from scratch](...) -->
