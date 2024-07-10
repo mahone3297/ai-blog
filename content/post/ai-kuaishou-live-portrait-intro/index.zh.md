@@ -27,6 +27,9 @@ pip install -r requirements.txt
 
 ### 下载预训练权重
 
+- [Google Drive](https://drive.google.com/drive/folders/1UtKgzKjFAOmZkhNK-OYT0caJ_w2XAnib)
+- [Baidu Yun](https://pan.baidu.com/s/1MGctWmNla_vZxDbEp2Dtzw?pwd=z5cn)
+
 ```bash
 pretrained_weights
 ├── insightface
@@ -89,11 +92,8 @@ apt-get update && apt-get install ffmpeg libsm6 libxext6  -y
 
 - [homepage](https://liveportrait.github.io/)
 - [github](https://github.com/KwaiVGI/LivePortrait)
-<!-- - [原文](...) -->
-<!-- - [original](...) -->
-<!-- - [AI 博客 - 从零开始学AI](...) -->
-<!-- - [AI Blog - Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-kuaishou-live-portrait-intro/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977569&idx=1&sn=fc7062cb3bc8fb45cde2daa9bfdfd9e4&chksm=86c7c824b1b04132e3ef44c5eb16626342b2d4f189160183573311b159a45495020faec6fc0a#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->

@@ -27,6 +27,9 @@ pip install -r requirements.txt
 
 ### Download pre-trained weights
 
+- [Google Drive](https://drive.google.com/drive/folders/1UtKgzKjFAOmZkhNK-OYT0caJ_w2XAnib)
+- [Baidu Yun](https://pan.baidu.com/s/1MGctWmNla_vZxDbEp2Dtzw?pwd=z5cn)
+
 ```bash
 pretrained_weights
 ├── insightface
@@ -89,8 +92,7 @@ apt-get update && apt-get install ffmpeg libsm6 libxext6 -y
 
 - [homepage](https://liveportrait.github.io/)
 - [github](https://github.com/KwaiVGI/LivePortrait)
-<!-- - [original](...) -->
-<!-- - [AI Blog - Learn AI from scratch](...) -->
+- [AI Blog - Learn AI from scratch](https://ai-blog.aihub2022.top/post/ai-kuaishou-live-portrait-intro/)
 <!-- - [公众号 - Learn AI from scratch](...) -->
 <!-- - [CSDN - Learn AI from scratch](...) -->
 <!-- - [Juejin - Learn AI from scratch](...) -->
