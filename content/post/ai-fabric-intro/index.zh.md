@@ -1,5 +1,5 @@
 +++
-title = '[AI Fabric] 解锁AI的未来：深入探索Fabric开源框架'
+title = '[AI Fabric] Prompt原来应该这样用'
 date = 2024-07-10T21:30:31+08:00
 draft = false
 categories = ['AI', 'Fabric']
@@ -346,11 +346,18 @@ Take a deep breath and think step by step about how to best accomplish this goal
 INPUT:
 ```
 
+## prompt 该怎么用？
+
+- 明确的指令
+- 结构化
+- 版本管理
+- 集成到软件中
+
 ---
 
 - [github](https://github.com/danielmiessler/fabric)
 - [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-fabric-intro/)
-- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977587&idx=1&sn=06564d3c92a031bc7199e52af1bf4e6a&chksm=86c7c836b1b0412066f5a07b4077783a2c211e38bdb9bbf44440af39329a455eb41636664f9b#rd)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977593&idx=1&sn=d169763d372b1205ee3817ff60c7f7f1&chksm=86c7c83cb1b0412abe6300a5e6500b705b38ade716147600242b34043756e504d4ce56efb1d5#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->

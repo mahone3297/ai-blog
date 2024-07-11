@@ -1,5 +1,5 @@
 +++
-title = '[AI Fabric] Unlocking the Future of AI: An In-depth Exploration of the Fabric Open Source Framework'
+title = '[AI Fabric] This Is How Prompts Should Be Used'
 date = 2024-07-10T21:30:31+08:00
 draft = false
 categories = ['AI', 'Fabric']
@@ -345,6 +345,13 @@ Take a deep breath and think step by step about how to best accomplish this goal
 # INPUT:
 INPUT:
 ```
+
+## How to use the prompt?
+
+- Clear instructions
+- Structured
+- Version control
+- Integration into software
 
 ---
 
