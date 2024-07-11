@@ -329,7 +329,6 @@ You are an expert prompt summarizer. You take AI chat prompts in and output a co
 Take a deep breath and think step by step about how to best accomplish this goal using the following steps.
 
 # OUTPUT SECTIONS
-
 - Combine all of your understanding of the content into a single, paragraph.
 - The first sentence should summarize the main purpose. Begin with a verb and describe the primary function of the prompt. Use the present tense and active voice. Avoid using the prompt's name in the summary. Instead, focus on the prompt's primary function or goal.
 - The second sentence clarifies the prompt's nuanced approach or unique features.
@@ -350,11 +349,8 @@ INPUT:
 ---
 
 - [github](https://github.com/danielmiessler/fabric)
-<!-- - [原文](...) -->
-<!-- - [original](...) -->
-<!-- - [AI 博客 - 从零开始学AI](...) -->
-<!-- - [AI Blog - Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-fabric-intro/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977587&idx=1&sn=06564d3c92a031bc7199e52af1bf4e6a&chksm=86c7c836b1b0412066f5a07b4077783a2c211e38bdb9bbf44440af39329a455eb41636664f9b#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->
