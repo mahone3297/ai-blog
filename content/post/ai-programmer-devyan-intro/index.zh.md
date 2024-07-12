@@ -42,7 +42,7 @@ SERPER_API_KEY=your_serper_api_key_here
 
 ## 使用
 
-```python
+```bash
 python main.py
 ```
 
@@ -54,9 +54,8 @@ python main.py
 ---
 
 - [github](https://github.com/theyashwanthsai/Devyan)
-<!-- - [AI 博客 - 从零开始学AI](...) -->
-<!-- - [AI Blog - Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-programmer-devyan-intro/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977599&idx=1&sn=7ee03a434c3bfd9226ce3aaa2a4f0f4a&chksm=86c7c83ab1b0412cd4621308e52246614ddca3895f9eedfae8acf97405850e44c2fb5974b0b6#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->
