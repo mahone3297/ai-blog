@@ -1,5 +1,5 @@
 +++
-title = '[AI CrewAI] Building AI Teams to Collaborate and Complete Tasks'
+title = '[AI CrewAI] Be the Boss, Form an AI Team, and Collaborate with AI Agents to Complete Tasks'
 date = 2024-07-13T12:43:34+08:00
 draft = false
 categories = ['AI', 'CrewAI']
@@ -129,8 +129,10 @@ This allows us to focus on the tasks themselves, rather than the interactions be
 ---
 
 - [github](https://github.com/crewAIInc/crewAI)
-- https://github.com/joaomdmoura/crewai-examples
-<!-- - [AI Blog - Learn AI from scratch](...) -->
+- [crewai-examples](https://github.com/joaomdmoura/crewai-examples)
+- [pipx install](https://pipx.pypa.io/stable/installation/)
+- [poetry install](https://python-poetry.org/docs/#installation)
+- [AI Blog - Learn AI from scratch](https://ai-blog.aihub2022.top/post/ai-crewai-intro/)
 <!-- - [公众号 - 从零开始学AI](...) -->
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->

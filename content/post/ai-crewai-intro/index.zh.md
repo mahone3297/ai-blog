@@ -1,5 +1,5 @@
 +++
-title = '[AI CrewAI] 组建AI团队，协作AI Agent完成任务'
+title = '[AI CrewAI] 你来当老板，组建AI团队，协作AI Agent完成任务'
 date = 2024-07-13T12:43:34+08:00
 draft = false
 categories = ['AI', 'CrewAI']
@@ -129,10 +129,11 @@ CrewAI的优势：CrewAI是专为生产环境设计的。它提供了与Autogen�
 ---
 
 - [github](https://github.com/crewAIInc/crewAI)
-- https://github.com/joaomdmoura/crewai-examples
-<!-- - [AI 博客 - 从零开始学AI](...) -->
-<!-- - [AI Blog - Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [crewai-examples](https://github.com/joaomdmoura/crewai-examples)
+- [pipx install](https://pipx.pypa.io/stable/installation/)
+- [poetry install](https://python-poetry.org/docs/#installation)
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-crewai-intro/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977605&idx=1&sn=d38e71a05a0b850ad32064dc9454e4bc&chksm=86c7c9c0b1b040d6532d69a67acb797d512bfaadb56483ab046d9219abd1fa3f91063f42ac1d#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->
