@@ -2,8 +2,8 @@
 title = '[AI Programmer Devyan] Finally Found Someone to Write Code for Me'
 date = 2024-07-12T13:02:30+08:00
 draft = false
-categories = ['AI', 'AI Programmer']
-tags = ['AI', 'AI Programmer', 'Devyan', 'crewai']
+categories = ['AI', 'CrewAI']
+tags = ['AI', 'AI Programmer', 'Devyan', 'CrewAI']
 description = 'Learn how Devyan, an AI-driven programming assistant, simplifies and optimizes the software development process by coordinating multiple roles.'
 keywords = ['AI', 'Artificial Intelligence', 'Programming Assistant', 'Software Development', 'Devyan', 'crewai']
 +++
