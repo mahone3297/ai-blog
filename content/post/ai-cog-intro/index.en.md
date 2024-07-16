@@ -1,5 +1,5 @@
 +++
-title = '[AI Cog] Want to Run an AI Business but Lack a GPU? Can't Set Up the Environment? Use Cog to Easily Deploy Your Business to the Cloud'
+title = '[AI Cog] Want to Run an AI Business but Lack a GPU? Cant Set Up the Environment? Use Cog to Easily Deploy Your Business to the Cloud'
 date = 2024-07-16T14:24:34+08:00
 draft = false
 categories = ['AI', 'Cog']
