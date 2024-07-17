@@ -1,5 +1,6 @@
 +++
 title = '[AI Cog] Want to Run an AI Business but Lack a GPU? Cant Set Up the Environment? Use Cog to Easily Deploy Your Business to the Cloud'
+image = 'featured-image.jpeg'
 date = 2024-07-16T14:24:34+08:00
 draft = false
 categories = ['AI', 'Cog']
@@ -160,10 +161,7 @@ The example does not use a GPU. Check the documentation if needed.
     - [container-toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html)
 - [push-a-model](https://replicate.com/docs/guides/push-a-model)
     - [docker install](https://docs.docker.com/engine/install/ubuntu/)
-
----
-
-<!-- - [AI Blog - Learn AI from Scratch](...) -->
+- [AI Blog - Learn AI from scratch](https://ai-blog.aihub2022.top/post/ai-cog-intro/)
 <!-- - [WeChat Public Account - Learn AI from Scratch](...) -->
 <!-- - [CSDN - Learn AI from Scratch](...) -->
 <!-- - [Juejin - Learn AI from Scratch](...) -->

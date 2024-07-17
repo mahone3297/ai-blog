@@ -1,5 +1,6 @@
 +++
 title = '[AI Cog] 想要运营AI业务，但没有GPU？环境搞不定？使用Cog帮您轻松将业务部署上云'
+image = 'featured-image.jpeg'
 date = 2024-07-16T14:24:34+08:00
 draft = false
 categories = ['AI', 'Cog']
@@ -160,12 +161,8 @@ cog push r8.im/<your-username>/<your-model-name>
     - [container-toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html)
 - [push-a-model](https://replicate.com/docs/guides/push-a-model)
     - [docker install](https://docs.docker.com/engine/install/ubuntu/)
-
----
-
-<!-- - [AI 博客 - 从零开始学AI](...) -->
-<!-- - [AI Blog - Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-cog-intro/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977615&idx=1&sn=02e8aa36aea8dc3864154d15ae4c7b33&chksm=86c7c9cab1b040dca42760357effa46a64bee92a8391bb40df8a48991a86e8cb7ee84f762488#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->
