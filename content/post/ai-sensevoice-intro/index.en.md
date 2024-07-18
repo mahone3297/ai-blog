@@ -166,7 +166,7 @@ python webui.py
 
 - [homepage](https://fun-audio-llm.github.io/)
 - [online demo](https://www.modelscope.cn/studios/iic/SenseVoice)
-<!-- - [AI Blog - Learn AI from scratch](...) -->
+- [AI Blog - Learn AI from scratch](https://ai-blog.aihub2022.top/post/ai-sensevoice-intro/)
 <!-- - [WeChat Official Account - Learn AI from scratch](...) -->
 <!-- - [CSDN - Learn AI from scratch](...) -->
 <!-- - [Juejin - Learn AI from scratch](...) -->

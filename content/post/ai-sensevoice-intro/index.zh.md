@@ -166,9 +166,8 @@ python webui.py
 
 - [homepage](https://fun-audio-llm.github.io/)
 - [online demo](https://www.modelscope.cn/studios/iic/SenseVoice)
-<!-- - [AI 博客 - 从零开始学AI](...) -->
-<!-- - [AI Blog - Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-sensevoice-intro/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977621&idx=1&sn=c52c7b1bfd9e31272a8be0dff34b4740&chksm=86c7c9d0b1b040c6e02214d67ede3df9cd56065602cb32033a193cf3b83f7bbe747d1f58bf34#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->
