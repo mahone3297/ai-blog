@@ -26,6 +26,8 @@ keywords = ['awesome']
 - [【精校】Google I/O 2024大会 | 2小时完整版【中英】](https://www.bilibili.com/video/BV1x1421q7xZ/)
 ### NVIDIA
 - [从零到三万亿：NVIDIA的史诗崛起](https://mp.weixin.qq.com/s/P_e0QfyyGjL7wClAi8u_Cg)
+### DeepSeek
+- [揭秘DeepSeek:一个更极致的中国技术理想主义故事](https://mp.weixin.qq.com/s/r9zZaEgqAa_lml_fOEZmjg)
 
 ## 人
 ### 马斯克
