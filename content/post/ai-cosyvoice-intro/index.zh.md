@@ -141,8 +141,7 @@ python3 fastapi/client.py --port 50000 --mode <sft|zero_shot|cross_lingual|instr
 
 - [github](https://github.com/FunAudioLLM/CosyVoice)
 - [online demo](https://www.modelscope.cn/studios/iic/CosyVoice-300M)
-<!-- - [AI 博客 - 从零开始学AI](...) -->
-<!-- - [AI Blog - Learn AI from scratch](...) -->
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-cosyvoice-intro/)
 <!-- - [公众号 - 从零开始学AI](...) -->
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
