@@ -19,6 +19,7 @@ description = "小米（Xiaomi）是一家知名的科技公司，由雷军创�
 
 ## 雷军
 
+- [雷军年度演讲：小米造车，勇气从何而来，又如何冲出重围？](https://mp.weixin.qq.com/s/dWAcaenAanYJpRPiA50nUA)
 - [雷军武大演讲：相信自己，每个人的人生都有无限可能！](https://mp.weixin.qq.com/s/poKFingit1zMAf-tkbvLOw)
 - [雷军：小米14系列、小米澎湃OS重磅发布，一起见证跨越时刻！](https://mp.weixin.qq.com/s/yVatKNDYaEPabwTyVN-1wQ)
 - [雷军：小米双十一全渠道支付金额超过224亿元，突破新纪录！](https://mp.weixin.qq.com/s/fkVN-GL_sVvKvWyoqNvPig) 小米发布会视频
@@ -39,7 +40,7 @@ description = "小米（Xiaomi）是一家知名的科技公司，由雷军创�
 ---
 
 - 本文
-    - [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/post/xiaomi-leijun/)
+    - [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/xiaomi-leijun/)
     <!-- - [微信 - 从零开始学AI](...) -->
     <!-- - [CSDN - 从零开始学AI](...) -->
     <!-- - [掘金 - 从零开始学AI](...) -->
