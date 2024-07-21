@@ -41,8 +41,7 @@ Mem0为大型语言模型（LLMs）实现的记忆与检索增强生成（RAG）
 
 - [github](https://github.com/mem0ai/mem0)
 - [doc](https://docs.mem0.ai/overview)
-<!-- - [AI 博客 - 从零开始学AI](...) -->
-<!-- - [AI Blog - Learn AI from scratch](...) -->
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-mem0-intro/)
 - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977639&idx=1&sn=f57cc58a2dbd97bfb87af7deafa5ccb0&chksm=86c7c9e2b1b040f45904c8cdf5e53af16c15759e41d7fc33038ad37acbb43c08d1c4aeee9c24#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
