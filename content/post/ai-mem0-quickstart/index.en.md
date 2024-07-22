@@ -199,7 +199,7 @@ m.reset() # Reset all memories
 
 - [GitHub](https://github.com/mem0ai/mem0)
 - [Documentation](https://docs.mem0.ai/overview)
-<!-- - [AI Blog - Learn AI from scratch](...) -->
+- [AI Blog - Learn AI from scratch](https://ai-blog.aihub2022.top/post/ai-mem0-quickstart/)
 <!-- - [Official WeChat Account - Learn AI from scratch](...) -->
 <!-- - [CSDN - Learn AI from scratch](...) -->
 <!-- - [Juejin - Learn AI from scratch](...) -->
