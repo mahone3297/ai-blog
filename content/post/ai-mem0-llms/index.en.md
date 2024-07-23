@@ -1,5 +1,5 @@
 +++
-title = '[AI Mem0] Large Models: One-stop Integration of Multiple Top AI Models to Boost Efficiency'
+title = '[AI Mem0] Large Language Models: One-stop Integration of Multiple Top AI Models to Boost Efficiency'
 date = 2024-07-23T09:38:35+08:00
 draft = false
 categories = ['AI', 'Mem0']
@@ -229,7 +229,7 @@ m.add("Likes to play cricket on weekends", user_id="alice", metadata={"category"
 
 - [github](https://github.com/mem0ai/mem0)
 - [doc](https://docs.mem0.ai/overview)
-<!-- - [AI Blog - Learn AI from scratch](...) -->
+- [AI Blog - Learn AI from scratch](https://ai-blog.aihub2022.top/post/ai-mem0-llms/)
 <!-- - [WeChat - Learn AI from scratch](...) -->
 <!-- - [CSDN - Learn AI from scratch](...) -->
 <!-- - [Juejin - Learn AI from scratch](...) -->

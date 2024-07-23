@@ -1,5 +1,5 @@
 +++
-title = '[AI Mem0] 大模型：一站式集成多种顶级AI模型，提升工作效率'
+title = '[AI Mem0] 大语言模型：一站式集成多种顶级AI模型，提升工作效率'
 date = 2024-07-23T09:38:35+08:00
 draft = false
 categories = ['AI', 'Mem0']
@@ -229,9 +229,8 @@ m.add("Likes to play cricket on weekends", user_id="alice", metadata={"category"
 
 - [github](https://github.com/mem0ai/mem0)
 - [doc](https://docs.mem0.ai/overview)
-<!-- - [AI 博客 - 从零开始学AI](...) -->
-<!-- - [AI Blog - Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-mem0-llms/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977651&idx=1&sn=3fe4add0f67efec6d4682d251fe10689&chksm=86c7c9f6b1b040e07609459eb7e6d33ea95594d9c3d6f3556354223f82acb898beba37e1362a#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->
