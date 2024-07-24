@@ -28,6 +28,8 @@ keywords = ['awesome']
 - [从零到三万亿：NVIDIA的史诗崛起](https://mp.weixin.qq.com/s/P_e0QfyyGjL7wClAi8u_Cg)
 ### DeepSeek
 - [揭秘DeepSeek:一个更极致的中国技术理想主义故事](https://mp.weixin.qq.com/s/r9zZaEgqAa_lml_fOEZmjg)
+### 心识宇宙
+- [专访丨陶芳波，正在用 Me.bot 构建人与 AI 共生的宇宙](https://mp.weixin.qq.com/s/Vkn3RQa3i6ljEPhCF9Tupg)
 
 ## 人
 ### 马斯克
