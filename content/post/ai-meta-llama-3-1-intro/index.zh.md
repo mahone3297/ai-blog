@@ -49,9 +49,8 @@ keywords = ['AI', 'Meta', 'Llama-3.1', '开源', '模型微调', '部署', '成�
 ---
 
 - [Llama](https://llama.meta.com/)
-<!-- - [AI 博客 - 从零开始学AI](...) -->
-<!-- - [AI Blog - Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-meta-llama-3-1-intro/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977663&idx=1&sn=c956c3157be9073e1378c64bcf3f3286&chksm=86c7c9fab1b040ecd43d9d527e840e1973b197af21dbe08b1459e264ad563d47601ca9d643d5#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->

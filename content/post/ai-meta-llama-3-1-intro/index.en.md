@@ -49,7 +49,7 @@ As of 2024-07-23 12:00 PST, public pricing for hosting Llama 3.1 inference API i
 ---
 
 - [Llama](https://llama.meta.com/)
-<!-- - [AI Blog - Learn AI from scratch](...) -->
+- [AI Blog - Learn AI from scratch](https://ai-blog.aihub2022.top/post/ai-meta-llama-3-1-intro/)
 <!-- - [Official Account - Learn AI from scratch](...) -->
 <!-- - [CSDN - Learn AI from scratch](...) -->
 <!-- - [Juejin - Learn AI from scratch](...) -->
