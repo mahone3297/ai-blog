@@ -97,9 +97,8 @@ print(browse_result)
 
 - [github](https://github.com/mem0ai/mem0)
 - [doc](https://docs.mem0.ai/overview)
-<!-- - [AI 博客 - 从零开始学AI](...) -->
-<!-- - [AI Blog - Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-mem0-integrate-multion/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977669&idx=1&sn=d5b14f81cf35fff748efbbd7bc8d6888&chksm=86c7c980b1b040967d0acfb87f9fbdf662ae298ce3f5faeba6fc91d647b21b8f15472f402049#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->

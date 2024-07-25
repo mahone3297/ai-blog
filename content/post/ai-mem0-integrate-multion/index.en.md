@@ -97,6 +97,7 @@ Later, we will look at the implementation of Mem0 together and see how to achiev
 
 - [github](https://github.com/mem0ai/mem0)
 - [doc](https://docs.mem0.ai/overview)
+- [AI Blog - Learn AI from scratch](https://ai-blog.aihub2022.top/post/ai-mem0-integrate-multion/)
 <!-- - [AI Blog - Learn AI from Scratch](...) -->
 <!-- - [WeChat Official Account - Learn AI from Scratch](...) -->
 <!-- - [CSDN - Learn AI from Scratch](...) -->
