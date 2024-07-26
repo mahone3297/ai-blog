@@ -42,6 +42,7 @@ keywords = ["新东方", "俞敏洪", "西藏自驾", "老俞闲话", "对话", 
 
 ## 老俞闲话
 
+- [致东方甄选股东朋友的一封公开信](https://mp.weixin.qq.com/s/sCcbP5VxxK639gAtzf7Jew)
 - [老俞闲话丨道阻且长，行则将至！](https://mp.weixin.qq.com/s/F0ic6kvgmqRHJg7O23YjZQ) 演讲
 - [老俞闲话丨一直在路上](https://mp.weixin.qq.com/s/-FxSMS2zK2KpV-dw87cqug)
 - [老俞闲话 | 大学生公益直播：把握人生发展的关键点](https://mp.weixin.qq.com/s/0J9TIFQBEGU8WGM2KQZVRA) 演讲
