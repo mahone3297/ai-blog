@@ -4,7 +4,7 @@ date = 2024-07-26T10:15:04+08:00
 draft = false
 categories = ['AI', 'OpenAI']
 tags = ['AI', 'OpenAI', 'SearchGPT']
-description = 'Learn about OpenAI's latest search feature prototype, SearchGPT, and how it combines AI models with web information to provide quick and accurate answers.'
+description = 'Learn about OpenAI latest search feature prototype, SearchGPT, and how it combines AI models with web information to provide quick and accurate answers.'
 keywords = ['AI', 'OpenAI', 'SearchGPT', 'AI Search', 'AI Prototype', 'Intelligent Search']
 +++
 
