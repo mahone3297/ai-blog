@@ -44,9 +44,8 @@ keywords = ['AI', 'OpenAI', 'SearchGPT', 'AI搜索', 'AI原型', '智能搜索']
 
 - https://chatgpt.com/search
 - https://openai.com/index/searchgpt-prototype/
-<!-- - [AI 博客 - 从零开始学AI](...) -->
-<!-- - [AI Blog - Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-openai-searchgpt-prototype/))
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977675&idx=1&sn=41e3fecbefc051dacaed1ff55595a5ea&chksm=86c7c98eb1b040980832a396e3f6595949fa1109876775e60b450a263849ee4547c7b871bfab#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->

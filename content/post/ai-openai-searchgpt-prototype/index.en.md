@@ -44,11 +44,4 @@ We will continue to improve the experience in areas like local information and c
 
 - https://chatgpt.com/search
 - https://openai.com/index/searchgpt-prototype/
-<!-- - [AI Blog - Learn AI from Scratch](...) -->
-<!-- - [AI Blog - Learn AI from Scratch](...) -->
-<!-- - [WeChat Official Account - Learn AI from Scratch](...) -->
-<!-- - [CSDN - Learn AI from Scratch](...) -->
-<!-- - [Juejin - Learn AI from Scratch](...) -->
-<!-- - [Zhihu - Learn AI from Scratch](...) -->
-<!-- - [Alibaba Cloud - Learn AI from Scratch](...) -->
-<!-- - [Tencent Cloud - Learn AI from Scratch](...) -->
+- [AI Blog - Learn AI from scratch](https://ai-blog.aihub2022.top/post/ai-openai-searchgpt-prototype/
