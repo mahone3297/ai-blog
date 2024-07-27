@@ -337,10 +337,4 @@ This personalized AI travel assistant uses Mem0's memory capabilities to provide
 
 - [github](https://github.com/mem0ai/mem0)
 - [doc](https://docs.mem0.ai/overview)
-<!-- - [AI Blog - Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
-<!-- - [CSDN - 从零开始学AI](...) -->
-<!-- - [Juejin - 从零开始学AI](...) -->
-<!-- - [Zhihu - 从零开始学AI](...) -->
-<!-- - [Alibaba Cloud - Learn AI from scratch](...) -->
-<!-- - [Tencent Cloud - Learn AI from scratch](...) -->
+- [AI Blog - Learn AI from scratch](https://ai-blog.aihub2022.top/post/ai-mem0-example/)
