@@ -12,10 +12,10 @@ keywords = ['awesome']
 ### RAG
 - [一文详谈RAG优化方案与实践](https://mp.weixin.qq.com/s/HT9bjXpwoSszU_ru-e-9dw)
 - [Vector | Graph：蚂蚁首个开源Graph RAG框架设计解读](https://mp.weixin.qq.com/s/hd2FzO2p15ERbHe0w87J8Q)
-### Llama-3
-- [百亿美金开源模型Llama3: 小札最新2万字访谈披露一切 · 全纪录+视频](https://mp.weixin.qq.com/s/MuSFe3BGgqnHVS-D57eI1w)
 ### AI search
 - [我做了一个 AI 搜索引擎](https://mp.weixin.qq.com/s/25eXZi1QgGYIPpXeDzkQrg)
+### App
+- [一篇长文搭建AI大模型应用平台架构](https://mp.weixin.qq.com/s/z4yZYobPukxtvizfuX8qRA)
 
 ## 投资
 - [Founder Park 社区早期基金来了！不仅投你，还要帮你](https://mp.weixin.qq.com/s/H5hkinQG0mb38EDjB7Ss4w)
@@ -26,10 +26,14 @@ keywords = ['awesome']
 - [【精校】Google I/O 2024大会 | 2小时完整版【中英】](https://www.bilibili.com/video/BV1x1421q7xZ/)
 ### NVIDIA
 - [从零到三万亿：NVIDIA的史诗崛起](https://mp.weixin.qq.com/s/P_e0QfyyGjL7wClAi8u_Cg)
+### Meta
+- [百亿美金开源模型Llama3: 小札最新2万字访谈披露一切 · 全纪录+视频](https://mp.weixin.qq.com/s/MuSFe3BGgqnHVS-D57eI1w)
 ### DeepSeek
 - [揭秘DeepSeek:一个更极致的中国技术理想主义故事](https://mp.weixin.qq.com/s/r9zZaEgqAa_lml_fOEZmjg)
 ### 心识宇宙
 - [专访丨陶芳波，正在用 Me.bot 构建人与 AI 共生的宇宙](https://mp.weixin.qq.com/s/Vkn3RQa3i6ljEPhCF9Tupg)
+### Luma
+- [专访Luma AI首席科学家：我们更相信多模态的Scaling Law，视频是通往3D的更好路线](https://mp.weixin.qq.com/s/csH1J8jCVQ8bDUCwq0d4rQ)
 
 ## 人
 ### 马斯克
