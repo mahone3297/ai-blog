@@ -176,3 +176,4 @@ client.add("Delete all of my book preferences", user_id="learn-ai-from-scratch")
 
 - [github](https://github.com/mem0ai/mem0)
 - [doc](https://docs.mem0.ai/overview)
+- [AI Blog - Learn AI from scratch](https://ai-blog.aihub2022.top/post/ai-mem0-platform-quickstart/)

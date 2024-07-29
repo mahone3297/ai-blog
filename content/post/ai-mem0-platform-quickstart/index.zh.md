@@ -176,9 +176,8 @@ client.add("删除我所有的书籍偏好", user_id="从零开始学AI")
 
 - [github](https://github.com/mem0ai/mem0)
 - [doc](https://docs.mem0.ai/overview)
-<!-- - [AI 博客 - 从零开始学AI](...) -->
-<!-- - [AI Blog - Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-mem0-platform-quickstart/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977689&idx=1&sn=1dddcc163f52994516fc9d5b37fb58d5&chksm=86c7c99cb1b0408a1647cb2cf3eec12185ca85a6dcd85dcc8220c530f62bf7fdf59cff9440d7#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->
