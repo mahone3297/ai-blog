@@ -8,6 +8,8 @@ description = "This article will delve into the source code of Mem0, giving you 
 keywords = ["AI", "Mem0", "Source Code Analysis", "Tutorial", "Machine Learning", "Deep Learning", "Artificial Intelligence"]
 +++
 
+How is Mem0's CRUD implemented? Let's look at the source code.
+
 ## Usage
 
 First, let's look at how to use Mem0
@@ -48,8 +50,6 @@ history = m.history(memory_id=<memory_id_1>)
 ```
 
 ## MemoryBase
-
-How is Mem0's CRUD implemented? Let's look at the source code.
 
 MemoryBase is an abstract class that defines some interface methods:
 
@@ -515,3 +515,4 @@ class VectorStoreBase(ABC):
 
 - [github](https://github.com/mem0ai/mem0)
 - [doc](https://docs.mem0.ai/overview)
+- [AI Blog - Learn AI from scratch](https://ai-blog.aihub2022.top/post/ai-mem0-source-code-analyse/)

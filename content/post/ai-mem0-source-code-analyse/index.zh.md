@@ -8,9 +8,11 @@ description = "本文将深入解析 Mem0 的源码，带你全面了解其实�
 keywords = ["AI", "Mem0", "源码解析", "教程", "机器学习", "深度学习", "人工智能"]
 +++
 
+Mem0 的 CRUD 到底是如何实现的？我们来看下源码。
+
 ## 使用
 
-先来看下，如何 Mem0 的使用
+先来看下，如何使用 Mem0
 
 ```python
 import os
@@ -48,8 +50,6 @@ history = m.history(memory_id=<memory_id_1>)
 ```
 
 ## MemoryBase
-
-Mem0 的 CRUD 到底是如何实现的？我们来看下源码。
 
 MemoryBase 是一个抽象类，定义了一些接口方法
 
@@ -515,9 +515,8 @@ class VectorStoreBase(ABC):
 
 - [github](https://github.com/mem0ai/mem0)
 - [doc](https://docs.mem0.ai/overview)
-<!-- - [AI 博客 - 从零开始学AI](...) -->
-<!-- - [AI Blog - Learn AI from scratch](...) -->
-<!-- - [公众号 - 从零开始学AI](...) -->
+- [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/zh/post/ai-mem0-source-code-analyse/)
+- [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977696&idx=1&sn=6941054093ab4e704464534c10a75afa&chksm=86c7c9a5b1b040b3bc6b6253a1ac8df946da97b260e8dfb13c6a17af2b06e2d33e39c2496196#rd)
 <!-- - [CSDN - 从零开始学AI](...) -->
 <!-- - [掘金 - 从零开始学AI](...) -->
 <!-- - [知乎 - 从零开始学AI](...) -->
