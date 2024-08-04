@@ -5,7 +5,7 @@ draft = false
 categories = ['AI']
 tags = ['AI']
 description = ''
-keywords = ['AI']
+keywords = ['从零开始学AI']
 +++
 
 ---
