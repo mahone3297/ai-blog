@@ -42,6 +42,7 @@ keywords = ["新东方", "俞敏洪", "西藏自驾", "老俞闲话", "对话", 
 
 ## 老俞闲话
 
+- [老俞闲话｜人生潇洒处的历史回望](https://mp.weixin.qq.com/s/fjkQbrwS3fo1T40JaLsEMQ)
 - [致东方甄选股东朋友的一封公开信](https://mp.weixin.qq.com/s/sCcbP5VxxK639gAtzf7Jew)
 - [老俞闲话丨道阻且长，行则将至！](https://mp.weixin.qq.com/s/F0ic6kvgmqRHJg7O23YjZQ) 演讲
 - [老俞闲话丨一直在路上](https://mp.weixin.qq.com/s/-FxSMS2zK2KpV-dw87cqug)
@@ -258,15 +259,3 @@ keywords = ["新东方", "俞敏洪", "西藏自驾", "老俞闲话", "对话", 
 - [老俞闲话丨在海天之间，寻找适意的生命！（二）](https://mp.weixin.qq.com/s/RUNY8a2akKICMklfKPJHOQ)
 - [老俞闲话丨在海天之间，寻找适意的生命！（三）](https://mp.weixin.qq.com/s/9nMkNwo5VwVAhDz19MsH1A)
 - [老俞闲话丨在海天之间，寻找适意的生命！（四）](https://mp.weixin.qq.com/s/7jOB22Fz80ujoIMlZ4cwJg)
-
----
-
-<!-- - [官网](...) -->
-- 从零开始学AI
-    - [AI 博客 - 从零开始学AI](https://ai-blog.aihub2022.top/post/xdf-yuminhong/)
-    <!-- - [微信 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
-    <!-- - [阿里云 - 从零开始学AI](...) -->
-    <!-- - [腾讯云 - 从零开始学AI](...) -->
