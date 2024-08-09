@@ -34,6 +34,8 @@ keywords = ['awesome']
 - [专访丨陶芳波，正在用 Me.bot 构建人与 AI 共生的宇宙](https://mp.weixin.qq.com/s/Vkn3RQa3i6ljEPhCF9Tupg)
 ### Luma
 - [专访Luma AI首席科学家：我们更相信多模态的Scaling Law，视频是通往3D的更好路线](https://mp.weixin.qq.com/s/csH1J8jCVQ8bDUCwq0d4rQ)
+### Perplexity
+- [1500 万月活的 AI 搜索：理解用户、做好产品，比模型更重要](https://mp.weixin.qq.com/s/mFB2mo6CwXMjzkC5znYLWg)
 
 ## 人
 ### 马斯克
